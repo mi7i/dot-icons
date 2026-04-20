@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#96a3ad;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#c4c8cd;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
+    <path d="m30 16.999-8 7h-6c-2.216 0-4 1.784-4 4v8c0 2.216 1.784 4 4 4h6l8 7z" style="fill:#fff;stroke-width:4;stroke-linecap:round"/>
+    <path d="M42.629 16.284a1 1 0 0 0-.387.027A1 1 0 0 0 42 18.143c4.952 2.859 8 8.138 8 13.856a16 16 0 0 1-8 13.855 1 1 0 1 0 1 1.734 18.004 18.004 0 0 0 0-31.18 1 1 0 0 0-.371-.124m-5.762 5.804a1 1 0 0 0-.531 1.887 9 9 0 0 1 4.914 8.02 9 9 0 0 1-4.914 8.02 1 1 0 0 0 .906 1.78 11.01 11.01 0 0 0 6.008-9.8c0-4.135-2.324-7.924-6.008-9.801a1 1 0 0 0-.375-.106" style="opacity:.5;fill:#fff;stroke-width:4;stroke-linecap:round"/>
+</svg>

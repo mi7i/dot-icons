@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" viewBox="0 0 64 64">
+    <path d="M60 16v32c0 6.62-5.38 12-12 12H16C9.38 60 4 54.62 4 48V16C4 9.38 9.38 4 16 4h32c6.62 0 12 5.38 12 12" style="fill:url(#a)"/>
+    <path d="M32 53.67c-.55 0-.99-.44-.99-.99l.13-12.31-6.45 6.46c-.19.18-.44.29-.7.29-.54 0-.99-.45-.99-.99 0-.26.1-.51.29-.7l8.14-8.14a.984.984 0 0 1 1.4 0l8.14 8.14a.992.992 0 0 1-.7 1.69c-.26 0-.51-.11-.7-.29l-6.45-6.46-.13 12.31c0 .55-.44.99-.99.99" style="fill:#fff;fill-opacity:.5;fill-rule:nonzero"/>
+    <circle cx="20" cy="15.3" r="3" style="fill:none;stroke:#fff;stroke-opacity:.25;stroke-width:.6px"/>
+    <circle cx="20" cy="15" r="3" style="fill:#00152d"/>
+    <circle cx="44" cy="15.3" r="3" style="fill:none;stroke:#fff;stroke-opacity:.25;stroke-width:.6px"/>
+    <circle cx="44" cy="15" r="3" style="fill:#00152d"/>
+    <path d="M20 14c-.55 0-1 .45-1 1v4c0 7.2 5.8 13.01 13 13.01 7.21 0 13-5.81 13-13.01v-4c0-.55-.45-1-1-1-.55.01-1 .45-1 1v4.03C43 25.05 38.05 30 32.02 30h-.04C25.96 30 21 25.05 21 19.03V15c0-.55-.45-1-1-1q0 0 0 0" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-opacity:.1;stroke-width:.6px"/>
+    <path d="M20 14c-.55 0-1 .45-1 1v4c0 7.2 5.8 13.01 13 13.01 7.21 0 13-5.81 13-13.01v-4c0-.55-.45-1-1-1-.55.01-1 .45-1 1v4.03C43 25.05 38.05 30 32.02 30h-.04C25.96 30 21 25.05 21 19.03V15c0-.55-.45-1-1-1" style="fill:#fff;fill-rule:nonzero"/>
+    <path d="M20 14c-.55 0-1 .45-1 1v3h2v-3c0-.55-.45-1-1-1" style="fill:url(#b);fill-rule:nonzero"/>
+    <path d="M44 14c-.55 0-1 .45-1 1v3h2v-3c0-.55-.45-1-1-1" style="fill:url(#c);fill-rule:nonzero"/>
+    <defs>
+        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(0 -56 56 0 32 60)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#0091f9;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#41bbff;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 3 17.002)scale(3.001)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#000;stop-opacity:.5"/>
+            <stop offset="1" style="stop-color:#000;stop-opacity:0"/>
+        </linearGradient>
+        <linearGradient id="c" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 15 29.003)scale(3.001)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#000;stop-opacity:.5"/>
+            <stop offset="1" style="stop-color:#000;stop-opacity:0"/>
+        </linearGradient>
+    </defs>
+</svg>

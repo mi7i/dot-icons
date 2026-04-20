@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <path d="M16 3.97h32c6.62 0 12 5.38 12 12v32c0 6.62-5.38 12-12 12H16c-6.62 0-12-5.38-12-12v-32c0-6.62 5.38-12 12-12" style="fill:#f5f5f5"/>
+  <path d="M41.02 46H22.98l8.94-12.22c1.77-2.39 2.93-4.16 3.45-5.32.53-1.15.79-2.27.79-3.37 0-1.56-.47-2.79-1.42-3.71-.95-.91-2.24-1.37-3.87-1.37-1.65 0-2.96.56-3.92 1.67-.97 1.11-1.45 2.64-1.45 4.58 0 .1.01.23.02.41.02.18.02.31.02.39h-2.07v-1.25c0-2.5.72-4.43 2.15-5.78 1.42-1.35 3.44-2.03 6.05-2.03 2.68 0 4.87.75 6.58 2.25 1.71 1.49 2.56 3.4 2.56 5.72 0 1.21-.23 2.4-.69 3.58-.47 1.18-1.24 2.51-2.32 3.99l-7.64 10.41h10.86z" style="fill:#f03e3e"/>
+  <path d="M4 32h56v16c0 6.62-5.38 12-12 12H16C9.38 60 4 54.62 4 48z" style="fill: url(&quot;#a&quot;);"/>
+  <path d="M16 4h32c6.62 0 12 5.38 12 12v16H4V16C4 9.38 9.38 4 16 4" style="fill:url(#b)"/>
+  <g style="opacity: 0.7; visibility: hidden;">
+    <circle cx="11" cy="27" r="2"/>
+    <circle cx="11" cy="37" r="2"/>
+    <circle cx="53" cy="37" r="2"/>
+    <circle cx="53" cy="27" r="2"/>
+  </g>
+  <g style="visibility: hidden;">
+    <path d="M 52.666 26 L 53.334 26 C 53.7 26 54 26.45 54 27 L 54 37 C 54 37.55 53.7 38 53.334 38 L 52.666 38 C 52.3 38 52 37.55 52 37 L 52 27 C 52 26.45 52.3 26 52.666 26" style="fill: rgb(144, 164, 174); opacity: 0.7;"/>
+    <path d="M 52.667 26 L 53.333 26 C 53.7 26 54 26.45 54 27 L 54 37 C 54 37.55 53.7 38 53.333 38 L 52.667 38 C 52.3 38 52 37.55 52 37 L 52 27 C 52 26.45 52.3 26 52.667 26" style="fill: url(&quot;#c&quot;);"/>
+    <path d="M 10.667 26 L 11.333 26 C 11.7 26 12 26.45 12 27 L 12 37 C 12 37.55 11.7 38 11.333 38 L 10.667 38 C 10.3 38 10 37.55 10 37 L 10 27 C 10 26.45 10.3 26 10.667 26" style="fill: rgb(144, 164, 174); opacity: 0.7;"/>
+    <path d="M 10.667 26 L 11.333 26 C 11.7 26 12 26.45 12 27 L 12 37 C 12 37.55 11.7 38 11.333 38 L 10.667 38 C 10.3 38 10 37.55 10 37 L 10 27 C 10 26.45 10.3 26 10.667 26" style="fill: url(&quot;#d&quot;);"/>
+  </g>
+  <defs>
+    <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90.454 1.233 33.055)scale(28.25289)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#f5f5f5;stop-opacity:.1"/>
+      <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90.454 15.122 19.055)scale(28.25289)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#f5f5f5;stop-opacity:.1"/>
+      <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
+    </linearGradient>
+    <linearGradient id="c" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(0, 12, -8, 0, 53.000005, 26.000008)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#000;stop-opacity:.3"/>
+      <stop offset="0.5" style="stop-color:#fff;stop-opacity:.15"/>
+      <stop offset="1" style="stop-color:#000;stop-opacity:.3"/>
+    </linearGradient>
+    <linearGradient id="d" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(0, 12, -8, 0, 11.000001, 26.000005)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#000;stop-opacity:.3"/>
+      <stop offset="0.5" style="stop-color:#fff;stop-opacity:.15"/>
+      <stop offset="1" style="stop-color:#000;stop-opacity:.3"/>
+    </linearGradient>
+  </defs>
+</svg>

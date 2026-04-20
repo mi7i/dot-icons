@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#3daee9;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#76c6ee;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
+    <rect width="30" height="24" x="11" y="13" rx="3" style="opacity:.1;fill:#000;fill-opacity:1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"/>
+    <rect width="28" height="22" x="12" y="14" rx="2" style="fill:#eff0f1;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"/>
+    <rect width="30" height="24" x="23" y="27" rx="3" style="opacity:.1;fill:#000;fill-opacity:1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"/>
+    <rect width="28" height="22" x="24" y="28" rx="2" style="fill:#fff;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M26 28h24c1.108 0 2 .892 2 2v2H24v-2c0-1.108.892-2 2-2" style="fill:#475057;fill-opacity:1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M14 14h24c1.108 0 2 .892 2 2v2H12v-2c0-1.108.892-2 2-2" style="fill:#76828e;fill-opacity:1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M39.016 32.975 36 33.5v10.387l3-.387-.016-4.681L42.524 44 46 43.5l-4-5.363 4.014-4.5-3.52-.648-3.51 4.5zm-6.342 2.652a.12.12 0 0 0-.078.037l-1.035 1.047a.136.136 0 0 0-.018.17l1.25 1.92a5.3 5.3 0 0 0-.53 1.358l-2.158.529a.14.14 0 0 0-.105.13v1.364c0 .062.046.116.105.13l2.159.53c.115.48.293.94.529 1.358l-1.25 1.92a.136.136 0 0 0 .018.17l1.035 1.046a.13.13 0 0 0 .164.016l1.959-1.201c.384.224.985.404 1.424.523l.459 2.217a.13.13 0 0 0 .127.11h1.542a.13.13 0 0 0 .127-.11l.46-2.217c.438-.12 1.039-.3 1.423-.523l1.96 1.201c.052.032.12.028.163-.016l1.035-1.047a.136.136 0 0 0 .018-.17l-1.041-1.6-.129.02-.73-1.07a4.5 4.5 0 0 1-4.057 2.563 4.5 4.5 0 0 1-4.5-4.5 4.5 4.5 0 0 1 2.5-4.028v-.982a4.3 4.3 0 0 0-.781.328l-1.96-1.201a.14.14 0 0 0-.085-.022" style="fill:#4d4d4d;fill-opacity:1"/>
+</svg>

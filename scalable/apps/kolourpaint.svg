@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#ff5651;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#ff8b75;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
+    <path d="M21 17h8v8h-8z" style="opacity:.2;fill:#fff;stroke-width:2"/>
+    <path d="M33 17h8v8h-8z" style="opacity:.3;fill:#fff;stroke-width:2"/>
+    <path d="M41 25h8v8h-8z" style="opacity:.5;fill:#fff;stroke-width:2"/>
+    <path d="M32 12c-11.11 0-20 8.89-20 20s8.89 20 20 20c1.778 0 3.332-1.554 3.332-3.332 0-.889-.22-1.556-.887-2.223-.444-.667-.89-1.333-.89-2.222 0-1.778 1.558-3.336 3.336-3.336h4C47.113 40.889 52 36.004 52 29.78c0-9.778-8.888-17.777-20-17.777Zm-7 6c1.6 0 3 1.4 3 3s-1.4 3-3 3-3-1.4-3-3 1.4-3 3-3m12 0c1.6 0 3 1.4 3 3s-1.4 3-3 3-3-1.4-3-3 1.4-3 3-3m-18 8c1.6 0 3 1.4 3 3s-1.4 3-3 3-3-1.4-3-3 1.4-3 3-3m26 0c1.6 0 3 1.4 3 3s-1.4 3-3 3-3-1.4-3-3 1.4-3 3-3" style="fill:#fff;stroke-width:2"/>
+</svg>

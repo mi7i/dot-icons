@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+    <defs>
+        <linearGradient id="b" x1="25.093" x2="25.034" y1="59.233" y2="2.826" gradientTransform="matrix(1 0 0 .999 0 .005)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ff5400"/>
+            <stop offset="1" stop-color="#fb0"/>
+        </linearGradient>
+        <linearGradient id="d" x1="26.502" x2="26.59" y1="59.602" y2="18.949" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#35e872"/>
+            <stop offset="1" stop-color="#34e9d8"/>
+        </linearGradient>
+        <linearGradient id="c" x1="43.067" x2="42.579" y1="59.41" y2="28.346" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#3553e4"/>
+            <stop offset="1" stop-color="#56cef3"/>
+        </linearGradient>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f1efeb"/>
+            <stop offset="1" stop-color="#fdfcfc"/>
+        </linearGradient>
+        <filter id="e" width="1.499" height="1.373" x="-.249" y="-.186" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".776"/>
+        </filter>
+        <filter id="f" width="1.479" height="1.373" x="-.24" y="-.186" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".776"/>
+        </filter>
+        <filter id="g" width="1.447" height="1.373" x="-.223" y="-.186" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".776"/>
+        </filter>
+    </defs>
+    <rect width="56" height="56" x="4" y="3.969" fill="url(#a)" rx="12"/>
+    <path fill="url(#b)" d="M18 8C12.46 8 8 12.46 8 18v13h23V8z"/>
+    <path fill="url(#c)" d="M33 33v23h13c5.54 0 10-4.46 10-10V33z"/>
+    <path fill="url(#d)" d="M8 33v13c0 5.54 4.46 10 10 10h13V33z"/>
+    <path d="M21.69 23.869c1.932-1.378 3.04-2.969 3.04-4.702 0-1.988-1.42-3.167-3.807-3.167a7.1 7.1 0 0 0-3.395.852l.554 1.86c.937-.425 1.648-.61 2.33-.61 1.122 0 1.761.497 1.761 1.392 0 1.136-.994 2.4-4.276 4.957V26H25v-2.131z" enable-background="new" filter="url(#e)" opacity=".15" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    <path fill="#f5f5f5" d="M21.69 23.869c1.932-1.378 3.04-2.969 3.04-4.702 0-1.988-1.42-3.167-3.807-3.167a7.1 7.1 0 0 0-3.395.852l.554 1.86c.937-.425 1.648-.61 2.33-.61 1.122 0 1.761.497 1.761 1.392 0 1.136-.994 2.4-4.276 4.957V26H25v-2.131z" enable-background="new" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    <path d="M44.938 42.608c.98-.504 1.513-1.26 1.513-2.157 0-1.47-1.415-2.45-3.502-2.45-2.213 0-3.683 1.19-3.683 2.968 0 1.079.546 1.723 1.288 2.171-.994.42-1.554 1.177-1.554 2.13 0 1.637 1.54 2.73 3.85 2.73 2.353 0 3.922-1.204 3.922-3.025 0-1.274-.84-1.933-1.835-2.367zm-2.073-2.535c.658 0 1.093.322 1.093.826 0 .505-.364.91-.925 1.05-.728-.265-1.274-.545-1.274-1.064 0-.49.434-.812 1.106-.812m.112 5.854c-.896 0-1.484-.434-1.484-1.078 0-.462.294-.826.798-.994 1.05.336 1.989.588 1.989 1.246 0 .49-.532.826-1.303.826" enable-background="new" filter="url(#f)" opacity=".15" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    <path fill="#f5f5f5" d="M44.938 42.608c.98-.504 1.513-1.26 1.513-2.157 0-1.47-1.415-2.45-3.502-2.45-2.213 0-3.683 1.19-3.683 2.968 0 1.079.546 1.723 1.288 2.171-.994.42-1.554 1.177-1.554 2.13 0 1.637 1.54 2.73 3.85 2.73 2.353 0 3.922-1.204 3.922-3.025 0-1.274-.84-1.933-1.835-2.367zm-2.073-2.535c.658 0 1.093.322 1.093.826 0 .505-.364.91-.925 1.05-.728-.265-1.274-.545-1.274-1.064 0-.49.434-.812 1.106-.812m.112 5.854c-.896 0-1.484-.434-1.484-1.078 0-.462.294-.826.798-.994 1.05.336 1.989.588 1.989 1.246 0 .49-.532.826-1.303.826" enable-background="new" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    <path d="M25 43.908h-1.345V38H21.28l-4.62 5.908v2.146h4.506v1.945h2.49v-1.945H25zm-6.08-.029 2.246-2.932v2.947z" enable-background="new" filter="url(#g)" opacity=".15" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    <path fill="#f5f5f5" d="M25 43.908h-1.345V38H21.28l-4.62 5.908v2.146h4.506v1.945h2.49v-1.945H25zm-6.08-.029 2.246-2.932v2.947z" enable-background="new" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+</svg>

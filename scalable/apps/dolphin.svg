@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#eaebed;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#f9fafa;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="c" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="b">
+            <stop offset="0" style="stop-color:#0091f9;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#41bbff;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#b" id="d" x1="52" x2="52" y1="49" y2="15" gradientUnits="userSpaceOnUse"/>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#c);stroke-width:2"/>
+    <path d="M16 15c-2.216 0-4 1.784-4 4v24c0 3.324 2.676 6 6 6h28c3.324 0 6-2.676 6-6V27c0-3.324-2.676-6-6-6H32v-2c0-2.216-1.784-4-4-4z" style="fill:url(#d);stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M16 15c-2.216 0-4 1.784-4 4v6c0-2.216 1.784-4 4-4h16v-2c0-2.216-1.784-4-4-4z" style="opacity:.5;fill:#fff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+</svg>

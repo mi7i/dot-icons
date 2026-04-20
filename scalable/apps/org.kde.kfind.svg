@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+    <defs>
+        <linearGradient id="b" x1="395.7" x2="404.5" y1="537.03" y2="527.13" gradientTransform="translate(-826.36 -1107.5)scale(2.1429)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#d5e8fc"/>
+            <stop offset="1" stop-color="#f5f5f5"/>
+        </linearGradient>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#0e71de"/>
+            <stop offset="1" stop-color="#25c9ff"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="3.969" fill="url(#a)" rx="12"/>
+    <circle cx="32.02" cy="32.044" r="30.001" fill="none"/>
+    <path fill="url(#b)" d="M35.002 17.991c-6.055 0-11.056 4.956-11.056 11.011 0 2.3.777 4.413 2 6.192l-7.371 7.38a2.008 2.013 0 0 0 2.807 2.877l7.37-7.384a11.03 11.03 0 0 0 6.25 1.942A11.03 11.03 0 0 0 46 29.002a11.03 11.03 0 0 0-10.998-11.01zm0 4.003c3.893 0 7 3.111 7 7.008a6.97 6.97 0 0 1-7 7.005 6.97 6.97 0 0 1-6.995-7.004 6.967 6.967 0 0 1 6.995-7.009"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round" viewBox="0 0 64 64">
+    <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4" style="fill:#343a40"/>
+    <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4" style="fill:#7c6d67"/>
+    <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4" style="fill:url(#a)"/>
+    <path d="M12 32c0 11.038 8.962 20 20 20s20-8.962 20-20-8.962-20-20-20-20 8.962-20 20" style="fill:url(#b)"/>
+    <path d="M15.329 32c0 9.201 7.47 16.671 16.671 16.671S48.671 41.201 48.671 32 41.201 15.329 32 15.329 15.329 22.799 15.329 32Z" style="fill:url(#c);stroke:url(#d);stroke-width:1.99px"/>
+    <path d="M29.671 36.804c0 3.942 3.2 7.142 7.142 7.142s7.142-3.2 7.142-7.142-3.2-7.142-7.142-7.142c-3.917.002-7.14 3.225-7.142 7.142m-9.63-11.641c.002 2.798 2.303 5.099 5.101 5.101 2.798-.001 5.1-2.303 5.102-5.101-.001-2.798-2.304-5.101-5.102-5.102-2.798.002-5.1 2.304-5.101 5.102" style="fill:none"/>
+    <path d="m30.61 40.395-9.591-12.243 7.346-6.938 12.856 9.999z" style="fill:none"/>
+    <circle cx="32" cy="32" r="6.667" opacity=".9" style="fill:url(#e)"/>
+    <defs>
+        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(-.56 56.168 -56.168 -.56 32 4)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>
+            <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
+        </linearGradient>
+        <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 42.12 9.8)scale(40)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#4c4c4c;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#2a2a2a;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="c" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 37.335 11.67)scale(33.342)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fedf2d;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#f48d01;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="e" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 3.08 27.946)scale(14.55964)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#4c4c4c;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#2a2a2a;stop-opacity:1"/>
+        </linearGradient>
+        <radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="translate(32 32)scale(33.342)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fe8c06;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#fea933;stop-opacity:1"/>
+        </radialGradient>
+    </defs>
+</svg>

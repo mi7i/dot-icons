@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#eaebed;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#f9fafa;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="g" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="h" x1="23.081" x2="23.081" y1="6.938" y2="9.701" gradientTransform="matrix(1.85714 0 0 1.99458 3.14 .162)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="b">
+            <stop offset="0" style="stop-color:#da4453;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#c0392b;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#c" id="i" x1="1" x2="1" y1="1" y2="-.013" gradientTransform="matrix(5 0 0 4 7 15)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="c">
+            <stop offset="0" style="stop-color:#713e88;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#9b59b6;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#d" id="j" x1="1" x2="1" y1="1.836" y2="1" gradientTransform="matrix(4.25 0 0 4 10.75 13)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="d">
+            <stop offset="0" style="stop-color:#06a370;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#22d1b0;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#e" id="k" x1="7.604" x2="4" y1="9.25" y2="2" gradientTransform="matrix(4 0 0 4 12 12)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="e">
+            <stop offset="0" style="stop-color:#197cf1;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#20bcfa;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#e" id="l" x1="5.532" x2="0" y1="10.942" y2="2" gradientTransform="matrix(4 0 0 4 12 10)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#f" id="m" x1="7.222" x2="7.222" y1="5.687" y2="3.437" gradientTransform="matrix(4 0 0 7.11111 9.114 1.559)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="f">
+            <stop offset="0" style="stop-color:#60c0f4;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#b9e0ff;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#e" id="n" x1="9.931" x2="4.489" y1="10.799" y2="1" gradientTransform="matrix(4 0 0 4 12 10)" gradientUnits="userSpaceOnUse"/>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#g);stroke-width:2"/>
+    <path d="M19 14h26v16H19z" style="fill:url(#h);fill-opacity:1;stroke-width:1.92464;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <path d="M17 15h30v20H17z" style="fill:url(#i);fill-opacity:1;stroke-width:4.47212;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <path d="M15 17h34v24H15z" style="fill:url(#j);fill-opacity:1;stroke-width:3.81727;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <path d="M12 20h40v29H12z" style="fill:url(#k);fill-opacity:1;stroke-width:3.74167;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <path d="m12 21 26 13-26 13Z" style="fill:url(#l);fill-opacity:1;stroke-width:4.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <path d="m26 28 12 6-12 6z" style="fill:url(#m);stroke-width:5.33334;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <path d="M52 27v22H12v-2z" style="fill:url(#n);fill-opacity:1;stroke-width:4.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <path d="M12 48h40v1H12z" style="fill:#1c5593;fill-opacity:1;stroke-width:2.82843;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+</svg>

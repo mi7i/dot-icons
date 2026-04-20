@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#838383;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#c2c2c2;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
+    <path d="M32 13a19 19 0 0 0-12.486 4.686l-2.391-2.393a1 1 0 0 0-1.414 0l-1.416 1.416a1 1 0 0 0 0 1.414l2.53 2.53A19 19 0 0 0 13 32a19 19 0 0 0 19 19 19 19 0 0 0 19-19 19 19 0 0 0-19-19" style="opacity:.6;fill:#fff;fill-opacity:1;stroke-width:4.23298;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="32" cy="32" r="19" style="opacity:.6;fill:#fff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+    <rect width="4" height="18" x="41.928" y="-3.918" rx="2" style="fill:#b3b3b3;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" transform="rotate(30)"/>
+    <circle cx="32" cy="32" r="3" style="fill:#666;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"/>
+</svg>

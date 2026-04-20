@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#fbb0e3;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#f9d9f0;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="c">
+            <stop offset="0" style="stop-color:#d35297;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#de7fb2;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="b">
+            <stop offset="0" style="stop-color:#eaebed;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#f9fafa;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="d" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="f" x1="16" x2="16" y1="22" y2="10" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#c" id="e" x1="16" x2="16" y1="24" y2="8" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#d);stroke-width:2"/>
+    <path d="M32 16c-12.15 0-21.04 8.767-22 16 .96 7.233 9.85 16 22 16s21.04-8.767 22-16c-.96-7.233-9.85-16-22-16" style="fill:url(#e);fill-opacity:1;stroke-width:1.87617;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="32" cy="32" r="12" style="fill:url(#f);fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M36 24a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-8 4-5.152 8A10 10 0 0 0 32 42a10 10 0 0 0 9.152-6H38l-3-4-3 3z" style="opacity:.2;fill:#000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+</svg>

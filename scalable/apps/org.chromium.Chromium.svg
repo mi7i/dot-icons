@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <path fill="#60a5fa" d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4"/>
+    <clipPath id="a">
+        <path fill="#fff" d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4"/>
+    </clipPath>
+    <g clip-path="url(#a)">
+        <path fill="#93c5fd" d="M60 18q-36.784-.697-29 .145c18.047 1.951 12.29 21.551 12.29 21.551L31 60h29z"/>
+        <path fill="#2563eb" d="m4 9.003 16.261 29.261 11.531-20.119H60V4H4z"/>
+    </g>
+    <circle cx="32.031" cy="31.973" r="13.835" fill="#fff" vector-effect="non-scaling-stroke"/>
+    <linearGradient id="b" x1=".48" x2=".48" y1=".011" y2=".992" gradientTransform="translate(21.07 21.012)scale(21.922)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" style="stop-color:#47b9ff"/>
+        <stop offset="100%" style="stop-color:#3d8aff"/>
+    </linearGradient>
+    <circle cx="32.031" cy="31.973" r="10.961" fill="url(#b)" vector-effect="non-scaling-stroke"/>
+    <linearGradient id="c" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(56 0 0 56 4 4)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-opacity=".3" style="stop-color:#fff"/>
+        <stop offset="100%" stop-opacity="0" style="stop-color:#fff"/>
+    </linearGradient>
+    <path fill="url(#c)" d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4"/>
+</svg>

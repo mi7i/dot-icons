@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none">
+    <path fill="url(#a)" d="M47 59.971H17.002C9.822 59.971 4 54.15 4 46.969V16.971C4 9.791 9.821 3.969 17.002 3.969H47c7.18 0 13.002 5.821 13.002 13.002v29.998c0 7.18-5.821 13.002-13.002 13.002" clip-path="url(#b)"/>
+    <path stroke="#eee" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M10 43h10.704c1.653 0 2.979-1.347 3.125-2.994.844-9.47 5.5-14.403 9.124-16.843 1.87-1.26 3.82.477 3.44 2.7C34.4 37.559 36.81 43 43.262 43H55" clip-path="url(#b)"/>
+    <defs>
+        <linearGradient id="a" x1="60" x2="4" y1="60" y2="4" gradientTransform="matrix(1 0 0 -1 0 63.94)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5c7ac8"/>
+            <stop offset="1" stop-color="#1a3a8e"/>
+        </linearGradient>
+        <clipPath id="b">
+            <path fill="#f5f5f5" d="M0-.002h64v64H0z"/>
+        </clipPath>
+    </defs>
+</svg>

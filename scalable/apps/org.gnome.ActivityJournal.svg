@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#96a3ad;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#c4c8cd;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="5" rx="12" style="opacity:.2;fill:#000;stroke-width:3.5"/>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
+    <path d="M13 17c-.554 0-1 .446-1 1s.446 1 1 1h38c.554 0 1-.446 1-1s-.446-1-1-1zm0 8c-.554 0-1 .446-1 1s.446 1 1 1h38c.554 0 1-.446 1-1s-.446-1-1-1zm0 8c-.554 0-1 .446-1 1s.446 1 1 1h38c.554 0 1-.446 1-1s-.446-1-1-1zm0 8c-.554 0-1 .446-1 1s.446 1 1 1h18c.554 0 1-.446 1-1s-.446-1-1-1z" style="opacity:.5;fill:#fff;stroke-width:2;stroke-linecap:round"/>
+    <path d="M34 22a11 11 0 0 0-11 11 11 11 0 0 0 11 11 11 11 0 0 0 7.04-2.547l7.81 7.81a1 1 0 0 0 1.414 0 1 1 0 0 0 0-1.413l-7.81-7.81A11 11 0 0 0 45 33a11 11 0 0 0-11-11m0 2a9 9 0 0 1 9 9 9 9 0 0 1-2.637 6.363A9 9 0 0 1 34 42a9 9 0 0 1-9-9 9 9 0 0 1 9-9" style="fill:#fff;fill-opacity:1;stroke-width:2.2;stroke-linecap:round"/>
+</svg>

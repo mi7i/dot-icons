@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="c" x1="9.649" x2="30" y1="15.099" y2="6.316" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#6b97df;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#c25298;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="b">
+            <stop offset="0" style="stop-color:#6b97df;stop-opacity:0"/>
+            <stop offset="1" style="stop-color:#e5565c;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#b" id="d" x1="9.654" x2="30" y1="16" y2="26.015" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#c);stroke-width:2"/>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#d);stroke-width:2;stroke-linecap:round"/>
+    <path d="M24 16v17.078A8 8 0 0 0 20 32a8 8 0 1 0 8 8V20h16v13.078A8 8 0 0 0 40 32a8 8 0 1 0 8 8V16M20 36a4 4 0 1 1 0 8 4 4 0 0 1 0-8m20 0a4 4 0 1 1 0 8 4 4 0 0 1 0-8" style="fill:#fff;stroke-width:4"/>
+</svg>

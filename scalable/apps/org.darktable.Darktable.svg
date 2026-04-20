@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 64 64">
+    <path d="M60 16v32c0 6.63-5.38 12.01-12 12.01H16C9.37 60.01 4 54.63 4 48V16C4 9.38 9.37 4 16 4h32c6.62 0 12 5.38 12 12" style="fill:#262626"/>
+    <path d="M60 16v32c0 6.63-5.38 12.01-12 12.01H16C9.37 60.01 4 54.63 4 48V16C4 9.38 9.37 4 16 4h32c6.62 0 12 5.38 12 12" style="fill:url(#a)"/>
+    <path d="m35.64 12.38-4.77 13.48 18.77-3.13c-2.84-5.41-8-9.22-14.01-10.35" style="fill:url(#b)"/>
+    <path d="M50.88 25.66 36.74 28.3l12.13 14.59c3.23-5.05 4.07-11.41 2.01-17.23" style="fill:url(#c)"/>
+    <path d="m47.04 45.1-9.37-10.84-6.65 17.72c6.01.26 11.97-2.2 16.02-6.88" style="fill:url(#d)"/>
+    <path d="m28.24 51.63 4.77-13.48-18.78 3.13c2.85 5.41 8.01 9.22 14.01 10.35" style="fill:url(#e)"/>
+    <path d="m13.12 38.33 14.14-2.64L15.14 21.1c-3.24 5.05-4.08 11.41-2.02 17.23" style="fill:url(#f)"/>
+    <circle cx="32" cy="32" r="3" style="fill:url(#g)"/>
+    <path d="m16.92 18.9 9.37 10.84 6.65-17.72c-6.02-.26-11.98 2.2-16.03 6.88" style="fill:url(#h)"/>
+    <defs>
+        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 14 18)scale(56.01)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fff;stop-opacity:.3"/>
+            <stop offset="1" style="stop-color:#fff;stop-opacity:0"/>
+        </linearGradient>
+        <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 41.246 2.509)scale(27.62667)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#cd7223;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#ffc169;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="c" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 46.084 -.01)scale(26.81777)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#ffa92d;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#edf573;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="d" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 47.752 8.115)scale(23.8443)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#2b4d37;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#3bb566;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="e" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 41.28 14.018)scale(19.61776)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#375a7d;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#54a3d8;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="f" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 32.8 10.332)scale(22.30508)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#68377d;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#cb7cec;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="g" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(0 6 -6 0 32 29)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#b0b0b0;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#fff;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="h" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 36.734 7.432)scale(29.89409)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#bf4231;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#f58273;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+</svg>

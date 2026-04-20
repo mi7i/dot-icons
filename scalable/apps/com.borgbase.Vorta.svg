@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64" height="64">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#363636" style="stop-color:#1f1f1f;stop-opacity:1"/>
+            <stop offset="1" stop-color="#525252" style="stop-color:#303030;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" fill="url(#a)" rx="12" style="display:inline"/>
+    <g transform="translate(9.01 7.609)scale(.35922)">
+        <path fill="#888" fill-rule="evenodd" d="M1.288 84.818c0-9.344 7.019-16.918 15.678-16.918h94.068c8.659 0 15.678 7.574 15.678 16.918v8.459c0 9.344-7.019 16.918-15.678 16.918H16.966c-8.659 0-15.678-7.574-15.678-16.918z" clip-rule="evenodd"/>
+        <circle cx="88.306" cy="89.581" r="6.821" fill="#e65100"/>
+        <circle cx="108.662" cy="89.581" r="6.821" fill="#ff9800"/>
+        <path fill="#888" d="M8.421 61.167a21.9 21.9 0 0 1 8.545-1.725h94.068c3.01 0 5.895.609 8.545 1.725l-14.635-28.946c-2.06-4.078-6.02-6.615-10.324-6.615H33.381c-4.304 0-8.264 2.537-10.324 6.615z"/>
+    </g>
+</svg>

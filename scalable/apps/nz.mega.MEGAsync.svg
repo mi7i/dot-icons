@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="translate(0 .031)scale(3.7795)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#c11420"/>
+            <stop offset="1" stop-color="#fe4654"/>
+        </linearGradient>
+        <filter id="b" width="1.08" height="1.12" x="-.04" y="-.06" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".4"/>
+        </filter>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" fill="url(#a)" rx="12"/>
+    <g filter="url(#b)" transform="translate(.696 .696)scale(1.3043)">
+        <g opacity=".1">
+            <path d="M13 33V17h4v16m16 0V17h4v16"/>
+            <path d="M16 17h1l8 8 8-8h1v4l-8 7h-2l-8-7"/>
+        </g>
+    </g>
+    <g fill="#f9f9f9">
+        <path d="M16.347 42.433V21.564h5.217v20.87m20.869-.001V21.564h5.217v20.87"/>
+        <path d="M20.26 21.564h1.304L32 32l10.434-10.435h1.305v5.218l-10.435 9.13h-2.608l-10.435-9.13"/>
+    </g>
+</svg>

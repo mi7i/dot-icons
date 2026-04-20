@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64">
+    <defs>
+        <linearGradient id="c" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="translate(0 -63.94)scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#006af9"/>
+            <stop offset="1" stop-color="#41ddff"/>
+        </linearGradient>
+        <linearGradient id="d" x1="20.763" x2="20.763" y1="19.186" y2="35.593" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffd831"/>
+            <stop offset="1" stop-color="#ff7907" stop-opacity=".961"/>
+        </linearGradient>
+        <linearGradient id="a" x1="31.761" x2="31.761" y1="25.473" y2="46.083" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f5f5f5"/>
+            <stop offset="1" stop-color="#bfe3ff"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="b" x1="31.761" x2="31.761" y1="25.473" y2="46.083" gradientUnits="userSpaceOnUse"/>
+        <clipPath id="e">
+            <path fill="url(#b)" d="M32.478 22.116a11.145 11.145 0 0 0-11.145 11.145 11 11 0 0 0 .018.512 6.63 6.63 0 0 0-5.997 6.595A6.63 6.63 0 0 0 21.986 47h21.642a9.02 9.02 0 0 0 9.018-9.018 9.02 9.02 0 0 0-9.018-9.018 9 9 0 0 0-.857.049 11.145 11.145 0 0 0-10.294-6.897z" opacity=".85" style="paint-order:normal"/>
+        </clipPath>
+        <filter id="f" width="1.294" height="1.294" x="-.147" y="-.147" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.347"/>
+        </filter>
+    </defs>
+    <rect width="56" height="56" x="4" y="-59.971" fill="url(#c)" rx="12" transform="scale(1 -1)"/>
+    <path fill="url(#d)" d="M22 17a11 11 0 0 0-11 11 11 11 0 0 0 5.143 9.303 6.63 6.63 0 0 1 5.209-3.53 11 11 0 0 1-.02-.511 11.145 11.145 0 0 1 10.02-11.047A11 11 0 0 0 22 17"/>
+    <path fill="url(#a)" d="M32.478 22.116a11.145 11.145 0 0 0-11.145 11.145 11 11 0 0 0 .018.512 6.63 6.63 0 0 0-5.997 6.595A6.63 6.63 0 0 0 21.986 47h21.642a9.02 9.02 0 0 0 9.018-9.018 9.02 9.02 0 0 0-9.018-9.018 9 9 0 0 0-.857.049 11.145 11.145 0 0 0-10.294-6.897z" opacity=".85" style="paint-order:normal"/>
+    <circle cx="22" cy="28" r="11" fill="url(#d)" clip-path="url(#e)" filter="url(#f)" opacity=".2" style="paint-order:normal"/>
+</svg>

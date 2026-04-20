@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#eaebed;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#f9fafa;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="c" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="d" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="b">
+            <stop offset="0" style="stop-color:#218ed4;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#3ecdf1;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#c);stroke-width:2"/>
+    <path d="M36 4v.008c-3.253 3.08-6.327 7.175-8.582 11.828-3.482 7.184-4.308 13.252-2.453 18.227s6.11 8.093 12.75 9.367c6.979 1.339 13.45.318 19.414-3.09.912-.522 2.015-1.124 2.871-1.738v-7.934h-.008c-2.156 2.98-4.759 5.395-7.289 7.234-4.476 3.255-9.1 4.416-13.894 3.496q-6.843-1.312-8.024-7.773c-.756-4.324.478-9.808 3.707-16.469C37.048 11.884 43.554 4.503 44 4Z" style="fill:url(#d);fill-opacity:1;stroke-width:2"/>
+</svg>

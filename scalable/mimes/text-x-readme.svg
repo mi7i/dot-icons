@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.933 16.933">
+    <rect width="48" height="56" x="8" y="4" fill="#f5f5f5" rx="6" transform="scale(.26458)"/>
+    <g fill="#757575" color="#000">
+        <path d="M152 96c-33.104 0-60 26.898-60 60s26.896 60 60 60 60-26.898 60-60-26.896-60-60-60m.002 6a54 54 0 0 1 54 54 54 54 0 0 1-54 54 54 54 0 0 1-54-54 54 54 0 0 1 54-54" style="isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal" transform="translate(-1.587 -1.852)scale(.06614)"/>
+        <path d="M148 148v40h8v-40zm4-22a6 6 0 1 0 0 12 6 6 0 0 0 0-12" style="isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal" transform="translate(-1.587 -1.852)scale(.06614)"/>
+    </g>
+</svg>

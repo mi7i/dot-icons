@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="c" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#272727;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#5d5d5d;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#b" id="d" x1="8" x2="8" y1="22" y2="-6" gradientTransform="matrix(2 0 0 2 16 16)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="b">
+            <stop offset="0" style="stop-color:#f50057;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#ff6299;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#c);stroke-width:2"/>
+    <circle cx="32" cy="32" r="20" style="fill:url(#d);fill-opacity:1;stroke-width:2;stroke-linecap:round"/>
+    <path d="M32 20c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12m-.02 2H32c5.523 0 10 4.477 10 10s-4.477 10-10 10-10-4.477-10-10c0-5.515 4.465-9.99 9.98-10m-2.918 4.871A1.13 1.13 0 0 0 28 28v8c-.001.88.96 1.426 1.715.973L33 35l3.285-1.973a1.2 1.2 0 0 0 0-2.054L33 29l-3.285-1.973a1.13 1.13 0 0 0-.653-.156" style="fill:#212121;stroke-width:2"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#eaebed;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#f9fafa;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="d" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="b">
+            <stop offset="0" style="stop-color:#ffb251;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#ffde75;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="c">
+            <stop offset="0" style="stop-color:#545454;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#868686;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#b" id="e" x1="26.645" x2="24.523" y1="14.477" y2="12.355" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#c" id="f" x1="16.098" x2="13.977" y1="25.023" y2="22.902" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#d);stroke-width:2"/>
+    <rect width="40" height="2" x="12" y="16" rx="1" style="opacity:.3;fill:#000;stroke-width:2;stroke-linecap:round"/>
+    <rect width="40" height="2" x="12" y="24" rx="1" style="opacity:.3;fill:#000;stroke-width:2;stroke-linecap:round"/>
+    <rect width="24" height="2" x="12" y="32" rx="1" style="opacity:.3;fill:#000;stroke-width:1.41421;stroke-linecap:round"/>
+    <rect width="24" height="2" x="12" y="40" rx="1" style="opacity:.3;fill:#000;stroke-width:1.41421;stroke-linecap:round"/>
+    <path d="M51.168 23.832a3 3 0 0 0-2.121.879L27.953 45.805l.496 3.636 3.746.606L53.29 28.953a3 3 0 0 0-2.121-5.121" style="fill:url(#e);stroke-width:.75"/>
+    <path d="M27.953 45.805 26 52l6.195-1.953Z" style="fill:url(#f);stroke-width:.75"/>
+</svg>

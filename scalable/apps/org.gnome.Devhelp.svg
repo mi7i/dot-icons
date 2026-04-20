@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#c72222;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#cf5b5b;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
+    <path d="M34 18c-1.797 0-3.785.32-4.687.875-.895.548-1.313 1.392-1.313 2.563V29c.008 1.38-3.297 2.062-4 2.063v2c2.203 0 4 .73 4 2.124v7.188c0 1.283.413 2.242 1.25 2.813.845.577 2.837.86 4.75.874V44c-.953-.015-2.953-.185-3.375-.5S30 42.74 30 42.125V34.75c0-.614-.228-2.417-2.125-2.687v-.126C29.772 31.646 30 30.19 30 29.313v-7.374c0-.615.203-1.005.625-1.313.43-.315 2.43-.525 3.375-.562Zm6 0v2.063c.944.037 2.944.247 3.375.562.422.308.625.698.625 1.313v7.375c0 .877.228 2.332 2.125 2.625v.125C44.228 32.333 44 34.136 44 34.75v7.375c0 .615-.203 1.06-.625 1.375s-2.422.485-3.375.5v2.063c1.913-.016 3.905-.298 4.75-.876.837-.57 1.25-1.53 1.25-2.812v-7.187c0-1.396 1.797-2.125 4-2.126v-2c-.703 0-4.008-.683-4-2.062v-7.562c0-1.17-.418-2.015-1.312-2.563C43.785 18.32 41.798 18 40 18" style="color:#000;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19px;line-height:125%;font-family:&quot;Open Sans&quot;;-inkscape-font-specification:&quot;Open Sans Semi-Bold&quot;;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"/>
+    <path d="M16 4C9.352 4 4 9.352 4 16v32c0 6.648 5.352 12 12 12z" style="opacity:.5;fill:#000;stroke-width:2"/>
+</svg>

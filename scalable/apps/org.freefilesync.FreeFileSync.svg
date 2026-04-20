@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f1efeb"/>
+            <stop offset="1" stop-color="#fdfcfc"/>
+        </linearGradient>
+        <linearGradient id="b" x1="6.934" x2="6.934" y1="3.847" y2="11.051" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#4c8fd8"/>
+            <stop offset="1" stop-color="#4c4cd8"/>
+        </linearGradient>
+        <linearGradient id="c" x1="8.711" x2="8.711" y1="7.15" y2="14.278" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#29eecb"/>
+            <stop offset="1" stop-color="#07b2ff"/>
+        </linearGradient>
+    </defs>
+    <rect width="14.817" height="14.817" x="1.058" y="1.05" fill="url(#a)" rx="3.44"/>
+    <g stroke-width=".867">
+        <path fill="url(#b)" d="M8.295 3.294a5.2 5.2 0 0 0-3.499 1.515 5.19 5.19 0 0 0-.423 6.848l1.09-1.09a3.664 3.664 0 0 1 .413-4.678 3.66 3.66 0 0 1 3.812-.859v1.311l1.958-1.958a5.2 5.2 0 0 0-3.351-1.09z" style="paint-order:stroke markers fill"/>
+        <path fill="url(#c)" d="m12.561 5.301-1.09 1.09a3.664 3.664 0 0 1-.415 4.679 3.66 3.66 0 0 1-3.811.858v-1.312L5.95 11.912l-.663.662a5.19 5.19 0 0 0 6.85-.424 5.19 5.19 0 0 0 .423-6.85z" style="paint-order:stroke markers fill"/>
+    </g>
+</svg>

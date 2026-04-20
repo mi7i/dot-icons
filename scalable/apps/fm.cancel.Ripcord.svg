@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f1efeb"/>
+            <stop offset="1" stop-color="#fdfcfc"/>
+        </linearGradient>
+        <linearGradient id="d" x1="32" x2="32" y1="39" y2="18" gradientTransform="translate(-3.368 -4.733)scale(1.1053)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5486d4"/>
+            <stop offset="1" stop-color="#78c7e3"/>
+        </linearGradient>
+        <linearGradient id="c" x1="32" x2="32" y1="44" y2="18" gradientTransform="translate(-3.368 -4.456)scale(1.1053)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ff8652"/>
+            <stop offset="1" stop-color="#ffc55c"/>
+        </linearGradient>
+        <linearGradient id="b" x1="32" x2="32" y1="48" y2="22" gradientTransform="translate(-3.368 -4.145)scale(1.1053)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#425576"/>
+            <stop offset="1" stop-color="#5a7da5"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="3.969" fill="url(#a)" rx="12"/>
+    <path fill="url(#b)" d="M31.964 22.312a2.242 1.542 0 0 0-1.548.451l-18.76 12.894a2.242 1.542 0 0 0 0 2.18l18.76 12.9a2.242 1.542 0 0 0 3.168 0l18.76-12.9a2.242 1.542 0 0 0 0-2.18l-18.76-12.894a2.242 1.542 0 0 0-1.62-.451m.036 5.25 13.366 9.188L32 45.937 18.634 36.75z"/>
+    <path fill="url(#c)" d="M31.964 17.511a2.242 1.542 0 0 0-1.548.451l-18.76 12.894a2.242 1.542 0 0 0 0 2.18l18.76 12.9a2.242 1.542 0 0 0 3.168 0l18.76-12.9a2.242 1.542 0 0 0 0-2.18l-18.76-12.894a2.242 1.542 0 0 0-1.62-.451m.036 5.25 13.366 9.188L32 41.136 18.634 31.95z"/>
+    <path fill="url(#d)" d="M31.964 12.813a2.242 1.542 0 0 0-1.548.451l-18.76 12.894a2.242 1.542 0 0 0 0 2.18l18.76 12.9a2.242 1.542 0 0 0 3.168 0l18.76-12.9a2.242 1.542 0 0 0 0-2.18l-18.76-12.894a2.242 1.542 0 0 0-1.62-.451m.036 5.25 13.366 9.188L32 36.438l-13.366-9.187z"/>
+</svg>

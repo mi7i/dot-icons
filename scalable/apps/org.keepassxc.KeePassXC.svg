@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 64 64">
+    <path d="M15.99 4h32.02C54.63 4 60 9.37 60 15.99v32.02C60 54.63 54.63 60 48.01 60H15.99C9.37 60 4 54.63 4 48.01V15.99C4 9.37 9.37 4 15.99 4" style="fill:#4d4d4d;fill-rule:nonzero"/>
+    <path d="M15.99 4h32.02C54.63 4 60 9.37 60 15.99v32.02C60 54.63 54.63 60 48.01 60H15.99C9.37 60 4 54.63 4 48.01V15.99C4 9.37 9.37 4 15.99 4" style="fill:url(#a);fill-rule:nonzero"/>
+    <path d="M49.78 32c0-9.81-7.97-17.78-17.78-17.78S14.22 22.19 14.22 32 22.19 49.78 32 49.78 49.78 41.81 49.78 32" style="fill:#fff;fill-opacity:.3;fill-rule:nonzero"/>
+    <path d="M46.45 32.01c0-7.98-6.47-14.45-14.44-14.45-7.98 0-14.45 6.47-14.45 14.45 0 7.97 6.47 14.44 14.45 14.44 7.97 0 14.44-6.47 14.44-14.44" style="fill:#fff;fill-opacity:.3;fill-rule:nonzero"/>
+    <path d="m32 19.78-3.3 3.96c-3.36 1.35-5.59 4.63-5.59 8.25 0 4.88 4.02 8.89 8.89 8.89 4.25 0 7.93-3.04 8.73-7.2.8-4.17-1.49-8.36-5.43-9.94z" style="fill:#fff;fill-opacity:.9;fill-rule:nonzero"/>
+    <circle cx="14.78" cy="15.89" r="2.78" style="fill-opacity:.3"/>
+    <circle cx="14.78" cy="15.89" r="1.67" style="fill:#f44336"/>
+    <path d="M30.89 8.67h2.22v4.44h-2.22zm6.08.51 2.14.57-1.14 4.29-2.15-.57zm5.73 2.06 1.93 1.11-2.22 3.85-1.93-1.11zm5.01 3.48 1.57 1.57-3.14 3.14-1.57-1.57zm3.94 4.65 1.12 1.93-3.85 2.22-1.11-1.93zm2.61 5.52.57 2.15-4.29 1.15-.58-2.15zm1.08 6v2.22h-4.45v-2.22z" style="fill-opacity:.3;fill-rule:nonzero"/>
+    <defs>
+        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(-.728 55.776 -55.776 -.728 32 4)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fff;stop-opacity:.25"/>
+            <stop offset="1" style="stop-color:#000;stop-opacity:.12"/>
+        </linearGradient>
+    </defs>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4" style="fill:url(#a)"/>
+    <clipPath id="b">
+        <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4"/>
+    </clipPath>
+    <g clip-path="url(#b)">
+        <path d="M60 18q-36.784-.697-29 .145c18.047 1.951 12.29 21.551 12.29 21.551L31 60h29z" style="fill:url(#c)"/>
+        <path d="m3 9.003 17.261 29.261 11.531-20.119H60V4H3z" style="fill:url(#d)"/>
+    </g>
+    <circle cx="32.031" cy="31.973" r="13.835" style="fill:#f5f5f5"/>
+    <circle cx="32.031" cy="31.973" r="10.961" style="fill:url(#e)"/>
+    <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4" style="fill:url(#f)"/>
+    <defs>
+        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 -4.144 12.96)scale(42.896)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#35c130;stop-opacity:1"/>
+            <stop offset=".33" style="stop-color:#34bd30;stop-opacity:1"/>
+            <stop offset=".66" style="stop-color:#31b231;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#2c9f32;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="c" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 6.598 31.391)scale(34.31828)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#ffce00;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#e6bc00;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="d" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 14.237 15.667)scale(62.0521)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#f6503b;stop-opacity:1"/>
+            <stop offset=".33" style="stop-color:#f24735;stop-opacity:1"/>
+            <stop offset=".66" style="stop-color:#e62f25;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#d4090d;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="e" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 5.17 26.423)scale(21.50548)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#47b9ff;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#3d8aff;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="f" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(89.6 13.818 17.887)scale(56.057)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>
+            <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
+        </linearGradient>
+    </defs>
+</svg>

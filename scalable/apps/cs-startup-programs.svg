@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 64 64">
+    <path d="M60 48V16c0-6.62-5.38-12-12-12H16C9.38 4 4 9.38 4 16v32c0 6.62 5.38 12 12 12h32c6.62 0 12-5.38 12-12" style="fill:url(#a)"/>
+    <path d="M50 14s-5.4-.15-10.8 2.55c-1.65.75-3.44 1.95-4.94 3.45-2.43 2.42-6.19 6.88-9.16 10.49h-6.58l-3 4.5 5.08 1.37c.02.19.07.44.21.79l-.79 1.74c-.02.03-.23.67 1.95 2.99 2.32 2.33 3.1 2.12 3.14 2.1l1.87-.84c.2.07.41.1.62.11l1.41 5.23 4.5-3v-6.79c3.63-2.93 8.09-6.62 10.49-8.95 1.5-1.5 2.7-3.3 3.6-4.95C50.15 19.4 50 14.01 50 14m-10 6c2.2 0 4 1.8 4 4s-1.8 4-4 4-4-1.8-4-4 1.8-4 4-4M18.07 39.49c-.3.3-.75.6-1.05.9-3.45 3.44-3 9.59-3 9.59s6.14.45 9.59-3c.3-.3.6-.75.9-1.05-.3-.15-.45-.29-.75-.45-2.85 2.25-7.19 1.95-7.19 1.95s-.3-4.34 1.95-7.19c-.16-.3-.3-.45-.45-.75" style="fill:#f9f9f9;fill-rule:nonzero"/>
+    <defs>
+        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(0 56 56 0 32 4)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#9aafb9;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#688492;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64" height="64" image-rendering="optimizeSpeed">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#0e71de"/>
+            <stop offset="1" stop-color="#25c9ff"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" fill="url(#a)" rx="12" style="fill:url(#a)" transform="translate(0 .062)"/>
+    <g style="fill:none;stroke:#f5f5f5;stroke-width:2.35329999;stroke-dasharray:none">
+        <path d="M79.99.005-.007 80.003v399.992h161.009a14.02 14.02 0 0 0 13.329-9.675l14.478-44.561a13.99 13.99 0 0 1 8.986-8.986l11.123-3.608a14.03 14.03 0 0 1 12.57 1.977l37.897 27.554a14 14 0 0 0 16.455 0l33.966-24.705c4.908-3.565 6.976-9.881 5.102-15.65L300.43 357.78a13.98 13.98 0 0 1 1.976-12.548l6.895-9.468c2.634-3.626 6.825-5.791 11.307-5.792l46.859.023a14.02 14.02 0 0 0 13.329-9.675l12.962-39.942c1.874-5.768-.174-12.108-5.08-15.673l-37.896-27.532a13.96 13.96 0 0 1-5.768-11.307v-11.72c0-4.482 2.142-8.696 5.768-11.33l43.458-31.576a14 14 0 0 0 5.769-11.33V.005z" style="fill:#418fde;fill-opacity:1;fill-rule:evenodd;stroke:#f5f5f5;stroke-width:4.70659997;stroke-linecap:square;stroke-dasharray:none" transform="translate(15.003 11.603)scale(.08499)"/>
+        <path stroke="none" d="m400 80-80 80H160v60h80v80h-80v100l-80 80h81.008a14 14 0 0 0 13.311-9.674l14.48-44.565a14 14 0 0 1 8.992-8.982l11.131-3.617a14 14 0 0 1 12.557 1.984l37.9 27.543a14.01 14.01 0 0 0 16.464 0L309.815 418a13.99 13.99 0 0 0 5.085-15.648l-14.48-44.566a14 14 0 0 1 1.994-12.557l6.883-9.467a13.99 13.99 0 0 1 11.317-5.778l46.86.01a14 14 0 0 0 13.312-9.683l12.981-39.936a14.01 14.01 0 0 0-5.085-15.658l-37.91-27.543a13.98 13.98 0 0 1-5.767-11.317v-11.71c0-4.481 2.142-8.694 5.767-11.327l43.46-31.575A14 14 0 0 0 400 159.917Z" style="fill:#418fde;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.35329999;stroke-linecap:square;stroke-dasharray:none" transform="translate(15.003 11.603)scale(.08499)"/>
+        <path stroke="none" d="m320 0-80 80h80v80l80-80V0ZM80 320 0 400v80h80l80-80H80Z" style="display:inline;fill:#ff585d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.35329999;stroke-linecap:square;stroke-dasharray:none" transform="translate(15.003 11.603)scale(.08499)"/>
+        <path stroke="none" d="M80 0 0 80v320l80-80V80h160l80-80Z" style="fill:#cb333b;fill-rule:evenodd;stroke:none;stroke-width:2.35329999;stroke-linecap:square;stroke-dasharray:none" transform="translate(15.003 11.603)scale(.08499)"/>
+        <path d="M80 400h80V300h80v-80h-80v-60h160V80H80Z" style="fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#f5f5f5;stroke-width:2.35329999;stroke-linecap:square;stroke-dasharray:none" transform="translate(15.003 11.603)scale(.08499)"/>
+    </g>
+</svg>

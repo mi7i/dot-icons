@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933">
+    <defs>
+        <linearGradient id="a" x1="8.587" x2="8.587" y1="15.747" y2="1.097" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#333"/>
+            <stop offset="1" stop-color="gray"/>
+        </linearGradient>
+        <linearGradient id="c" x1="7.937" x2="7.937" y1="4.571" y2="8.473" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ff7072"/>
+            <stop offset="1" stop-color="#ff3875"/>
+        </linearGradient>
+        <linearGradient id="d" x1="8.466" x2="8.466" y1="8.731" y2="12.435" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#59aef8"/>
+            <stop offset="1" stop-color="#3478d5"/>
+        </linearGradient>
+        <filter id="b" width="1.21" height="1.222" x="-.105" y="-.111" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".417"/>
+        </filter>
+    </defs>
+    <rect width="14.817" height="14.817" x="1.058" y="1.05" fill="url(#a)" rx="3.44"/>
+    <g filter="url(#b)" opacity=".35" transform="translate(0 .265)">
+        <path d="M3.704 3.969h9.525V8.73h-2.381V6.35H3.704"/>
+        <path d="M3.704 10.583v2.38h9.525v-2.38h-3.44V8.202H7.144v2.381"/>
+    </g>
+    <path fill="url(#c)" d="M3.704 3.969h9.525V8.73h-2.381V6.35H3.704"/>
+    <path fill="url(#d)" d="M3.704 10.583v2.38h9.525v-2.38h-3.44V8.202H7.144v2.381"/>
+</svg>

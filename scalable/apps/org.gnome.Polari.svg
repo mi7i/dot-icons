@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#1ccd6b;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#8be65c;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
+    <path d="M28 14c-8.864 0-16 7.136-16 16a15.96 15.96 0 0 0 8.234 14C19.001 49.78 18 52 18 52s4.182-1.176 10-6h8c8.864 0 16-7.136 16-16s-7.136-16-16-16Z" style="fill:#fff;stroke-width:8"/>
+    <path d="M30 21h2l-.89 4h4l.89-4h2l-.89 4H40v2h-3.332l-1.336 6H40v2h-5.11L34 39h-2l.89-4h-4L28 39h-2l.89-4H24v-2h3.332l1.336-6H24v-2h5.11zm.668 6-1.336 6h4l1.336-6z" style="fill:#3bbd1e;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"/>
+</svg>

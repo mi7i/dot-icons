@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+    <defs>
+        <radialGradient id="c" cx="32" cy="31" r="15" gradientTransform="matrix(1 0 0 1.1295 0 -4.014)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f0f3f7"/>
+            <stop offset=".68" stop-color="#f0f3f7"/>
+            <stop offset=".771" stop-color="#f0f3f7" stop-opacity=".92"/>
+            <stop offset=".879" stop-color="#f0f3f7" stop-opacity=".72"/>
+            <stop offset="1" stop-color="#eef2f6" stop-opacity=".5"/>
+        </radialGradient>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#7100a3"/>
+            <stop offset="1" stop-color="#db43ad"/>
+        </linearGradient>
+        <filter id="b" width="1.294" height="1.294" x="-.147" y="-.147" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.837"/>
+        </filter>
+    </defs>
+    <rect width="56" height="56" x="4" y="3.969" fill="url(#a)" rx="12"/>
+    <circle cx="34" cy="30" r="23" fill="#ccc" opacity=".3" style="paint-order:markers fill stroke"/>
+    <g stroke-linecap="round" stroke-linejoin="round">
+        <g stroke-width=".621">
+            <circle cx="32" cy="33" r="15" filter="url(#b)" opacity=".25" style="paint-order:markers fill stroke"/>
+            <circle cx="32" cy="32" r="15" fill="#90259a" style="paint-order:markers fill stroke"/>
+            <circle cx="32" cy="32" r="15" fill="url(#c)" style="paint-order:markers fill stroke"/>
+        </g>
+        <path fill="#ae26a9" d="M28.674 26.012a1 1 0 0 0-1.16.988v10a1 1 0 0 0 1.486.875l9-5a1 1 0 0 0 0-1.75l-9-5a1 1 0 0 0-.326-.113" color="#000" style="-inkscape-stroke:none;paint-order:markers fill stroke"/>
+    </g>
+</svg>

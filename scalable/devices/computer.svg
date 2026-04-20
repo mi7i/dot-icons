@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <path fill="#f5f5f5" d="M26 49h12v6H26z"/>
+    <defs>
+        <linearGradient id="a" x1="0" x2="1" y1="0" y2=".714">
+            <stop offset="0%" style="stop-color:#5c5c5c"/>
+            <stop offset="100%" style="stop-color:#494949"/>
+        </linearGradient>
+    </defs>
+    <path d="M8 10h48c2.208 0 4 1.792 4 4v32c0 2.208-1.792 4-4 4H8c-2.208 0-4-1.792-4-4V14c0-2.208 1.792-4 4-4" style="stroke:none;fill:url(#a);stroke-miterlimit:10"/>
+    <defs>
+        <linearGradient id="b" x1="0" x2="1" y1=".5" y2=".5">
+            <stop offset="0%" style="stop-color:#5c5c5c"/>
+            <stop offset="100%" style="stop-color:#494949"/>
+        </linearGradient>
+    </defs>
+    <path d="M21.922 54h20.156c1.061 0 1.922.861 1.922 1.922v.156A1.923 1.923 0 0 1 42.078 58H21.922A1.923 1.923 0 0 1 20 56.078v-.156c0-1.061.861-1.922 1.922-1.922" style="stroke:none;fill:url(#b);stroke-miterlimit:10"/>
+    <defs>
+        <linearGradient id="c" x1="0" x2="1" y1="0" y2=".692">
+            <stop offset="0%" style="stop-color:#1a86f2"/>
+            <stop offset="100%" style="stop-color:#2ac9fe"/>
+        </linearGradient>
+    </defs>
+    <path d="M8 12h48a2 2 0 0 1 2 2v32a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V14a2 2 0 0 1 2-2" style="stroke:none;fill:url(#c);stroke-miterlimit:10"/>
+    <path fill="#fff" d="M10 15c-.554 0-1 .446-1 1v4c0 .554.446 1 1 1h4c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1zm0 9c-.554 0-1 .446-1 1v4c0 .554.446 1 1 1h4c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1z"/>
+</svg>

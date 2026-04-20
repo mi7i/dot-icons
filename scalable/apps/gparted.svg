@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="e" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#a1a1a1;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#dedede;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#b" id="f" x1="8" x2="8" y1="16" y2="8" gradientTransform="matrix(2.5 0 0 2.5 12 12)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="b">
+            <stop offset="0" style="stop-color:#3171e2;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#319ce2;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#c" id="g" x1="10.4" x2="8" y1="8" y2="0" gradientTransform="matrix(2.5 0 0 2.5 12 12)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="c">
+            <stop offset="0" style="stop-color:#c21b1b;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#e16767;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#d" id="h" x1="8" x2="2.345" y1="16" y2="2.345" gradientTransform="matrix(2.5 0 0 2.5 12 12)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="d">
+            <stop offset="0" style="stop-color:#ffa017;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#ffc017;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#e);stroke-width:2"/>
+    <path d="M32 13c-10.493 0-19 8.507-19 19s8.507 19 19 19 19-8.507 19-19-8.507-19-19-19" style="opacity:.6;fill:#fff;stroke-width:3.8;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <path d="M38 32a6 6 0 0 1-6 6v14c11.046 0 20-8.954 20-20z" style="fill:url(#f);fill-opacity:1;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <path d="M32 12a19.93 19.93 0 0 0-14.137 5.863l9.895 9.895c-.041.04-.077.086-.117.129A5.96 5.96 0 0 1 32 26a6 6 0 0 1 6 6h14c0-11.046-8.954-20-20-20" style="fill:url(#g);fill-opacity:1;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+    <path d="M17.86 17.86A19.93 19.93 0 0 0 12 32c0 11.046 8.954 20 20 20V38a6 6 0 0 1-4.242-10.242z" style="fill:url(#h);fill-opacity:1;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/>
+</svg>

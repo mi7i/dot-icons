@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1=".464" x2=".464" y1=".947" y2=".054">
+            <stop offset="0%" style="stop-color:#363636"/>
+            <stop offset="100%" style="stop-color:#6c6c6c"/>
+        </linearGradient>
+    </defs>
+    <path d="M16 3.97h32c6.623 0 12 5.377 12 12V48c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V15.97c0-6.623 5.377-12 12-12" style="stroke:none;fill:url(#a);stroke-miterlimit:10"/>
+    <path d="M4.164 15q-.157.979-.164 1.97V27h56.002V16.97c0-.671-.067-1.326-.164-1.97zM4 37v9.969c0 .693.07 1.368.174 2.031h55.654c.103-.663.174-1.338.174-2.031V37z" opacity=".45"/>
+    <path fill="#4ade80" fill-rule="evenodd" d="M31 9h2a1 1 0 0 1 0 2h-2a1 1 0 0 1 0-2m0 22h2a1 1 0 0 1 0 2h-2a1 1 0 0 1 0-2m0 22h2a1 1 0 0 1 0 2h-2a1 1 0 0 1 0-2"/>
+</svg>

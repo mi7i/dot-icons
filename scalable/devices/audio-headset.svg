@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#9299a6;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#c7cdd8;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="f" x1="26" x2="26" y1="28" y2="15" gradientTransform="matrix(2 0 0 2 -2 0)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="e" x1="7" x2="7" y1="28" y2="15" gradientTransform="matrix(2 0 0 2 2 0)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="b">
+            <stop offset="0" style="stop-color:#a2a8b0;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#9ea9af;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#b" id="d" x1="16" x2="27" y1="2" y2="17" gradientTransform="matrix(2 0 0 2 0 2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#c" id="g" x1="4" x2="4" y1="15" y2="8" gradientTransform="matrix(4 0 0 4 2 -3)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="c">
+            <stop offset="0" style="stop-color:#333;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#707070;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#c" id="h" x1="12" x2="12" y1="15" y2="8" gradientTransform="matrix(4 0 0 4 -2 -3)" gradientUnits="userSpaceOnUse"/>
+    </defs>
+    <path d="M50 53v3c0 1.662-1.338 3-3 3H36.5v3H47c3.324 0 6-2.676 6-6v-3z" style="fill:#6d7687;fill-opacity:1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M31.5 59h7v3h-7c-.831 0-1.5-.669-1.5-1.5s.669-1.5 1.5-1.5" style="fill:#333;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M32 6c-12.188 0-22 9.812-22 22v8h3v-8c0-10.526 8.474-19 19-19s19 8.474 19 19v8h3v-8c0-12.188-9.812-22-22-22" style="fill:url(#d);fill-opacity:1;stroke-width:4;stroke-linecap:square;stroke-linejoin:round"/>
+    <path d="M14 30C8.46 30 4 34.46 4 40v6c0 5.54 4.46 10 10 10h2V30Z" style="fill:url(#e);fill-opacity:1;stroke-width:4;stroke-linecap:square;stroke-linejoin:round"/>
+    <path d="M50 30c5.54 0 10 4.46 10 10v6c0 5.54-4.46 10-10 10h-2V30Z" style="fill:url(#f);fill-opacity:1;stroke-width:4;stroke-linecap:square;stroke-linejoin:round"/>
+    <rect width="4" height="28" x="14" y="29" ry="2" style="fill:url(#g);fill-opacity:1;stroke-width:8;stroke-linecap:square;stroke-linejoin:round"/>
+    <rect width="4" height="28" x="46" y="29" ry="2" style="fill:url(#h);fill-opacity:1;stroke-width:8;stroke-linecap:square;stroke-linejoin:round"/>
+</svg>

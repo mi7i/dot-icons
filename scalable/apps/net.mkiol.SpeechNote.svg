@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f1efeb"/>
+            <stop offset="1" stop-color="#fdfcfc"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" fill="url(#a)" rx="12" style="fill:url(#a)"/>
+    <rect width="12" height="35" x="26" y="15" fill="#006dad" rx="6"/>
+    <rect width="10" height="17" x="12" y="24" fill="#006dad" rx="5"/>
+    <rect width="10" height="17" x="42" y="24" fill="#006dad" rx="5"/>
+    <path fill="#b4b4b4" d="M9 20h4v2H9zm11 0h5v2h-5zm20 0h4v2h-4zm11 0h5v2h-5zM10 46h12v2H10zm0 6h9v2h-9zm13 0h18v2H23zm17-6h5v2h-5zm11 0h3v2h-3zM4.982 12q-.202.49-.365 1h54.768q-.162-.51-.365-1z" style="paint-order:stroke fill markers"/>
+    <circle cx="12.5" cy="9.5" r="1.5" fill="#4d4d4d" style="paint-order:stroke fill markers"/>
+    <circle cx="22.25" cy="9.5" r="1.5" fill="#4d4d4d" style="paint-order:stroke fill markers"/>
+    <circle cx="32" cy="9.5" r="1.5" fill="#4d4d4d" style="paint-order:stroke fill markers"/>
+    <circle cx="41.75" cy="9.5" r="1.5" fill="#4d4d4d" style="paint-order:stroke fill markers"/>
+    <circle cx="51.5" cy="9.5" r="1.5" fill="#4d4d4d" style="paint-order:stroke fill markers"/>
+</svg>

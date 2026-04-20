@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#0091f9;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#41bbff;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
+    <path d="M29.707 37.073q0-2.438.927-4.049.927-1.61 3.317-3.853 1.952-1.757 2.78-2.976.879-1.268.879-3.024 0-2.341-1.512-3.756-1.513-1.464-4.196-1.464-2.439 0-3.902 1.415-1.415 1.366-2.146 3.414L22 21.17q1.073-2.828 3.512-4.975Q27.951 14 31.854 14q2.926 0 5.17 1.22 2.294 1.17 3.513 3.268 1.268 2.098 1.268 4.683 0 2.683-1.366 4.585-1.317 1.854-3.415 3.756-1.61 1.464-2.341 2.78-.732 1.318-.732 3.074v2.049h-4.244ZM31.805 50a3.08 3.08 0 0 1-2.195-.878q-.879-.927-.878-2.244 0-1.267.878-2.146.927-.927 2.195-.927 1.317 0 2.195.927.927.877.927 2.146 0 1.317-.927 2.244-.878.878-2.195.878" style="font-size:7.8202px;line-height:1.25;font-family:&quot;Google Sans&quot;;-inkscape-font-specification:&quot;Google Sans&quot;;fill:#fff;fill-opacity:1;stroke-width:1.21951"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1=".5" x2=".49" y1="0" y2="1">
+            <stop offset="0%" style="stop-color:rgba(255,255,255,.1)"/>
+            <stop offset="100%" style="stop-color:rgba(0,0,0,.1)"/>
+        </linearGradient>
+    </defs>
+    <path d="M15.207 3.98h33.586C54.978 3.98 60 9.002 60 15.188v33.624c0 6.186-5.022 11.208-11.207 11.208H15.207C9.022 60.02 4 54.998 4 48.812V15.188C4 9.002 9.022 3.98 15.207 3.98" style="stroke:none;fill:#6e4242;stroke-miterlimit:10"/>
+    <path d="M15.207 3.98h33.586C54.978 3.98 60 9.002 60 15.188v33.624c0 6.186-5.022 11.208-11.207 11.208H15.207C9.022 60.02 4 54.998 4 48.812V15.188C4 9.002 9.022 3.98 15.207 3.98" style="stroke:none;fill:url(#a);stroke-miterlimit:10"/>
+    <defs>
+        <filter id="b" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
+            <feGaussianBlur stdDeviation=".418"/>
+        </filter>
+    </defs>
+    <g filter="url(#b)" opacity=".1"/>
+    <linearGradient id="c" x1=".503" x2=".503" y1=".095" y2=".947" gradientTransform="translate(11.992 12.051)scale(39.808)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" style="stop-color:#f66"/>
+        <stop offset="100%" style="stop-color:#e55995"/>
+    </linearGradient>
+    <circle cx="31.896" cy="31.955" r="19.904" fill="url(#c)" vector-effect="non-scaling-stroke"/>
+    <defs>
+        <filter id="d" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
+            <feGaussianBlur stdDeviation=".418"/>
+        </filter>
+    </defs>
+    <g filter="url(#d)" opacity=".1"/>
+    <linearGradient id="e" x1="0" x2="1" y1=".5" y2=".5" gradientTransform="matrix(21.326 0 0 11.374 21.943 10.628)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" style="stop-color:#14cc6f"/>
+        <stop offset="100%" style="stop-color:#ffe100"/>
+    </linearGradient>
+    <path fill="url(#e)" d="m29.052 12.05 1.422-1.422c2.843 0 4.022.299 5.687 1.422 4.265 0 7.108 2.844 7.108 4.265-2.843 0-4.265-2.843-7.108-2.843 2.843 1.421 4.265 4.265 4.265 5.687-2.844 0-5.687-1.422-7.109-4.266-1.422 0-1.422 1.422-1.422 2.844v4.265c-1.89-1.422-2.843-2.843-2.843-7.109-4.265 0-5.687 1.422-7.109 2.844 0-3.782 2.844-5.687 7.109-5.687"/>
+    <path fill="#f9f9f9" d="M34.74 34.799c-.774.774-1.666 1.422-2.844 1.422a4.26 4.26 0 0 1-4.265-4.265c0-1.18.65-2.073 1.422-2.844 1.422-1.422 12.795-7.109 12.795-7.109s-5.687 11.374-7.109 12.795z"/>
+    <circle cx="31.896" cy="31.955" r="1.422" fill="#4d4d4d" vector-effect="non-scaling-stroke"/>
+</svg>

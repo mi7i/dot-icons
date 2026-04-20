@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="e" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="f" x1="16" x2="16" y1="26" y2="18" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="b">
+            <stop offset="0" style="stop-color:#c7c7c7;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#e8e8e8;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="d">
+            <stop offset="0" style="stop-color:#1b4a75;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#363636;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#c" id="h" x1="16" x2="16" y1="6" y2="25" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="c">
+            <stop offset="0" style="stop-color:#4c74c3;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#2894c2;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#c" id="i" x1="16" x2="16" y1="6" y2="25" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#c" id="j" x1="16" x2="16" y1="6" y2="25" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#c" id="k" x1="16" x2="16" y1="6" y2="25" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#bfe4fa;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#d9f0fd;stop-opacity:1"/>
+        </linearGradient>
+        <radialGradient xlink:href="#d" id="g" cx="16" cy="22" r="9.096" fx="16" fy="22" gradientTransform="matrix(2 0 0 .87954 0 24.65)" gradientUnits="userSpaceOnUse"/>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#e);stroke-width:2"/>
+    <path d="M20 36h24c2.217 0 3.01 2.018 4 4l4 8c.992 1.982-1.783 4-4 4H16c-2.215 0-4.99-2.018-4-4l4-8c.992-1.982 1.785-4 4-4" style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:url(#f);stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
+    <path d="M20 38h24c.502 0 .533.049.895.504.363.455.795 1.348 1.317 2.39l3.98 7.958c-.019.046-.102.204-.316.394-.45.4-1.374.754-1.875.754H16c-.501 0-1.426-.355-1.875-.754-.214-.19-.298-.348-.317-.394l3.98-7.957c.522-1.043.955-1.936 1.317-2.391.363-.455.394-.504.895-.504" style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:url(#g);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
+    <g style="fill:url(#h)" transform="scale(2)">
+        <path d="M16 16c-.136.7-.314 3.37-2 4-1.201.449-4.998 1.017-5 2.5-.002 1.633 2.224 2.5 7 2.5s7.002-.867 7-2.5c-.002-1.483-3.799-2.051-5-2.5-1.686-.63-1.864-3.3-2-4" style="opacity:.8;fill:url(#i);stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+        <circle cx="16" cy="8" r="2" style="opacity:1;fill:url(#j);stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+        <circle cx="16" cy="13.5" r="1.5" style="opacity:.8;fill:url(#k);stroke-width:3;stroke-linecap:round;stroke-linejoin:round"/>
+    </g>
+</svg>

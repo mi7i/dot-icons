@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <path fill="#f5f5f5" d="M15.999 3.97h32.002C54.623 3.97 60 9.347 60 15.969v32.002c0 6.622-5.377 11.999-11.999 11.999H15.999C9.377 59.97 4 54.593 4 47.971V15.969C4 9.347 9.377 3.97 15.999 3.97"/>
+    <linearGradient id="a" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(56 0 0 56 4 3.97)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-opacity=".1" style="stop-color:#fff"/>
+        <stop offset="100%" stop-opacity=".2" style="stop-color:#000"/>
+    </linearGradient>
+    <path fill="url(#a)" d="M15.999 3.97h32.002C54.623 3.97 60 9.347 60 15.969v32.002c0 6.622-5.377 11.999-11.999 11.999H15.999C9.377 59.97 4 54.593 4 47.971V15.969C4 9.347 9.377 3.97 15.999 3.97"/>
+    <linearGradient id="b" x1=".475" x2=".489" y1=".004" y2=".998" gradientTransform="matrix(-40 0 0 40 52 12)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" style="stop-color:#9ca3af"/>
+        <stop offset="100%" style="stop-color:#475569"/>
+    </linearGradient>
+    <circle cx="32" cy="32" r="20" fill="url(#b)" vector-effect="non-scaling-stroke"/>
+    <circle cx="32" cy="32" r="15" opacity=".3" vector-effect="non-scaling-stroke"/>
+    <linearGradient id="c" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(-26 0 0 26 45 19)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" style="stop-color:#000"/>
+        <stop offset="100%" style="stop-color:#121212"/>
+    </linearGradient>
+    <circle cx="32" cy="32" r="13" fill="url(#c)" vector-effect="non-scaling-stroke"/>
+    <radialGradient id="d" cx=".5" cy=".5" r=".5" fx=".5" fy=".5" gradientTransform="matrix(-22 0 0 22 43 21)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" style="stop-color:#38bdf8"/>
+        <stop offset="100%" stop-opacity=".3" style="stop-color:#2563eb"/>
+    </radialGradient>
+    <circle cx="32" cy="32" r="11" fill="url(#d)" vector-effect="non-scaling-stroke"/>
+    <g opacity=".5">
+        <radialGradient id="e" cx=".5" cy=".5" r=".5" fx=".5" fy=".5" gradientTransform="rotate(-30 62.892 -26.906)scale(9.687 7)" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" style="stop-color:#fff"/>
+            <stop offset="100%" stop-opacity="0" style="stop-color:#fff"/>
+        </radialGradient>
+        <path fill="url(#e)" d="M23.627 30.871c-.966-1.673.129-4.116 2.444-5.453s4.979-1.064 5.945.609-.13 4.117-2.445 5.453-4.978 1.064-5.944-.609"/>
+    </g>
+</svg>

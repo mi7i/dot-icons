@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64">
+    <defs>
+        <linearGradient id="b" x1="32.445" x2="32.445" y1="5.101" y2="59.459" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ff625c"/>
+            <stop offset="1" stop-color="#d03b36"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="c" x1="12" x2="22" y1="17" y2="17" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="g" x1="42" x2="52" y1="17" y2="17" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="h" x1="27" x2="37" y1="32" y2="32" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="f" x1="42" x2="52" y1="47" y2="47" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#a" id="e" x1="12" x2="22" y1="47" y2="47" gradientUnits="userSpaceOnUse"/>
+        <radialGradient xlink:href="#a" id="d" cx="36" cy="36.4" r="9.6" gradientTransform="translate(17 -11.338)scale(.83333)"/>
+    </defs>
+    <linearGradient id="a" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#f5f5f5"/>
+        <stop offset="1" stop-color="#bebebe"/>
+    </linearGradient>
+    <path fill="url(#b)" d="M17.002 3.97h29.996C54.174 3.97 60 9.796 60 16.972v29.996c0 7.176-5.826 13.002-13.002 13.002H17.002C9.826 59.97 4 54.144 4 46.968V16.972C4 9.796 9.826 3.97 17.002 3.97"/>
+    <g stroke-width=".833">
+        <path fill="url(#c)" d="M22 17c0 2.75-2.24 5-5 5s-5-2.25-5-5 2.24-5 5-5 5 2.25 5 5"/>
+        <path fill="url(#d)" d="M52 17c0 2.75-2.24 5-5 5s-5-2.25-5-5 2.24-5 5-5 5 2.25 5 5"/>
+        <path fill="url(#e)" d="M22 47c0 2.75-2.24 5-5 5s-5-2.25-5-5 2.24-5 5-5 5 2.25 5 5"/>
+        <path fill="url(#f)" d="M52 47c0 2.75-2.24 5-5 5s-5-2.25-5-5 2.24-5 5-5 5 2.25 5 5"/>
+        <path fill="url(#g)" d="M52 17c0 2.75-2.24 5-5 5s-5-2.25-5-5 2.24-5 5-5 5 2.25 5 5"/>
+        <path fill="url(#h)" d="M37 32c0 2.75-2.24 5-5 5s-5-2.25-5-5 2.24-5 5-5 5 2.25 5 5"/>
+    </g>
+</svg>

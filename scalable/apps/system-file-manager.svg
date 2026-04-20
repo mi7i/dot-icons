@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933">
+    <defs>
+        <linearGradient id="b" x1="57.544" x2="57.544" y1="26.41" y2=".845" gradientTransform="matrix(1.925 0 0 1.9252 -64.779 5.377)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b8d7ff"/>
+            <stop offset="1" stop-color="#f5f5f5"/>
+        </linearGradient>
+        <linearGradient id="a" x1="132.21" x2="132.21" y1="42.152" y2="70.68" gradientTransform="matrix(1.8782 0 0 1.8784 -215.78 -72.47)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#15c7f8"/>
+            <stop offset="1" stop-color="#1b63dc"/>
+        </linearGradient>
+    </defs>
+    <g stroke-linecap="round" stroke-linejoin="round" stroke-width="5.174">
+        <path fill="url(#a)" d="M16 4C9.352 4 4 9.352 4 16v32c0 6.648 5.352 12 12 12h20.928c-1.757-6.687-2.321-13.946-2.938-21.18-.193-1.831-.482-2.261-1.724-2.31l-5.346-.211c-1.362-.106-1.504-2.093-1.416-3.739.658-8.381 3.493-18.405 6.5-28.559h15.58L47.578 4z" transform="translate(0 -.019)scale(.26458)"/>
+        <path fill="url(#b)" d="m47.713 4-.127.002H32.004c-3.007 10.154-5.842 20.177-6.5 28.559-.088 1.646.056 3.63 1.418 3.736l5.346.213c1.242.05 1.53.48 1.722 2.31.617 7.234 1.18 14.494 2.938 21.18H48c6.648 0 12-5.351 12-12V16c0-6.647-5.352-12-12-12z" transform="translate(0 -.019)scale(.26458)"/>
+    </g>
+    <path d="M4.682 10.75a.265.265 0 0 0-.202.436c.833 1.013 2.359 1.496 3.899 1.51 1.54.012 3.119-.449 4.064-1.483a.265.265 0 1 0-.39-.356c-.796.871-2.241 1.321-3.67 1.31s-2.816-.491-3.494-1.317a.27.27 0 0 0-.207-.1" color="#000" opacity=".75" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <rect width=".794" height="1.587" x="4.763" y="5.29" opacity=".75" rx=".397"/>
+    <rect width=".794" height="1.587" x="11.377" y="5.29" opacity=".75" rx=".397"/>
+</svg>

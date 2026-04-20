@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1=".5" x2=".49" y1="0" y2="1">
+            <stop offset="0%" style="stop-color:#8d8d92"/>
+            <stop offset="100%" style="stop-color:#68686e"/>
+        </linearGradient>
+    </defs>
+    <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4" style="stroke:none;fill:url(#a);stroke-miterlimit:10"/>
+    <linearGradient id="b" x1=".502" x2=".502" y1="-.097" y2="1.112" gradientTransform="translate(15.6 15.54)scale(32.86)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" style="stop-color:#1a1a1a"/>
+        <stop offset="100%" style="stop-color:#333"/>
+    </linearGradient>
+    <linearGradient id="c" x1="0" x2="0" y1=".5" y2="1.5">
+        <stop offset="100%" stop-opacity=".987" style="stop-color:#f5f5f5"/>
+        <stop offset="100%" stop-opacity=".461" style="stop-color:#f5f5f5"/>
+    </linearGradient>
+    <circle cx="32.03" cy="31.97" r="16.43" fill="url(#b)" stroke="url(#c)" stroke-linecap="square" stroke-opacity=".25" stroke-width="4" vector-effect="non-scaling-stroke"/>
+    <path fill="#e8e8e8" d="M22.978 26.738a10.455 10.455 0 0 1 19.273 3.015 10.455 10.455 0 0 1-4.471 10.949L19.784 54.698a7.44 7.44 0 0 1-4.839 1.783 7.473 7.473 0 0 1-7.469-7.469c0-1.913.722-3.66 1.907-4.982l13.565-17.317z"/>
+    <linearGradient id="d" x1=".887" x2=".07" y1=".083" y2=".939" gradientTransform="matrix(35.013 0 0 34.97 7.476 21.511)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-opacity=".5" style="stop-color:#f5f5f5"/>
+        <stop offset="100%" stop-opacity=".25" style="stop-color:#000"/>
+    </linearGradient>
+    <path fill="url(#d)" fill-opacity=".5" d="M22.978 26.738a10.455 10.455 0 0 1 19.273 3.015 10.455 10.455 0 0 1-4.471 10.949L19.784 54.698a7.44 7.44 0 0 1-4.839 1.783 7.473 7.473 0 0 1-7.469-7.469c0-1.913.722-3.66 1.907-4.982l13.565-17.317z"/>
+    <circle cx="32.03" cy="31.97" r="7.468" opacity=".9" vector-effect="non-scaling-stroke"/>
+    <circle cx="32.03" cy="31.97" r="5.078" fill="#f5f5f5" opacity=".25" vector-effect="non-scaling-stroke"/>
+    <circle cx="16.496" cy="47.504" r="5.078" opacity=".9" vector-effect="non-scaling-stroke"/>
+    <circle cx="16.496" cy="47.504" r="3.5" fill="#f5f5f5" opacity=".25" vector-effect="non-scaling-stroke"/>
+</svg>

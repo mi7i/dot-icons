@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1=".5" x2=".5" y1="0" y2="1">
+            <stop offset="0%" style="stop-color:rgba(255,255,255,.1)"/>
+            <stop offset="100%" style="stop-color:rgba(0,0,0,.2)"/>
+        </linearGradient>
+    </defs>
+    <path d="M15.999 3.97h32.002C54.623 3.97 60 9.347 60 15.969v32.002c0 6.622-5.377 11.999-11.999 11.999H15.999C9.377 59.97 4 54.593 4 47.971V15.969C4 9.347 9.377 3.97 15.999 3.97" style="stroke:none;fill:#f5f5f5;stroke-miterlimit:10"/>
+    <path d="M15.999 3.97h32.002C54.623 3.97 60 9.347 60 15.969v32.002c0 6.622-5.377 11.999-11.999 11.999H15.999C9.377 59.97 4 54.593 4 47.971V15.969C4 9.347 9.377 3.97 15.999 3.97" style="stroke:none;fill:url(#a);stroke-miterlimit:10"/>
+    <linearGradient id="b" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(36 0 0 32 14 18)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" style="stop-color:#363636"/>
+        <stop offset="100%" style="stop-color:#5a5a5a"/>
+    </linearGradient>
+    <path fill="url(#b)" d="M18 18c-2.216 0-4 1.784-4 4v20c0 2.216 1.784 4 4 4h6v2c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2v-2h6c2.216 0 4-1.784 4-4V22c0-2.216-1.784-4-4-4z"/>
+    <linearGradient id="c" x1="1" x2="1" y1="1" y2="0" gradientTransform="matrix(20 0 0 8 22 20)" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" style="stop-color:#f0b63e"/>
+        <stop offset="100%" style="stop-color:#e2981b"/>
+    </linearGradient>
+    <path fill="url(#c)" d="M22 20v8h2v-8zm6 0v8h2v-8zm6 0v8h2v-8zm6 0v8h2v-8z"/>
+</svg>

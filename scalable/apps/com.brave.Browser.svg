@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 64 64">
+    <path d="M15.29 4H48.7C54.94 4 60 9.06 60 15.29V48.7C60 54.94 54.94 60 48.7 60H15.3C9.06 60 4 54.94 4 48.7V15.3C4 9.06 9.06 4 15.29 4" style="fill:#ff5722;fill-rule:nonzero"/>
+    <path d="M15.29 4H48.7C54.94 4 60 9.06 60 15.29V48.7C60 54.94 54.94 60 48.7 60H15.3C9.06 60 4 54.94 4 48.7V15.3C4 9.06 9.06 4 15.29 4" style="fill:url(#a);fill-rule:nonzero"/>
+    <path d="M32 16c-1 0-1.99.34-3 1.02-3 2-7-1-8-1s-7 7.28-7 10c0 2 7.5 6.59 7.5 8 0 1-1.5 1.47-1.5 3.6 0 1.4 2 3.9 4 3.9s7-3.93 7-4.9v-.6c0-1.21-4.5-2.72-4.5-5 0-2 1.5-2.74 1.5-5 0-1.95-4-2.5-7-3-1 0 3-3.29 8.5.26 1.39.9-1.5 4.46-1 7.74.75.7 2.13 1.05 3.5 1.05 1.38 0 2.75-.35 3.5-1.05.5-3.28-2.39-6.84-1-7.74 5.5-3.55 9.5-.26 8.5-.26-3 .5-7 1.05-7 3 0 2.26 1.5 3 1.5 5 0 2.28-4.5 3.8-4.5 5v.6c0 .97 5 4.9 7 4.9s4-2.5 4-3.9c0-2.12-1.5-2.6-1.5-3.6 0-1.4 7.5-6 7.5-8 0-2.72-6-10-7-10s-5 3-8 1c-1.01-.68-2-1.02-3-1.02m0 23.82c-2 0-6.5 3.1-6.5 3.7s4.5 5.5 6.5 5.5 6.5-4.9 6.5-5.5-4.5-3.7-6.5-3.7" style="fill:#f9f9f9;fill-rule:nonzero"/>
+    <defs>
+        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(-.56 56 -56 -.56 32 4)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>
+            <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
+        </linearGradient>
+    </defs>
+</svg>

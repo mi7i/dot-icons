@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ccc"/>
+            <stop offset="1" stop-color="#f5f5f5"/>
+        </linearGradient>
+        <linearGradient id="c" x1="32.405" x2="32.405" y1="47.428" y2="16.37" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5c5c5c"/>
+            <stop offset="1" stop-color="#8f8f8f"/>
+        </linearGradient>
+        <linearGradient id="b" x1="32.414" x2="32.414" y1="37.157" y2="27.471" gradientTransform="translate(-13.92 -13.639)scale(1.4167)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#d28360"/>
+            <stop offset="1" stop-color="#d7ad8e"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="3.969" fill="url(#a)" rx="12"/>
+    <circle cx="32.017" cy="31.998" r="30" fill="none"/>
+    <g stroke-width="1.417">
+        <path fill="url(#b)" d="M32 23.5a8.5 8.5 0 0 0-8.5 8.5 8.5 8.5 0 0 0 8.5 8.5 8.5 8.5 0 0 0 8.5-8.5 8.5 8.5 0 0 0-8.5-8.5m0 2.833A5.667 5.667 0 0 1 37.667 32 5.667 5.667 0 0 1 32 37.667 5.667 5.667 0 0 1 26.333 32 5.667 5.667 0 0 1 32 26.333" style="paint-order:normal"/>
+        <path fill="url(#c)" d="M32 15a17 17 0 0 0-17 17 17 17 0 0 0 17 17h17.143L52 46H41.641a17 17 0 0 0 7.36-14 17 17 0 0 0-17-17zm0 9.916A7.083 7.083 0 0 1 39.084 32 7.083 7.083 0 0 1 32 39.084 7.083 7.083 0 0 1 24.916 32 7.083 7.083 0 0 1 32 24.916" style="paint-order:normal"/>
+    </g>
+</svg>

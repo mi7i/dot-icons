@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="c" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#b" id="d" x1="15" x2="49" y1="40.998" y2="40.998" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="b">
+            <stop offset="0" style="stop-color:#f2c204;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#f26c04;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#1d49bf;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#689ddc;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#c);stroke-width:2"/>
+    <path d="M32 12c-8.864 0-16 7.136-16 16v16h2V28c0-7.756 6.244-14 14-14s14 6.244 14 14v16h2V28c0-8.864-7.136-16-16-16" style="fill:#fff;stroke-width:6.4;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M31.982 30a1 1 0 0 0-.97.852l-2.063 13.755-1.963-11.771a1 1 0 0 0-1.96-.06l-2.202 9.535-.875-2.627A1 1 0 0 0 21 39h-6v2h5.28l1.77 5.316a1 1 0 0 0 1.925-.091l1.867-8.092 2.172 13.031a1 1 0 0 0 1.974-.016l2.121-14.14 1.909 10.176a1 1 0 0 0 1.96.025l1.86-8.682 1.174 7.625a1 1 0 0 0 1.883.295L43.617 41H49v-2h-6a1 1 0 0 0-.895.553l-1.595 3.19-1.522-9.895a1 1 0 0 0-1.967-.057l-1.957 9.13-2.082-11.105a1 1 0 0 0-1-.816" style="color:#000;fill:url(#d);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;-inkscape-stroke:none"/>
+    <rect width="8" height="16" x="44" y="32" rx="6" style="fill:#fff;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M46 32c-1.108 0-2 .892-2 2v12c0 1.108.892 2 2 2h2V32Z" style="fill:#c4c4c4;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"/>
+    <rect width="8" height="16" x="12" y="32" rx="6" style="fill:#fff;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M16 32v16h2c1.108 0 2-.892 2-2V34c0-1.108-.892-2-2-2z" style="fill:#c4c4c4;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"/>
+</svg>
