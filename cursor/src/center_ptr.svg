@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px">
+  <defs>
+    <path id="path-1" d="M1 1v13.75l3.94-1.63 1.72 4.16 1.84-.78-1.71-4.15 3.94-1.63z" class="left(-1,22)"/>
+  </defs>
+  <path d="M 7.412 14.521 L 4.913 15.123 C 3.858 15.377 3.306 14.75 3.682 13.727 L 7.49 3.336 C 8.428 0.775 9.998 0.749 10.993 3.277 L 15.033 13.537 C 15.432 14.549 14.894 15.191 13.833 14.973 L 11.336 14.457 L 10.593 18.349 C 10.483 18.934 9.957 19.416 9.42 19.425 C 8.885 19.434 8.351 18.971 8.229 18.389 L 7.412 14.521 Z" clip-path="url(#path-1)" style="stroke-opacity: 0.7; paint-order: stroke; stroke-width: 2px; stroke: rgb(26, 27, 28); fill: rgb(250, 251, 252); transform-origin: 10.575px 10.868px;"/>
+  <circle id="hot" cx="9" cy="2" r="1" style="fill:red;fill-opacity:.5"/>
+</svg>

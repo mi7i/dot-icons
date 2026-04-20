@@ -1,0 +1,51 @@
+/* remove icon shadow and chessboard for svg files */
+
+.nautilus-window .view .thumbnail,
+nautilus-window .view .thumbnail {
+    background: none;
+    box-shadow: none;
+}
+
+nautilus-view-item picture,
+nautilus-view-item image,
+.nautilus-window picture {
+    filter: none;
+    box-shadow: 0 0 0 transparent;
+}
+
+nautilus-view-item label {
+    text-shadow: none;
+}
+
+nautilus-view-item:hover picture,
+nautilus-view-item:selected picture {
+    filter: none;
+    box-shadow: 0 0 0 transparent;
+}
+
+/* remove colors for min/max buttons */
+
+windowcontrols > button.minimize:not(.raised):not(.suggested-action):not(.destructive-action):not(.opaque) > image {
+  background-color: alpha(@window_fg_color,0.4);
+}
+
+windowcontrols > button.minimize:active:not(.raised):not(.suggested-action):not(.destructive-action):not(.opaque) > image {
+  background-color: alpha(@window_fg_color,0.2);
+}
+
+windowcontrols > button.maximize:not(.raised):not(.suggested-action):not(.destructive-action):not(.opaque) > image {
+  background-color: alpha(@window_fg_color,0.4);
+}
+
+windowcontrols > button.maximize:active:not(.raised):not(.suggested-action):not(.destructive-action):not(.opaque) > image {
+  background-color: alpha(@window_fg_color,0.2);
+}
+
+windowcontrols > button.close:not(.raised):not(.suggested-action):not(.destructive-action):not(.opaque) > image {
+  background-color: #ed8796;
+}
+
+windowcontrols > button.close:active:not(.raised):not(.suggested-action):not(.destructive-action):not(.opaque) > image {
+  background-color: alpha(@window_fg_color,0.2);
+}
+

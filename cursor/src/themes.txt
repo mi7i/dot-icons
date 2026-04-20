@@ -1,0 +1,5 @@
+# Name            	Fill     Stroke   Shadow   Handedness
+dreams  			#fcfcfc  #222222  #000000  right
+#dreams-rtl   		#fcfcfc  #222222  #000000  left
+dreams-dark  		#111111  #f9f9f9  #000000  right
+#dreams-dark-rtl	#111111  #f9f9f9  #000000  left
