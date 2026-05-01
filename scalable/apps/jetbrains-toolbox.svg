@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="32" x2="32" y1="4.044" y2="59.969" gradientTransform="matrix(.71725 -.69681 1.00134 1.00134 -87.002 -41.751)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#f43f5e"/>
+            <stop offset="1" style="stop-color:#f472b6"/>
+        </linearGradient>
+        <linearGradient id="b" x1="64.097" x2="64.097" y1="3.177" y2="59.177" gradientTransform="translate(-82.362 -56.495)scale(.78571)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-opacity:.1"/>
+            <stop offset="1" style="stop-color:#fff;stop-opacity:.1"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="55.925" x="-60" y="-59.962" rx="12" ry="12" style="fill:url(#a);stroke-width:1" transform="scale(-1)"/>
+    <rect width="44" height="44" x="10.002" y="9.999" fill-rule="evenodd" rx="8" ry="8" style="paint-order:stroke;stroke-width:3.779;fill-opacity:.9;fill:#222"/>
+    <rect width="44" height="44" x="-54" y="-53.998" rx="8" ry="8" style="stroke-width:1;fill:url(#b)" transform="scale(-1)"/>
+    <path d="M18 37.557h12.22V40H18z" style="fill:#fff;stroke-width:3.779"/>
+</svg>

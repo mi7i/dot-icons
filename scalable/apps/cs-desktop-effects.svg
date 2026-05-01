@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
     <defs>
         <linearGradient xlink:href="#a" id="d" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="a">
-            <stop offset="0" style="stop-color:#0091f9;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#41bbff;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#0091f9"/>
+            <stop offset="1" style="stop-color:#41bbff"/>
         </linearGradient>
         <linearGradient xlink:href="#b" id="e" x1="-12.832" x2="-14.42" y1="-13.981" y2="-14.014" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="b">
-            <stop offset="0" style="stop-color:#fff;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#ddd;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#fff"/>
+            <stop offset="1" style="stop-color:#ddd"/>
         </linearGradient>
         <linearGradient xlink:href="#c" id="f" x1="12.473" x2="14.06" y1="6.642" y2="6.642" gradientTransform="translate(.36 -1.085)" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="c">
-            <stop offset="0" style="stop-color:#818181;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#404040;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#818181"/>
+            <stop offset="1" style="stop-color:#404040"/>
         </linearGradient>
     </defs>
     <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#d);stroke-width:2"/>

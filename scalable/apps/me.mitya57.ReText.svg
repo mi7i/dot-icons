@@ -1,18 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
-    <defs>
-        <linearGradient id="c" x1="33.463" x2="33.463" y1="48" y2="16" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#f5f5f5"/>
-            <stop offset="1" stop-color="#ffdde0"/>
-        </linearGradient>
-        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#b81e31"/>
-            <stop offset="1" stop-color="#ff5c5c"/>
-        </linearGradient>
-        <filter id="b" width="1.153" height="1.109" x="-.076" y="-.055" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".712"/>
-        </filter>
-    </defs>
-    <rect width="56" height="56" x="4" y="3.969" fill="url(#a)" rx="12"/>
-    <text xml:space="preserve" x="16.692" y="48" stroke-width="1.097" filter="url(#b)" font-family="sans-serif" font-size="43.896" letter-spacing="0" opacity=".15" style="line-height:1.25" word-spacing="0"><tspan x="16.692" y="48">R</tspan></text>
-    <text xml:space="preserve" x="16.692" y="48" fill="url(#c)" stroke-width="1.097" font-family="sans-serif" font-size="43.896" letter-spacing="0" style="line-height:1.25" word-spacing="0"><tspan x="16.692" y="48">R</tspan></text>
-</svg>
+calligraplan.svg

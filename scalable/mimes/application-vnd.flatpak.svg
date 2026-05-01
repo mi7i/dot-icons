@@ -1,1 +1,4 @@
-application-vnd.flatpak.ref.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <path d="M16 4h32c4.415 0 8 3.585 8 8v40c0 4.415-3.585 8-8 8H16c-4.415 0-8-3.585-8-8V12c0-4.415 3.585-8 8-8" style="stroke:none;fill:#f3f4f6;stroke-miterlimit:10"/>
+    <path fill="#228be6" d="m31.934 16-13.88 8.012L18 39.988 32 48l14-7.998-.06-15.99L31.933 16zm0 1.27v11.568l1.63.974-1.63.94-11.748-6.787zM45 24.832v14.633l-13 7.443V32.273z"/>
+</svg>

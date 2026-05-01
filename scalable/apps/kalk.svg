@@ -1,18 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
-    <defs>
-        <linearGradient id="a">
-            <stop offset="0" style="stop-color:#eaebed;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#f9fafa;stop-opacity:1"/>
-        </linearGradient>
-        <linearGradient xlink:href="#a" id="c" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient xlink:href="#b" id="d" x1="35.554" x2="35.554" y1="21.46" y2="49.46" gradientTransform="matrix(2 0 0 2 -39.107 -38.92)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient id="b">
-            <stop offset="0" style="stop-color:#ffbe41;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#f98b00;stop-opacity:1"/>
-        </linearGradient>
-    </defs>
-    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#c);stroke-width:2"/>
-    <path d="M36 6c-2.216 0-4 1.784-4 4v44c0 2.216 1.784 4 4 4h12c5.54 0 10-4.46 10-10V16c0-5.54-4.46-10-10-10Z" style="fill:url(#d);fill-opacity:1;stroke-width:3.14285;stroke-linecap:round;stroke-linejoin:round"/>
-    <path d="M18 14v6h-6v2h6v6h2v-6h6v-2h-6v-6zm-6 30v2h14v-2z" style="fill:#666;stroke-width:13.7173;stroke-linejoin:round"/>
-    <path d="M38 28v2h14v-2Zm0 6v2h14v-2z" style="fill:#fff;stroke-width:13.7172;stroke-linejoin:round"/>
-</svg>
+org.kde.kalk.svg

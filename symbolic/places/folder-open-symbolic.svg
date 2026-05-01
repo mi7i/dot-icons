@@ -1,1 +1,1 @@
-folder-drag-accept-symbolic.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="gray" d="M2 1C.892 1 0 1.892 0 3v10c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V5c0-1.108-.892-2-2-2H8L6 1zm0 1h3.586l2 2H14c.554 0 1 .446 1 1v1.275A2 2 0 0 0 14 6H7.586l-2 2H2c-.367 0-.705.104-1 .275V3c0-.554.446-1 1-1m6 5h6c.554 0 1 .446 1 1v5c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1v-3c0-.554.446-1 1-1h4z" style="paint-order:stroke fill markers"/></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <radialGradient id="a" cx="3.902" cy="15.877" r="28" gradientTransform="matrix(0 -1.9947 1.72804 0 -23.297 67.994)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fd5"/>
+            <stop offset=".493" stop-color="#ff543e"/>
+            <stop offset="1" stop-color="#c837ab"/>
+        </radialGradient>
+        <radialGradient id="b" cx="-20.669" cy="13.984" r="28" gradientTransform="matrix(.95288 .9839 -1.68025 1.6273 48.707 2.31)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#3771c8" style="stop-color:#3771c8"/>
+            <stop offset="1" stop-color="#60f" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="stroke-width:2;fill:url(#a)"/>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="opacity:1;fill:url(#b)"/>
+    <path d="M43 18a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-11 3c-6.051 0-11 4.949-11 11s4.949 11 11 11 11-4.949 11-11-4.949-11-11-11m0 4c3.89 0 7 3.11 7 7s-3.11 7-7 7-7-3.11-7-7 3.11-7 7-7m-9.148-14C16.32 11 11 16.32 11 22.852v18.296C11 47.68 16.32 53 22.852 53h18.296C47.68 53 53 47.68 53 41.148V22.852C53 16.32 47.68 11 41.148 11Zm0 4h18.296C45.533 15 49 18.467 49 22.852v18.296C49 45.533 45.533 49 41.148 49H22.852C18.467 49 15 45.533 15 41.148V22.852C15 18.467 18.467 15 22.852 15" style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#fff;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
+</svg>

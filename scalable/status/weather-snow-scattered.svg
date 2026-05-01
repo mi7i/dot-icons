@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32"><defs><linearGradient id="b" x1="14.309" x2="14.309" y1="4.555" y2="23.488" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#ececec"/></linearGradient><linearGradient id="a" x1="17" x2="17" y1="27" y2="32" gradientTransform="translate(0 -2)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#dce1e5"/><stop offset="1" stop-color="#b8c8cc"/></linearGradient></defs><path fill="url(#a)" d="M11.5 22c-.831 0-1.5.669-1.5 1.5s.669 1.5 1.5 1.5 1.5-.669 1.5-1.5-.669-1.5-1.5-1.5m10 0c-.831 0-1.5.669-1.5 1.5s.669 1.5 1.5 1.5 1.5-.669 1.5-1.5-.669-1.5-1.5-1.5M17 27c-.831 0-1.5.669-1.5 1.5S16.169 30 17 30s1.5-.669 1.5-1.5S17.831 27 17 27"/><path fill="url(#b)" d="M13 4A10 10 0 0 0 3 14a10 10 0 0 0 10 10h9a7 7 0 0 0 7-7 7 7 0 0 0-6.836-6.996A10 10 0 0 0 13 4"/><image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAADCAYAAACJZs+gAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAK1JREFUGJVlzTsLglAYxvHnPZpD SRRio4NLF6Hp0NxHCCo/pNE3OVMURGCgtDkZTl7O29Di5Zl/D3/CYEyKYVppagNAmWWFlLIaOpBS yrRc9+88r5CEGiDuoP4rih7WVk5XRDhqaDYFLnmWvfoRpdRoPFssyeCTgCBmXG/q+wzDoGw7sx84 nzf6Hic2aay1gFNVnMx9/wMgbzvDcSZNrXdU86EBA1rHwd59A+gEfiiQQox2XhCoAAAAAElFTkSu QmCC" width="24" height="3" x="4.5" y="21" image-rendering="optimizeQuality" preserveAspectRatio="none"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+    <defs>
+        <linearGradient id="b" x1="14.309" x2="14.309" y1="4.555" y2="23.488" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#ececec"/>
+        </linearGradient>
+        <linearGradient id="a" x1="17" x2="17" y1="27" y2="32" gradientTransform="translate(0 -2)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#dce1e5"/>
+            <stop offset="1" stop-color="#b8c8cc"/>
+        </linearGradient>
+    </defs>
+    <path fill="url(#a)" d="M11.5 22c-.831 0-1.5.669-1.5 1.5s.669 1.5 1.5 1.5 1.5-.669 1.5-1.5-.669-1.5-1.5-1.5m10 0c-.831 0-1.5.669-1.5 1.5s.669 1.5 1.5 1.5 1.5-.669 1.5-1.5-.669-1.5-1.5-1.5M17 27c-.831 0-1.5.669-1.5 1.5S16.169 30 17 30s1.5-.669 1.5-1.5S17.831 27 17 27"/>
+    <path fill="url(#b)" d="M13 4A10 10 0 0 0 3 14a10 10 0 0 0 10 10h9a7 7 0 0 0 7-7 7 7 0 0 0-6.836-6.996A10 10 0 0 0 13 4"/>
+    <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAADCAYAAACJZs+gAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAK1JREFUGJVlzTsLglAYxvHnPZpD SRRio4NLF6Hp0NxHCCo/pNE3OVMURGCgtDkZTl7O29Di5Zl/D3/CYEyKYVppagNAmWWFlLIaOpBS yrRc9+88r5CEGiDuoP4rih7WVk5XRDhqaDYFLnmWvfoRpdRoPFssyeCTgCBmXG/q+wzDoGw7sx84 nzf6Hic2aay1gFNVnMx9/wMgbzvDcSZNrXdU86EBA1rHwd59A+gEfiiQQox2XhCoAAAAAElFTkSu QmCC" width="24" height="3" x="4.5" y="21" image-rendering="optimizeQuality" preserveAspectRatio="none"/>
+</svg>

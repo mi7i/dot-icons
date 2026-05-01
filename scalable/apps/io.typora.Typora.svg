@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <clipPath id="e">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <clipPath id="i">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <clipPath id="k">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <clipPath id="m">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <clipPath id="o">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <clipPath id="d">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <clipPath id="r">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <mask id="c">
+            <g filter="url(#a)">
+                <path fill-opacity=".25" d="M-6.4-6.4h76.8v76.8H-6.4z"/>
+            </g>
+        </mask>
+        <mask id="f">
+            <g filter="url(#a)">
+                <path fill-opacity=".75" d="M-14.08-14.08h92.16v92.16h-92.16z"/>
+            </g>
+        </mask>
+        <mask id="j">
+            <g filter="url(#a)">
+                <path fill-opacity=".75" d="M-14.08-14.08h92.16v92.16h-92.16z"/>
+            </g>
+        </mask>
+        <mask id="l">
+            <g filter="url(#a)">
+                <path fill-opacity=".75" d="M-14.08-14.08h92.16v92.16h-92.16z"/>
+            </g>
+        </mask>
+        <mask id="n">
+            <g filter="url(#a)">
+                <path fill-opacity=".75" d="M-14.08-14.08h92.16v92.16h-92.16z"/>
+            </g>
+        </mask>
+        <mask id="p">
+            <g filter="url(#a)">
+                <path fill-opacity=".75" d="M-14.08-14.08h92.16v92.16h-92.16z"/>
+            </g>
+        </mask>
+        <mask id="q">
+            <g filter="url(#a)">
+                <path fill-opacity=".1" d="M-6.4-6.4h76.8v76.8H-6.4z"/>
+            </g>
+        </mask>
+        <linearGradient id="t" x1="8.477" x2="8.477" y1="13.677" y2="3.478" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#333"/>
+            <stop offset="1" stop-color="#5c5c5c"/>
+        </linearGradient>
+        <linearGradient id="b" x1="32" x2="32" y1="4" y2="60" gradientTransform="translate(0 .001)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#f3f4f6"/>
+            <stop offset="1" style="stop-color:#e5e7eb"/>
+        </linearGradient>
+        <filter id="a" width="100%" height="100%" x="0%" y="0%">
+            <feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="stroke-width:1;fill:url(#b)"/>
+    <g mask="url(#c)" transform="translate(4.174 3.294)scale(.86957)">
+        <g clip-path="url(#d)">
+            <g clip-path="url(#e)" mask="url(#f)">
+                <path d="M9 16.121h46v.496H9Zm0 0"/>
+            </g>
+            <g clip-path="url(#i)" mask="url(#j)">
+                <path d="M9 24h46v.5H9Zm0 0"/>
+            </g>
+            <g clip-path="url(#k)" mask="url(#l)">
+                <path d="M9 32h46v.5H9Zm0 0"/>
+            </g>
+            <g clip-path="url(#m)" mask="url(#n)">
+                <path d="M9 39h46v.5H9Zm0 0"/>
+            </g>
+            <g clip-path="url(#o)" mask="url(#p)">
+                <path d="M9 47.004h46v.5H9Zm0 0"/>
+            </g>
+        </g>
+    </g>
+    <g mask="url(#q)" transform="translate(4.174 3.294)scale(.86957)">
+        <g clip-path="url(#r)">
+            <path d="M29.531 34.469H42.06v1.656H29.53Zm-17-21.637h8.242v1.547h-8.242Zm2.535 6.637h11.782v1.808H15.066Zm13.813.027H40.25v1.977H28.879Zm-14.094 7.246h5.52v1.903h-5.52Zm7.531.149h6.145v1.754h-6.145Zm-7.25 7.332H26.75v1.78H15.066Zm-3.082 7.156h4.157v2.402h-4.157Zm28.403 8.344h4.242v4.172h-4.242Zm5.39 2.64h5.317v1.66h-5.317Zm0 0"/>
+        </g>
+    </g>
+    <path fill="url(#t)" d="M48 12H16.004L15 28h3.004c.398-2.766.824-5.473 1.453-7.246C20.945 16.71 22.109 16.09 26 16.09c1.89 0 3 .613 3 1.996v27.426C29 47.836 29 48 24.672 48h-1.668v4H41v-4h-1.672C34.75 48 35 47.836 35 45.508V18.09c0-1.383 1.11-1.996 3-1.996 3.492 0 4.77.398 6.2 3.722.859 2.047 1.343 5.028 1.8 8.188h3Zm0 0" transform="translate(4.174 3.294)scale(.86957)"/>
+</svg>

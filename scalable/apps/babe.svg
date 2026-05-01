@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <defs>
-        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse" href="#a"/>
         <linearGradient id="a">
-            <stop offset="0" style="stop-color:#f86169;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#f893a6;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#dc2626"/>
+            <stop offset="1" style="stop-color:#f87171"/>
         </linearGradient>
     </defs>
     <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
-    <path d="M20 17v4h6v-4zm18 0v4h6v-4zm-27 4v4h6v-4zm36 0v4h6v-4zm-18 2v4h6v-4zm-9 1v4h6v-4zm18 0v4h6v-4zm-27 4v4h6v-4zm36 0v4h6v-4zm-18 2v4h6v-4zm-9 1v4h6v-4zm18 0v4h6v-4zm-27 4v4h6v-4zm36 0v4h6v-4zm-18 2v4h6v-4zm-9 1v4h6v-4zm18 0v4h6v-4zm-9 6v4h6v-4z" style="fill:#fff"/>
+    <path d="M20.572 17.238v3.81h5.714v-3.81zm17.142 0v3.81h5.714v-3.81zM12 21.048v3.81h5.714v-3.81zm34.286 0v3.81H52v-3.81zm-17.144 1.904v3.81h5.716v-3.81zm-8.57.952v3.81h5.714v-3.81zm17.142 0v3.81h5.714v-3.81zM12 27.714v3.81h5.714v-3.81zm34.286 0v3.81H52v-3.81zm-17.144 1.904v3.81h5.716v-3.81zm-8.57.954v3.808h5.714v-3.808zm17.142 0v3.808h5.714v-3.808zM12 34.38v3.81h5.714v-3.81zm34.286 0v3.81H52v-3.81zm-17.144 1.906v3.81h5.716v-3.81zm-8.57.952v3.81h5.714v-3.81zm17.142 0v3.81h5.714v-3.81zm-8.572 5.714v3.81h5.716v-3.81z" style="fill:#fff"/>
 </svg>

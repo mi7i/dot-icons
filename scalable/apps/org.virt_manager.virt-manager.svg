@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <path fill="#f5f5f5" d="M15.999 3.97h32.002C54.623 3.97 60 9.347 60 15.969v32.002c0 6.622-5.377 11.999-11.999 11.999H15.999C9.377 59.97 4 54.593 4 47.971V15.969C4 9.347 9.377 3.97 15.999 3.97"/>
     <linearGradient id="a" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(56 0 0 56 4 3.97)" gradientUnits="userSpaceOnUse">
         <stop offset="0%" stop-opacity=".1" style="stop-color:#fff"/>

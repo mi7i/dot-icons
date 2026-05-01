@@ -2,7 +2,7 @@
 set -e
 
 srcDir="src"
-outDir="dist"
+outDir="build"
 tmpDir="_"
 
 while read theme fill stroke shadow hand; do
@@ -41,9 +41,9 @@ while read theme fill stroke shadow hand; do
 			while read frame delay attrib; do
 				png="$tmpDir/$name-$size-$frame.png"
 				printf "$size $x $y $png $delay\n" >> "$cfg"
-				sed -e "s|#fafbfc|$fill|g" \
-					-e "s|#1a1b1c|$stroke|g" \
-					-e "s|#0a0b0c|$shadow|g" \
+				sed -e "s|#fff|$fill|g" \
+					-e "s|#000|$stroke|g" \
+					-e "s|#009|$shadow|g" \
 					-e "s|class=\"anim\"|$attrib|g" \
 					-e "s|class=\"$hand(\([-0-9]*\),\([-0-9]*\))\"|transform=\"translate(\2)scale(\1,1)\"|g" \
 					-e 's|id="hot"|display="none"|g' \

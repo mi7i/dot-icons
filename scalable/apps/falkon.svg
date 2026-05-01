@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
     <defs>
         <linearGradient xlink:href="#a" id="d" x1="16" x2="16" y1="2" y2="30" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="a">
-            <stop offset="0" style="stop-color:#c371e0;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#86ceff;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#c371e0"/>
+            <stop offset="1" style="stop-color:#86ceff"/>
         </linearGradient>
         <linearGradient xlink:href="#b" id="e" x1="9" x2="19.925" y1="30" y2="8.5" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="b">
-            <stop offset="0" style="stop-color:#fff;stop-opacity:1"/>
-            <stop offset=".837" style="stop-color:#fff;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#e4e4e4;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#fff"/>
+            <stop offset=".837" style="stop-color:#fff"/>
+            <stop offset="1" style="stop-color:#e4e4e4"/>
         </linearGradient>
         <linearGradient xlink:href="#c" id="f" x1="7.13" x2="24.81" y1="29.678" y2="15.947" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="c">
-            <stop offset="0" style="stop-color:#ffa639;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#ffd36a;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#ffa639"/>
+            <stop offset="1" style="stop-color:#ffd36a"/>
         </linearGradient>
         <linearGradient xlink:href="#c" id="g" x1="8.266" x2="13.778" y1="8.162" y2="9.173" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
         <linearGradient xlink:href="#c" id="h" x1="5.011" x2="18.251" y1="19.255" y2="13.674" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>

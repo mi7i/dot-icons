@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <path id="a" d="M1 1v13.75l3.94-1.63 1.72 4.16 1.84-.78-1.71-4.15 3.94-1.63z" class="left(-1,22)"/>
+    <path id="b" d="M13 13v2h8v-2zm0 3v2h8v-2zm0 3v2h8v-2z" class="left(1,-11)"/>
+    <path id="path-1" d="M1 1v13.75l3.94-1.63 1.72 4.16 1.84-.78-1.71-4.15 3.94-1.63z" class="left(-1,22)"/>
+    <path id="path-2" d="M1 1v13.75l3.94-1.63 1.72 4.16 1.84-.78-1.71-4.15 3.94-1.63z" class="left(-1,22)"/>
+  </defs>
+  <path d="M15 15.082h6a1 1 0 0 1 0 2h-6a1 1 0 0 1 0-2Zm0 5h6a1 1 0 0 1 0 2h-6a1 1 0 0 1 0-2Z" style="stroke: rgb(0, 0, 153); stroke-opacity: 0.2; fill-opacity: 0.2; fill: none; stroke-width: 2px; visibility: hidden;" transform="translate(1 -12.082)"/>
+  <path d="M14 14.082h6a1 1 0 0 1 0 2h-6a1 1 0 0 1 0-2Zm0 5h6a1 1 0 0 1 0 2h-6a1 1 0 0 1 0-2Z" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-opacity: 0.7; stroke-width: 2px; paint-order: stroke; visibility: hidden;" transform="translate(1 -12.082)"/>
+  <path d="m5.777 15.015-2.142 1.42c-.905.599-1.638.199-1.635-.891l.025-11.067C2.03 1.75 3.497 1.189 5.297 3.224l7.305 8.259c.721.815.435 1.602-.637 1.76l-2.523.369.634 3.912c.096.587-.233 1.22-.735 1.412-.499.191-1.16-.061-1.473-.566z" clip-path="url(#path-2)" style="paint-order:stroke;stroke-width:2px;fill:none;stroke:#009;stroke-opacity:.2"/>
+  <path d="m4.777 14.097-2.142 1.42c-.905.599-1.638.199-1.635-.891l.025-11.067C1.03.832 2.497.271 4.297 2.306l7.305 8.259c.721.815.435 1.602-.637 1.76l-2.523.369.634 3.912c.096.587-.233 1.22-.735 1.412-.499.191-1.16-.061-1.473-.566z" clip-path="url(#path-1)" style="stroke-opacity:.7;paint-order:stroke;stroke-width:2px;fill:#fff;stroke:#000"/>
+  <circle id="hot" cx="2" cy="2" r="1" style="fill:red"/>
+</svg>

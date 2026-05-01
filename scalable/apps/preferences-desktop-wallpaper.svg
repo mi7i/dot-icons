@@ -1,1 +1,13 @@
-org.gnome.eog.svg
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#0091f9"/>
+            <stop offset="1" style="stop-color:#41bbff"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
+    <path d="M22.404 36.62 12 48h24l-9.996-11.38c-.808-.92-2.746-.935-3.6 0" style="opacity:.6;fill:#fff;stroke-width:.297632;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M34.404 32.622 20 48h32L38.004 32.622c-.824-.905-2.735-.924-3.6 0" style="fill:#fff;stroke-width:.297632;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="20" cy="20" r="4" style="fill:#fff;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
+</svg>

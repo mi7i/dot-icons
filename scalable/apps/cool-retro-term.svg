@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 86 86">
-    <path d="M21.333 5.307H64c8.831 0 16 7.169 16 15.998v42.723c0 8.829-7.169 15.999-16 15.999H21.333c-8.83 0-16-7.17-16-15.999V21.305c0-8.829 7.17-15.998 16-15.998" style="fill:#282624;fill-rule:nonzero"/>
-    <path d="M21.333 5.307H64c8.831 0 16 7.169 16 15.998v42.723c0 8.829-7.169 15.999-16 15.999H21.333c-8.83 0-16-7.17-16-15.999V21.305c0-8.829 7.17-15.998 16-15.998" style="fill:url(#a);fill-rule:nonzero"/>
-    <path d="M21.537 27.015v15.652h12.522v-4.696h-7.827v-6.26h7.827v-4.698zm14.087 0v15.652h4.696v-6.262h1.565l3.13 6.262h4.696l-3.914-7.827h2.348v-7.825zm14.087 0v4.696h4.696v10.956h4.694V31.711h4.696v-4.698zm-9.391 3.13h3.129v3.131H40.32zM21.537 45.797v15.652h12.52V45.796z" style="fill:#f59e0b;fill-rule:nonzero"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <defs>
-        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(89.397 18.652 24.213)scale(74.88867)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>
-            <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
+        <linearGradient id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse" href="#a"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#272727"/>
+            <stop offset="1" style="stop-color:#5d5d5d"/>
+        </linearGradient>
+        <linearGradient id="c" x1="32" x2="32" y1="14.782" y2="49.218" gradientTransform="translate(5.497 5.499)scale(.8282)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fbbf24"/>
+            <stop offset="1" style="stop-opacity:.9;stop-color:#fbbf24"/>
         </linearGradient>
     </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
+    <path d="M14.5 17.743v12.963h10.372v-3.889h-6.483v-5.184h6.483v-3.892zm11.668 0v12.963h3.889V25.52h1.295l2.591 5.186h3.89l-3.24-6.481h1.943v-6.482zm11.665 0v3.89h3.889v9.073h3.888v-9.073h3.89v-3.892zm-7.776 2.593h2.59v2.592h-2.59zM14.5 33.298V46.26h10.37V33.298z" style="fill-rule:nonzero;stroke-width:1;fill:url(#c)"/>
 </svg>

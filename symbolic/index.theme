@@ -21,7 +21,7 @@ PanelDefault=32
 PanelSizes=16,22,32,48,64,72,96,128
 
 # Directory list
-Directories=actions,apps,apps-qt,categories,devices,emotes,mimes,places,status
+Directories=actions,apps,apps-qt,devices,emotes,mimes,places,status
 
 [actions]
 Context=Actions
@@ -39,13 +39,6 @@ Type=Scalable
 
 [apps-qt]
 Context=Applications
-Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
-
-[categories]
-Context=Categories
 Size=16
 MinSize=16
 MaxSize=512

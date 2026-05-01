@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><defs><linearGradient id="b" x1="14.309" x2="14.309" y1="4.555" y2="23.488" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#ececec"/></linearGradient><linearGradient id="a" x1="16.814" x2="16.814" y1="25.94" y2="30.153" gradientTransform="translate(13.851 -.092)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#648df6"/><stop offset="1" stop-color="#52c0ff"/></linearGradient></defs><rect width="2" height="4" x="16" y="26" fill="url(#a)" ry="1"/><path fill="url(#b)" d="M13 4A10 10 0 0 0 3 14a10 10 0 0 0 10 10h9a7 7 0 0 0 7-7 7 7 0 0 0-6.836-6.996A10 10 0 0 0 13 4"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <defs>
+        <linearGradient id="b" x1="14.309" x2="14.309" y1="4.555" y2="23.488" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#ececec"/>
+        </linearGradient>
+        <linearGradient id="a" x1="16.814" x2="16.814" y1="25.94" y2="30.153" gradientTransform="translate(13.851 -.092)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#648df6"/>
+            <stop offset="1" stop-color="#52c0ff"/>
+        </linearGradient>
+    </defs>
+    <rect width="2" height="4" x="16" y="26" fill="url(#a)" ry="1"/>
+    <path fill="url(#b)" d="M13 4A10 10 0 0 0 3 14a10 10 0 0 0 10 10h9a7 7 0 0 0 7-7 7 7 0 0 0-6.836-6.996A10 10 0 0 0 13 4"/>
+</svg>

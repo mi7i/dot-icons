@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <path fill="#0e56ac" d="M32.219 31.737 4 24.781V48c0 6.623 5.377 12 12 12h11.827z"/>
     <path fill="#0878ca" d="M4 16v10.4L32 32l5.6-28H16C9.377 4 4 9.377 4 16m56 21.6L32 32l-5.6 28H48c6.623 0 12-5.377 12-12z"/>
     <path fill="#0e56ac" d="m36.014 4-4.292 28.262L60 37.644V16c0-6.623-5.377-12-12-12z"/>
     <path fill="#f5f5f5" fill-opacity=".335" d="m19.947 15 24.388.222V23l-24.388-.222z"/>
     <g opacity=".9" style="opacity:.9">
-        <radialGradient id="a" cx=".5" cy=".5" r=".99" fx=".485" fy="-.186" gradientTransform="matrix(22.533 0 0 14.333 20.864 21.716)" gradientUnits="userSpaceOnUse">
-            <stop offset="0%" style="stop-color:#f10000"/>
-            <stop offset="100%" style="stop-color:#b20000"/>
+        <radialGradient id="a" cx=".5" cy=".5" r=".99" gradientTransform="matrix(22.533 0 0 14.333 20.864 21.716)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#f10000"/>
+            <stop offset="1" style="stop-color:#b20000"/>
         </radialGradient>
         <path fill="url(#a)" d="M20.864 24.598c.02 5.809 5.512 11.45 11.32 11.451 5.809-.001 11.192-5.883 11.213-11.692v-2.641H20.864z"/>
     </g>
     <linearGradient id="b" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(56 0 0 56.01 4 4)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-opacity=".3" style="stop-color:#ffedd5"/>
-        <stop offset="100%" stop-opacity=".1" style="stop-color:#312e81"/>
+        <stop offset="0" style="stop-color:#e0f2fe;stop-opacity:.4"/>
+        <stop offset="1" style="stop-color:#312e81;stop-opacity:.2"/>
     </linearGradient>
     <path fill="url(#b)" fill-rule="evenodd" d="M60 16v32c0 6.63-5.38 12.01-12 12.01H16C9.37 60.01 4 54.63 4 48V16C4 9.38 9.37 4 16 4h32c6.62 0 12 5.38 12 12"/>
     <path fill="#fff" d="m19.011 15-.002 9.316c0 6.736 5.127 12.275 11.692 12.929v9.157h-6.496A2.596 2.596 0 0 0 21.607 49h20.786a2.6 2.6 0 0 0-.759-1.839 2.6 2.6 0 0 0-1.839-.759h-6.496v-9.157c6.565-.654 11.692-6.193 11.692-12.929v-9.094h-2.598v9.094l.003.041c0 5.763-4.674 10.433-10.437 10.433s-10.352-4.711-10.352-10.474l.003-.041h-.003L21.61 15z" opacity=".9"/>

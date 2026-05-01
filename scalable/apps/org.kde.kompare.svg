@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed">
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" viewBox="0 0 64 64">
     <defs>
         <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#b81e31"/>
-            <stop offset="1" stop-color="#ff5c5c"/>
+            <stop offset="0" stop-color="#dc2626"/>
+            <stop offset="1" stop-color="#f87171"/>
         </linearGradient>
         <filter id="b" width="1.077" height="1.067" x="-.039" y="-.034" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation=".42"/>
         </filter>
     </defs>
-    <rect width="56.002" height="56.002" x="4" y="3.969" fill="url(#a)" rx="12"/>
+    <rect width="56" height="56" x="4" y="3.969" fill="url(#a)" rx="12"/>
     <g transform="translate(8 6.998)">
         <rect width="26" height="30.002" x="15" y="14" filter="url(#b)" opacity=".25" rx="1.999" style="paint-order:markers stroke fill"/>
         <path fill="#e3e9e3" d="M17 13.999c-1.108 0-2 .892-2 2v26.004c0 1.108.892 2 2 2h22c1.108 0 2-.892 2-2V15.999c0-1.108-.892-2-2-2zm1.002 1.996a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002A1 1 0 0 1 17 16.997a1 1 0 0 1 1.002-1.002m0 6.002a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002A1 1 0 0 1 17 23a1 1 0 0 1 1.002-1.002zm0 5.998a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002A1 1 0 0 1 17 28.997a1 1 0 0 1 1.002-1.002m0 6.002a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002A1 1 0 0 1 17 35a1 1 0 0 1 1.002-1.002zm0 5.998a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002A1 1 0 0 1 17 40.997a1 1 0 0 1 1.002-1.002" style="paint-order:markers stroke fill"/>

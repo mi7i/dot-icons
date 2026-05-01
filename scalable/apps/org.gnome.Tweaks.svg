@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 64 64">
-    <path d="M15.999 3.97h32.002C54.623 3.97 60 9.347 60 15.969v32.002c0 6.622-5.377 11.999-11.999 11.999H15.999C9.377 59.97 4 54.593 4 47.971V15.969C4 9.347 9.377 3.97 15.999 3.97" style="fill:#f5f5f5;fill-rule:nonzero"/>
-    <path d="M15.999 3.97h32.002C54.623 3.97 60 9.347 60 15.969v32.002c0 6.622-5.377 11.999-11.999 11.999H15.999C9.377 59.97 4 54.593 4 47.971V15.969C4 9.347 9.377 3.97 15.999 3.97" style="fill:url(#a);fill-rule:nonzero"/>
-    <path d="M21 52h22c4.967 0 9-4.033 9-9s-4.033-9-9-9H21c-4.967 0-9 4.033-9 9s4.033 9 9 9" style="fill:#9ca3af;fill-rule:nonzero"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 64 64">
+    <rect width="56" height="56" x="4" y="4" rx="12" style="stroke-width:1;fill:url(#a)"/>
+    <path d="M21 52h22c4.967 0 9-4.033 9-9s-4.033-9-9-9H21c-4.967 0-9 4.033-9 9s4.033 9 9 9" style="fill:#9ca3af;fill-rule:nonzero;fill-opacity:.8"/>
     <path d="M21 34h22c4.967 0 9 4.033 9 9s-4.033 9-9 9H21c-4.967 0-9-4.033-9-9s4.033-9 9-9" style="fill:url(#b);fill-rule:nonzero"/>
     <path d="M21 30h22c4.967 0 9-4.033 9-9s-4.033-9-9-9H21c-4.967 0-9 4.033-9 9s4.033 9 9 9" style="fill:#3b82f6;fill-rule:nonzero"/>
     <path d="M21 12h22c4.967 0 9 4.033 9 9s-4.033 9-9 9H21c-4.967 0-9-4.033-9-9s4.033-9 9-9" style="fill:url(#c);fill-rule:nonzero"/>
@@ -11,12 +10,8 @@
     <circle cx="43.001" cy="20.999" r="5.998" style="fill:#fff"/>
     <circle cx="43.001" cy="20.999" r="5.998" style="fill:url(#e)"/>
     <circle cx="20.999" cy="43.001" r="5.998" style="fill:#fff"/>
-    <circle cx="20.999" cy="43.001" r="5.998" style="fill:url(#f)"/>
+    <circle cx="20.999" cy="43.001" r="5.998" style="fill:url(#g)"/>
     <defs>
-        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(0 56 -56 0 32 3.97)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>
-            <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
-        </linearGradient>
         <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(269.63 33.158 1.01)scale(-17.74786 17.74786)" gradientUnits="userSpaceOnUse">
             <stop offset="0" style="stop-color:#000;stop-opacity:.2"/>
             <stop offset="1" style="stop-color:#000;stop-opacity:0"/>
@@ -26,16 +21,20 @@
             <stop offset="1" style="stop-color:#000;stop-opacity:0"/>
         </linearGradient>
         <linearGradient id="d" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 42.5 9.5)scale(17.99845)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#000;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#000;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#000"/>
+            <stop offset="1" style="stop-color:#000"/>
         </linearGradient>
         <linearGradient id="e" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 14 29)scale(11.996)" gradientUnits="userSpaceOnUse">
             <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>
             <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
         </linearGradient>
-        <linearGradient id="f" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 -8.002 29)scale(11.996)" gradientUnits="userSpaceOnUse">
+        <linearGradient id="g" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 -8.002 29)scale(11.996)" gradientUnits="userSpaceOnUse">
             <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>
             <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
+        </linearGradient>
+        <linearGradient id="a" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#f3f4f6"/>
+            <stop offset="1" style="stop-color:#e5e7eb"/>
         </linearGradient>
     </defs>
 </svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b76728"/>
+            <stop offset="1" stop-color="#d09d6a"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" fill="url(#a)" rx="12"/>
+    <rect width="46" height="46" x="9" y="9" opacity=".5" rx="8" ry="8"/>
+    <path fill="#73ff44" d="M37.4 33.778v1.778h1.8v3.555H41v3.556h-1.8v3.555h-1.8V48H41v-1.778h1.8v-1.777h1.8v1.777h1.8V48H50v-1.778h-1.8v-3.555h-1.8V39.11h1.8v-3.555H50v-1.778h-3.6v1.778h-1.8v1.777h-1.8v-1.777H41v-1.778z"/>
+    <path fill="#bd66ff" d="M28.4 16v1.778h-1.8v10.667h1.8v1.777h7.2v-1.777h1.8V17.778h-1.8V16zm1.8 1.778h3.6v10.667h-3.6zm-1.8 16v1.778h-1.8v10.666h1.8V48h7.2v-1.778h1.8V35.556h-1.8v-1.778zm1.8 1.778h3.6v10.666h-3.6z"/>
+    <path fill="#ffeb3b" d="M41 16v1.778h-1.8v3.555H41v1.778h3.6v1.778h1.8v3.556h-3.6v-3.556h-3.6v3.556H41v1.777h7.2v-1.777H50v-3.556h-1.8v-1.778h-1.8v-1.778h-3.6v-3.555h3.6v3.555H50v-3.555h-1.8V16z"/>
+    <path fill="#5964ff" d="M14 33.778v1.778h1.8v10.666H14V48h9v-1.778h1.8V40.89H23v-1.778h1.8v-3.555H23v-1.778zm5.4 1.778h1.8v3.555h-1.8zm0 5.333h1.8v5.333h-1.8z"/>
+    <path fill="#e73d3d" d="M14 16v1.778h1.8v10.667H14v1.777h9v-1.777h1.8V17.778H23V16zm5.4 1.778h1.8v10.667h-1.8z"/>
+</svg>

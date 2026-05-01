@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+    <defs>
+        <clipPath id="b">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <clipPath id="c">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <clipPath id="d">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <clipPath id="e">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <mask id="f">
+            <g filter="url(#a)">
+                <path fill-opacity=".03" d="M-6.4-6.4h76.8v76.8H-6.4z"/>
+            </g>
+        </mask>
+        <mask id="h">
+            <g filter="url(#a)">
+                <path fill-opacity=".03" d="M-6.4-6.4h76.8v76.8H-6.4z"/>
+            </g>
+        </mask>
+        <mask id="j">
+            <g filter="url(#a)">
+                <path fill-opacity=".05" d="M-6.4-6.4h76.8v76.8H-6.4z"/>
+            </g>
+        </mask>
+        <mask id="m">
+            <g filter="url(#a)">
+                <path fill-opacity=".15" d="M-6.4-6.4h76.8v76.8H-6.4z"/>
+            </g>
+        </mask>
+        <g id="g" clip-path="url(#b)">
+            <path d="M16.29 4C9.237 4 3.534 9.816 3.534 17v32.004C3.535 56.184 9.47 62 16.515 62h30.993c7.054 0 12.953-5.812 12.953-13V17c0-7.18-5.707-12.996-12.754-12.996h-.367c6.781.328 12.148 5.976 12.148 12.969v30c0 7.203-5.691 13.004-12.765 13.004H17.28c-7.074 0-12.765-5.801-12.765-13.004V16.969C4.516 9.977 9.883 4.329 16.664 4Zm0 0"/>
+        </g>
+        <g id="i" clip-path="url(#c)">
+            <path d="M4 46.969V49c0 6.648 5.895 12 12.543 12h30.96C54.154 61 60 55.648 60 49v-1.992a12.973 12.973 0 0 1-13 12.965H17.004A12.96 12.96 0 0 1 7.8 56.172 12.97 12.97 0 0 1 4 46.969"/>
+        </g>
+        <g id="k" clip-path="url(#d)">
+            <path d="M4 45v2.238c0 7.328 5.945 13.227 12.594 13.227h30.84C54.086 60.465 60 54.566 60 47.238v-2.191c-.023 7.918-5.809 14.285-13 14.285H17C9.8 59.332 4 52.937 4 45"/>
+        </g>
+        <g id="n" fill="#2a5be5" clip-path="url(#e)">
+            <path d="M14.996 41H21a2 2 0 0 1 2 2v6.004A2 2 0 0 1 21 51h-6.004A1.997 1.997 0 0 1 13 49.004V43c0-1.105.895-2 1.996-2M29 41h6.004c1.101 0 2 .895 2 2v6.004a2 2 0 0 1-2 1.996H29a2 2 0 0 1-2-1.996V43c0-1.105.898-2 2-2m14 0h6.004c1.101 0 1.996.895 1.996 2v6.004A1.997 1.997 0 0 1 49.004 51H43c-1.105 0-2-.895-2-1.996V43a2 2 0 0 1 2-2m0 0"/>
+        </g>
+        <linearGradient id="l" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2858e4"/>
+            <stop offset="1" stop-color="#5ab9f4"/>
+        </linearGradient>
+        <filter id="a" width="100%" height="100%" x="0%" y="0%">
+            <feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <g mask="url(#f)">
+        <use xlink:href="#g"/>
+    </g>
+    <g mask="url(#h)">
+        <use xlink:href="#i"/>
+    </g>
+    <g mask="url(#j)">
+        <use xlink:href="#k"/>
+    </g>
+    <path fill="url(#l)" d="M17 3.969h30c7.18 0 13 5.82 13 13v30c0 7.18-5.82 13.004-13 13.004H17c-7.18 0-13-5.825-13-13.004v-30c0-7.18 5.82-13 13-13m0 0"/>
+    <path fill="#a6d3ff" d="M15 37h34a5 5 0 0 1 5 5v5.996a5 5 0 0 1-5 5H15a5 5 0 0 1-5-5V42a5 5 0 0 1 5-5m0 0"/>
+    <g mask="url(#m)">
+        <use xlink:href="#n"/>
+    </g>
+    <path fill="#f9f9f9" d="M14.996 40H21a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2h-6.004A2 2 0 0 1 13 48v-6c0-1.105.895-2 1.996-2M29 40h6.004c1.101 0 2 .895 2 2v6c0 1.105-.899 2-2 2H29c-1.102 0-2-.895-2-2v-6c0-1.105.898-2 2-2m14 0h6.004c1.101 0 1.996.895 1.996 2v6c0 1.105-.895 2-1.996 2H43a2 2 0 0 1-2-2v-6a2 2 0 0 1 2-2m0 0"/>
+</svg>

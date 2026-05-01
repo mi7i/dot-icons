@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#dc2626"/>
+            <stop offset="1" style="stop-color:#f87171"/>
+        </linearGradient>
+        <filter id="b" width="1.132" height="1.076" x="-.066" y="-.038" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".116"/>
+        </filter>
+    </defs>
+    <rect width="56" height="56" x="4" y="3.969" fill="url(#a)" rx="12"/>
+    <g transform="translate(.607 .477)scale(4.6217)">
+        <path d="M7.62 3.33c-.779 0-1.411.632-1.411 1.411v.847h-.564a.563.563 0 0 0-.564.564c0 .313.252.564.564.564h.564v1.249a1.41 1.41 0 1 0 1.128-.002V6.716h.565a.563.563 0 0 0 .564-.564.563.563 0 0 0-.564-.564h-.564v-.706c0-.234.19-.423.423-.423h.988a.563.563 0 0 0 .564-.564.563.563 0 0 0-.564-.564z" filter="url(#b)" opacity=".1"/>
+        <path fill="#fbf7f7" d="M7.338 3.048c-.779 0-1.411.632-1.411 1.411v.847h-.564a.563.563 0 0 0-.564.564c0 .313.252.564.564.564h.564v1.249a1.41 1.41 0 1 0 1.128-.002V6.434h.565a.563.563 0 0 0 .564-.564.563.563 0 0 0-.564-.564h-.564V4.6c0-.234.19-.423.423-.423h.988a.563.563 0 0 0 .564-.564.563.563 0 0 0-.564-.564z"/>
+        <circle cx="6.491" cy="8.975" r=".564" fill="#5c1b0c"/>
+    </g>
+</svg>

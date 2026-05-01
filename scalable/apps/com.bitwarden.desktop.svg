@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none" style="-webkit-print-color-adjust:exact">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" style="-webkit-print-color-adjust:exact" viewBox="0 0 64 64">
     <defs>
-        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#0060df"/>
-            <stop offset="1" stop-color="#2592ff"/>
+        <linearGradient id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse" href="#a"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#0091f9"/>
+            <stop offset="1" style="stop-color:#41bbff"/>
+        </linearGradient>
+        <linearGradient id="c" x1="32" x2="32" y1="14.055" y2="49.945" gradientTransform="translate(-.097 .902)scale(1.00306)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fff"/>
+            <stop offset="1" style="stop-color:#fff;stop-opacity:.9"/>
         </linearGradient>
     </defs>
-    <rect width="56" height="56" x="4" y="3.969" fill="url(#a)" rx="12"/>
-    <rect width="64" height="64" x="84.352" rx="0"/>
-    <rect width="60.882" height="62.001" x="85.912" y="1.999" fill="url(#pattern528)" rx="0"/>
-    <rect width="56" height="56" x="88.352" y="3.969" rx="12"/>
-    <path fill="#f5f5f5" fill-rule="evenodd" d="M46.705 15.993a1.44 1.44 0 0 0-1.061-.438H18.392c-.442 0-.752.131-1.061.438-.31.307-.443.701-.443 1.052v17.967c0 1.315.266 2.673.797 3.988.53 1.314 1.15 2.498 1.946 3.505a19.4 19.4 0 0 0 2.787 2.98c1.062.964 2.079 1.797 3.008 2.411.885.613 1.903 1.227 2.876 1.796.973.57 1.681.964 2.079 1.14.398.219.752.35.973.482.177.087.399.131.62.131s.442-.044.619-.131c.266-.088.575-.263 1.018-.482.398-.219 1.106-.57 2.079-1.14a63 63 0 0 0 2.875-1.796 30 30 0 0 0 3.009-2.411c1.061-.964 1.99-1.928 2.787-2.98A15.7 15.7 0 0 0 46.307 39a10.7 10.7 0 0 0 .796-3.988V17.045c.045-.351-.088-.745-.398-1.052M43.21 35.187c0 6.53-11.192 12.139-11.192 12.139V19.411H43.21z" clip-rule="evenodd"/>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
+    <path fill-rule="evenodd" d="M46.75 15.439A1.45 1.45 0 0 0 45.686 15H18.351a1.38 1.38 0 0 0-1.065.439 1.5 1.5 0 0 0-.444 1.055v18.023c0 1.319.267 2.681.799 3.999s1.154 2.507 1.952 3.516a19.5 19.5 0 0 0 2.796 2.99c1.065.967 2.085 1.802 3.017 2.418.888.615 1.909 1.23 2.885 1.801.976.573 1.686.968 2.086 1.144.399.22.754.351.976.484.177.087.4.131.622.131s.443-.044.62-.131c.267-.089.577-.264 1.022-.484.399-.219 1.109-.571 2.085-1.144a63 63 0 0 0 2.883-1.801 30 30 0 0 0 3.018-2.418c1.064-.968 1.996-1.935 2.796-2.99a15.7 15.7 0 0 0 1.952-3.516c.52-1.269.79-2.627.798-3.999V16.494c.045-.352-.088-.747-.399-1.055m-3.506 19.253c0 6.55-11.225 12.176-11.225 12.176v-28h11.225z" clip-rule="evenodd" style="fill:url(#c)"/>
 </svg>

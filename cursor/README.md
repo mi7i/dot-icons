@@ -30,9 +30,9 @@ is replaced with `ATTRIBUTE` before rendering the respective frame.
 The svg files use placeholder colors, which are replaced
 with the specific theme colors before rendering.
 
-	#0a0b0c = shadow
-	#1a1b1c = stroke
-	#fafbfc = fill
+	#fff = fill
+	#000 = stroke
+    #009 = shadow
 	
 ### Hotspot
 

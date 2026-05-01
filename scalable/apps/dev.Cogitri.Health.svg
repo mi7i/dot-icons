@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#dc2626"/>
+            <stop offset="1" stop-color="#f87171"/>
+        </linearGradient>
+        <linearGradient id="b" x1="-177.754" x2="-228.553" y1="691.488" y2="691.488" gradientTransform="translate(102.417 -227.013)scale(.36849)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ed333b"/>
+            <stop offset="1" stop-color="#ed333b" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" fill="url(#a)" rx="12"/>
+    <path fill="#f6f5f4" d="M22.892 14.57c-6.837.061-12.347 5.622-12.347 12.459 0 2.966.791 5.855 2.768 7.83l18.8 16.57 18.446-16.15c2.032-2.033 3.122-5.086 3.122-8.25 0-6.882-5.578-12.46-12.46-12.46a12.46 12.46 0 0 0-9.108 3.959 12.46 12.46 0 0 0-9.109-3.959zm0 0" style="stroke-width:.368487" transform="translate(2.222 2.49)scale(.9273)"/>
+    <path fill="none" stroke="url(#b)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.474" d="M18.366 33.188h9.58l3.686-8.475 2.21 14.37 2.949-5.895H39" style="stroke:url(#b)" transform="translate(2.222 2.49)scale(.9273)"/>
+</svg>

@@ -9,8 +9,8 @@
             <stop offset="1" style="stop-color:#fff;stop-opacity:.1"/>
         </linearGradient>
         <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90.388 9.542 23.485)scale(35.21475)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#4fc3f7;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#03a9f4;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#4fc3f7"/>
+            <stop offset="1" style="stop-color:#03a9f4"/>
         </linearGradient>
     </defs>
 </svg>

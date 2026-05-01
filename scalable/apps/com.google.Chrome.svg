@@ -12,24 +12,24 @@
     <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4" style="fill:url(#f)"/>
     <defs>
         <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 -4.144 12.96)scale(42.896)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#35c130;stop-opacity:1"/>
-            <stop offset=".33" style="stop-color:#34bd30;stop-opacity:1"/>
-            <stop offset=".66" style="stop-color:#31b231;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#2c9f32;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#35c130"/>
+            <stop offset=".33" style="stop-color:#34bd30"/>
+            <stop offset=".66" style="stop-color:#31b231"/>
+            <stop offset="1" style="stop-color:#2c9f32"/>
         </linearGradient>
         <linearGradient id="c" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 6.598 31.391)scale(34.31828)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#ffce00;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#e6bc00;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#ffce00"/>
+            <stop offset="1" style="stop-color:#e6bc00"/>
         </linearGradient>
         <linearGradient id="d" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 14.237 15.667)scale(62.0521)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#f6503b;stop-opacity:1"/>
-            <stop offset=".33" style="stop-color:#f24735;stop-opacity:1"/>
-            <stop offset=".66" style="stop-color:#e62f25;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#d4090d;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#f6503b"/>
+            <stop offset=".33" style="stop-color:#f24735"/>
+            <stop offset=".66" style="stop-color:#e62f25"/>
+            <stop offset="1" style="stop-color:#d4090d"/>
         </linearGradient>
         <linearGradient id="e" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 5.17 26.423)scale(21.50548)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#47b9ff;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#3d8aff;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#47b9ff"/>
+            <stop offset="1" style="stop-color:#3d8aff"/>
         </linearGradient>
         <linearGradient id="f" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(89.6 13.818 17.887)scale(56.057)" gradientUnits="userSpaceOnUse">
             <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" image-rendering="optimizeSpeed" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#f3f4f6"/>
+            <stop offset="1" style="stop-color:#e5e7eb"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="stroke-width:1;fill:url(#a)"/>
+    <circle cx="15.5" cy="18.5" r="4.5" fill="#0079fd"/>
+    <path d="M15.5 15a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-3.5-3.5m0 1a2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5 2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5" style="fill:#eee"/>
+    <circle cx="15.5" cy="32.5" r="4.5" fill="#fb3027"/>
+    <path d="M15.5 29a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-3.5-3.5m0 1a2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5 2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5" style="fill:#eee"/>
+    <circle cx="15.5" cy="46.5" r="4.5" fill="#f79500"/>
+    <path d="M15.5 43.001a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-3.5-3.5m0 1a2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5 2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5" style="fill:#eee"/>
+    <rect width="28" height="1" x="24" y="18" rx="0" ry="0" style="fill:gray"/>
+    <rect width="28" height="1" x="24" y="32" rx="0" ry="0" style="fill:gray"/>
+    <rect width="28" height="1" x="24" y="46.002" rx="0" ry="0" style="fill:gray"/>
+</svg>

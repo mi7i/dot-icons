@@ -1,39 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
-    <path fill="#f5f5f5" d="M15.999 3.97h32.002C54.623 3.97 60 9.347 60 15.969v32.002c0 6.622-5.377 11.999-11.999 11.999H15.999C9.377 59.97 4 54.593 4 47.971V15.969C4 9.347 9.377 3.97 15.999 3.97"/>
-    <linearGradient id="a" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(56 0 0 56 4 3.97)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-opacity=".1" style="stop-color:#fff"/>
-        <stop offset="100%" stop-opacity=".2" style="stop-color:#000"/>
-    </linearGradient>
-    <path fill="url(#a)" d="M15.999 3.97h32.002C54.623 3.97 60 9.347 60 15.969v32.002c0 6.622-5.377 11.999-11.999 11.999H15.999C9.377 59.97 4 54.593 4 47.971V15.969C4 9.347 9.377 3.97 15.999 3.97"/>
-    <path fill="#d6d6d5" d="M44.004 16.952v30.855c0 .021-.013.037-.021.054q.01.07.013.139c0 2.209-5.373 4-12 4s-12-1.791-12-4q.008-.077.024-.154c-.005-.014-.016-.024-.016-.039V16.952z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#d1d5db"/>
+            <stop offset="1" style="stop-color:#e5e7eb"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" ry="12" style="stroke-width:2;fill:url(#a)"/>
+    <path d="M44.004 16.952v30.855c0 .021-.013.037-.021.054q.01.07.013.139c0 2.209-5.373 4-12 4s-12-1.791-12-4q.008-.077.024-.154c-.005-.014-.016-.024-.016-.039V16.952z" style="fill:#6b7280;fill-opacity:.2"/>
     <linearGradient id="b" x1=".006" x2="1.006" y1=".496" y2=".496" gradientTransform="matrix(24 0 0 6 20 14)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" style="stop-color:#6f6f6f"/>
-        <stop offset="100%" style="stop-color:#969596"/>
+        <stop offset="0" style="stop-color:#6f6f6f"/>
+        <stop offset="1" style="stop-color:#969596"/>
     </linearGradient>
     <path fill="url(#b)" fill-rule="evenodd" d="M32 14c-4.283.001-8.239.573-10.381 1.5h-1.555c-.035 0-.063.022-.064.048v1.404c0 .003.007.002.008.005L20 17c0 1.657 5.373 3 12 3s12-1.343 12-3l-.006-.044c0-.002.006-.002.006-.004v-1.404c-.001-.027-.029-.048-.065-.048h-1.558C40.236 14.573 36.282 14.001 32 14"/>
     <linearGradient id="c" x1=".006" x2="1.006" y1=".495" y2=".495" gradientTransform="matrix(24 0 0 6 20 12)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" style="stop-color:#d8d9d9"/>
-        <stop offset="100%" style="stop-color:#6d6d6d"/>
+        <stop offset="0" style="stop-color:#d8d9d9"/>
+        <stop offset="1" style="stop-color:#6d6d6d"/>
     </linearGradient>
     <ellipse cx="32" cy="15" fill="url(#c)" rx="12" ry="3" vector-effect="non-scaling-stroke"/>
     <linearGradient id="d" x1=".006" x2="1.006" y1=".652" y2=".652" gradientTransform="matrix(5 0 0 2.417 29.5 13.564)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" style="stop-color:#6f6f6f"/>
-        <stop offset="100%" style="stop-color:#969596"/>
+        <stop offset="0" style="stop-color:#6f6f6f"/>
+        <stop offset="1" style="stop-color:#969596"/>
     </linearGradient>
     <path fill="url(#d)" fill-rule="evenodd" d="M32 13.564c-.892 0-1.716.16-2.163.417h-.324q-.005 0-.009.004t-.004.009v1.14l.002.001-.002.012c0 .46 1.12.834 2.5.834s2.5-.373 2.5-.834l-.001-.012.001-.001v-1.14a.013.013 0 0 0-.013-.013h-.325c-.446-.258-1.27-.417-2.162-.417"/>
     <linearGradient id="e" x1=".006" x2="1.006" y1=".495" y2=".495" gradientTransform="matrix(5 0 0 2 29.5 12.981)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" style="stop-color:#d0d0d0"/>
-        <stop offset="100%" style="stop-color:#6d6d6d"/>
+        <stop offset="0" style="stop-color:#d0d0d0"/>
+        <stop offset="1" style="stop-color:#6d6d6d"/>
     </linearGradient>
     <ellipse cx="32" cy="13.981" fill="url(#e)" rx="2.5" ry="1" vector-effect="non-scaling-stroke"/>
     <linearGradient id="f" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(22 0 0 23.842 21 27.158)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" style="stop-color:#8aba3b"/>
-        <stop offset="100%" stop-opacity="1" style="stop-color:#5b9709"/>
+        <stop offset="0" style="stop-color:#8aba3b"/>
+        <stop offset="1" style="stop-color:#5b9709"/>
     </linearGradient>
     <path fill="url(#f)" fill-rule="evenodd" d="M21.133 27.159c-.069 0-.124.041-.124.092v19.827c0 .01.008.018.012.027a1 1 0 0 0-.021.102 1 1 0 0 0 .027.127A1 1 0 0 0 21 47.5c0 1.933 4.925 3.5 11 3.5s11-1.567 11-3.5a1 1 0 0 0-.022-.196.5.5 0 0 0 .015-.097 1 1 0 0 0-.013-.092c.008-.012.02-.023.02-.037V27.25c0-.05-.055-.092-.124-.092z"/>
     <linearGradient id="g" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(22 0 0 6 21 24)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" style="stop-color:#8bbb3b"/>
-        <stop offset="100%" stop-opacity="1" style="stop-color:#a3d65f"/>
+        <stop offset="0" style="stop-color:#8bbb3b"/>
+        <stop offset="1" style="stop-color:#a3d65f"/>
     </linearGradient>
     <ellipse cx="32" cy="27" fill="url(#g)" rx="11" ry="3" vector-effect="non-scaling-stroke"/>
 </svg>

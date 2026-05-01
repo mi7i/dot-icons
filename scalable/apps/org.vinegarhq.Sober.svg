@@ -1,10 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <defs>
-        <linearGradient id="a" x1=".5" x2=".5" y1="1" y2="0">
-            <stop offset="0%" style="stop-color:#2ba611"/>
-            <stop offset="100%" style="stop-color:#89e451"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#10b981"/>
+            <stop offset="1" style="stop-color:#6ee7b7"/>
+        </linearGradient>
+        <linearGradient id="b" x1="32" x2="32" y1="4" y2="60" gradientTransform="matrix(-.9997 -.02484 0 -1 63.99 64.795)" gradientUnits="userSpaceOnUse" href="#a"/>
+        <linearGradient id="c" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#facc15"/>
+            <stop offset="1" style="stop-color:#fef08a;stop-opacity:0"/>
         </linearGradient>
     </defs>
-    <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4" style="stroke:none;fill:url(#a);stroke-miterlimit:10"/>
-    <path fill="#fff" d="M44.352 50.111a2.575 2.575 0 0 1-3.168 1.795l-27.295-7.554a2.575 2.575 0 0 1-1.795-3.168l3.489-12.608 11.48 3.177-.633 2.287a1.29 1.29 0 0 0 .898 1.584l6.591 1.825a1.29 1.29 0 0 0 1.584-.898l.633-2.287 11.705 3.239zm5.759-30.463a2.575 2.575 0 0 1 1.795 3.168l-3.507 12.671-11.705-3.239.633-2.288a1.29 1.29 0 0 0-.897-1.584l-6.591-1.824a1.29 1.29 0 0 0-1.585.897l-.633 2.288-11.48-3.177 3.507-12.672a2.575 2.575 0 0 1 3.168-1.794z"/>
+    <rect width="56" height="56" x="4" y="4" rx="12" ry="12" style="fill:url(#b)"/>
+    <rect width="56" height="56" x="4" y="4" rx="12" ry="12" style="stroke-width:1;fill-opacity:.2;fill:url(#c)"/>
+    <path fill="#fff" d="M48.619 46.297a2.577 2.577 0 0 1-2.596 2.554l-28.32-.232a2.577 2.577 0 0 1-2.554-2.596l.107-13.081 11.911.097-.019 2.373a1.29 1.29 0 0 0 1.277 1.298l6.839.057c.71.004 1.29-.568 1.298-1.278l.019-2.373 12.145.1zm-2.322-30.916a2.577 2.577 0 0 1 2.554 2.596l-.108 13.147-12.145-.099.02-2.374a1.29 1.29 0 0 0-1.277-1.298l-6.838-.056a1.29 1.29 0 0 0-1.299 1.277l-.019 2.373-11.912-.097.108-13.148a2.576 2.576 0 0 1 2.596-2.553z" style="transform-origin:32px 32px"/>
 </svg>

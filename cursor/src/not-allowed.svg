@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"><defs><path id="a" d="M12 3.25A8.75 8.75 0 0 0 3.25 12 8.75 8.75 0 0 0 12 20.75 8.75 8.75 0 0 0 20.75 12 8.75 8.75 0 0 0 12 3.25m0 2.5a6.25 6.25 0 0 1 5.21 9.7L8.55 6.79A6.25 6.25 0 0 1 12 5.75m-5.21 2.8 8.66 8.66A6.25 6.25 0 0 1 12 18.25a6.25 6.25 0 0 1-5.21-9.7"/></defs><use xlink:href="#a" x="1" y="1" style="opacity:.1;fill:#0a0b0c;stroke:#0a0b0c;stroke-width:2;stroke-linejoin:round"/><use xlink:href="#a" style="fill:#1a1b1c;stroke:#1a1b1c;stroke-width:2;stroke-linejoin:round"/><use xlink:href="#a" style="fill:#fafbfc"/><circle id="hot" cx="12" cy="12" r="1" style="opacity:.5;fill:red"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <circle id="hot" cx="13" cy="13" r="8.5" style="stroke-width:3.091;paint-order:stroke;fill:none;stroke:#009;stroke-opacity:.2"/>
+    <circle id="hot" cx="12" cy="12" r="8.5" style="stroke:#000;stroke-opacity:.8;stroke-width:3.091;paint-order:stroke;fill:#ef4444"/>
+    <rect width="11" height="3" x="6.5" y="10.5" rx="1.5" ry="1.5" style="fill:#fff;stroke-width:1.545"/>
+    <circle id="hot" cx="12" cy="12" r="1" style="fill:red"/>
+</svg>

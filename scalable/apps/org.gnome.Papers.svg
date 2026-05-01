@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
     <defs>
         <linearGradient id="a">
-            <stop offset="0" style="stop-color:#eaebed;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#f9fafa;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#eaebed"/>
+            <stop offset="1" style="stop-color:#f9fafa"/>
         </linearGradient>
         <linearGradient xlink:href="#a" id="c" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="b">
-            <stop offset="0" style="stop-color:#e72f2f;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#ff6969;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#e72f2f"/>
+            <stop offset="1" style="stop-color:#ff6969"/>
         </linearGradient>
         <linearGradient xlink:href="#b" id="d" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
     </defs>

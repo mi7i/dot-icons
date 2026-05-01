@@ -1,19 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 64 64">
-    <path d="M16 4h32c6.62 0 12 5.38 12 12v32c0 6.62-5.38 12-12 12H16C9.38 60 4 54.62 4 48V16C4 9.38 9.38 4 16 4" style="fill:url(#a);fill-rule:nonzero"/>
-    <path d="M16 4h32c6.62 0 12 5.38 12 12v32c0 6.62-5.38 12-12 12H16C9.38 60 4 54.62 4 48V16C4 9.38 9.38 4 16 4" style="fill:url(#b);fill-rule:nonzero"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse" href="#a"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#dc2626"/>
+            <stop offset="1" style="stop-color:#f87171"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
     <path d="M22 19.5h2v20h-2z" style="fill:#fff;fill-opacity:.7;fill-rule:nonzero"/>
     <path d="M22.73 17.5c-.6.34-1.18.72-1.73 1.13l16.08 14.95 1.36-1.47z" style="fill:#fff;fill-opacity:.7;fill-rule:nonzero"/>
     <circle cx="23" cy="20.5" r="7" style="fill:#fff"/>
     <circle cx="40.75" cy="35.25" r="7.25" style="fill:#fff"/>
     <circle cx="23" cy="43.5" r="7" style="fill:#fff"/>
-    <defs>
-        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(56 -56 56 56 4 60)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#f3745d;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#ef4728;stop-opacity:1"/>
-        </linearGradient>
-        <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(0 56 -56 0 32 4)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>
-            <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
-        </linearGradient>
-    </defs>
 </svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="14.552" y2="7.937" gradientTransform="rotate(.444 3334.89 8045.738)scale(-3.77947 3.80265)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#3a7af0"/>
+            <stop offset="1" stop-color="#43adf1"/>
+        </linearGradient>
+        <linearGradient id="d" x1="12.171" x2="12.171" y1="7.936" y2="16.402" gradientTransform="translate(-1.524 -1.524)scale(1.12523)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#404040"/>
+            <stop offset="1" style="stop-color:rgb(15.803% 15.803% 15.803%)"/>
+        </linearGradient>
+        <linearGradient id="c" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fef3c7;stop-opacity:.2"/>
+            <stop offset="1" style="stop-color:#fef3c7;stop-opacity:0"/>
+        </linearGradient>
+        <linearGradient id="b" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#4ade80"/>
+            <stop offset="1" style="stop-color:#16a34a"/>
+        </linearGradient>
+    </defs>
+    <path fill="url(#a)" d="m19 59.999 21.774-21.777L60 43.377v3.621c.015 7.184-5.817 13.016-13.002 13.001zm-4.391-.231c-.121-.022-.242-.041-.359-.068q.176.04.359.068m-1.421-.336c-.106-.034-.208-.076-.314-.11.106.034.208.076.314.11m-2.049-.835c-.162-.083-.325-.159-.484-.25.159.091.322.167.484.25m-1.304-.745A12.97 12.97 0 0 1 4 46.998V28.373l27.854 7.46zM60 35.092 4 20.088V17C3.985 9.816 9.816 3.984 17.001 3.999h29.997C54.183 3.984 60.015 9.816 60 17z" style="stroke-width:3.779;transform-origin:63.998px 63.998px"/>
+    <path d="m4 24.92 56 14.669V48c0 6.627-5.373 12-12 12H16C9.373 60 4 54.627 4 48z" style="stroke-width:1;fill:url(#b)"/>
+    <path d="M60 43.377 4 28.369v-8.285l56 15.008z" style="stroke-width:3.779;transform-origin:63.998px 63.998px;fill:#eee"/>
+    <rect width="56" height="56" x="4" y="4" rx="12" ry="12" style="fill:url(#c)"/>
+    <g transform="translate(-14 -13.992)scale(3.77944)">
+        <circle cx="12.171" cy="12.169" r="4.763" style="fill:url(#d)" transform="matrix(1 0 0 .9999 0 .001)"/>
+        <path d="M12.17 9.523a1.856 1.856 0 0 0-1.84 2.087c.158 1.452 1.72 3.123 1.72 3.123a.2.2 0 0 0 .081.064l.001.001.05.017.053-.017.001-.001a.4.4 0 0 0 .081-.064s1.539-1.674 1.695-3.126q.014-.11.015-.227a1.857 1.857 0 0 0-1.857-1.857m0 3.052a1.196 1.196 0 0 1 0-2.39 1.195 1.195 0 0 1 0 2.39" style="fill:#fff"/>
+    </g>
+</svg>

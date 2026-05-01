@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"><defs><path id="a" d="M10 10v4h4v-4z"/></defs><use xlink:href="#a" x="1" y="1" style="opacity:.1;fill:#0a0b0c;stroke:#0a0b0c;stroke-width:2;stroke-linejoin:round"/><use xlink:href="#a" style="fill:#1a1b1c;stroke:#1a1b1c;stroke-width:2;stroke-linejoin:round"/><use xlink:href="#a" style="fill:#fafbfc"/><circle id="hot" cx="12" cy="12" r="1" style="opacity:.5;fill:red"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <rect width="5.925" height="5.95" x="10" y="10" rx="2" ry="2" style="fill-opacity:.2"/>
+    <rect width="4" height="4" x="10" y="10" rx="1" ry="1" style="fill:#fff;stroke:#000;stroke-opacity:.8;stroke-linejoin:round;paint-order:stroke;stroke-width:2px"/>
+    <circle id="hot" cx="12" cy="12" r="1" style="fill:red"/>
+</svg>

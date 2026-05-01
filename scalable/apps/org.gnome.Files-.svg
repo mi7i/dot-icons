@@ -16,12 +16,12 @@
             <stop offset="1" style="stop-color:#4c0099;stop-opacity:.1"/>
         </linearGradient>
         <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-89.474 34.157 -.157)scale(28.0034)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#ff594d;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#ff7f76;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#ff594d"/>
+            <stop offset="1" style="stop-color:#ff7f76"/>
         </linearGradient>
         <linearGradient id="c" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-89.805 31.558 2.45)scale(36.00171)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#ffee5e;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#feff9f;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#ffee5e"/>
+            <stop offset="1" style="stop-color:#feff9f"/>
         </linearGradient>
         <linearGradient id="d" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 7.281 24.73)scale(43.0118)" gradientUnits="userSpaceOnUse">
             <stop offset="0" style="stop-color:#fc9;stop-opacity:.2"/>

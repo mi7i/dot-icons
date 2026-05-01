@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="b" x1="32" x2="32" y1="17.152" y2="48.957" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f5fdff"/>
+            <stop offset="1" stop-color="#acd9fb"/>
+        </linearGradient>
+        <linearGradient id="a" x1="357.8" x2="357.8" y1="546.73" y2="523.48" gradientTransform="translate(-736.33 -1114)scale(2.1429)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#197ff1"/>
+            <stop offset="1" stop-color="#21c6fb"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="3.969" fill="url(#a)" rx="12"/>
+    <circle cx="32.02" cy="32.044" r="30.001" fill="none"/>
+    <path fill="url(#b)" d="M49.779 28.185q0-.79-1.197-.983l-10.727-1.56-4.808-9.723q-.406-.876-1.047-.876t-1.047.876l-4.808 9.723-10.727 1.56q-1.197.192-1.197.983 0 .45.534 1.026l7.779 7.565-1.838 10.684a4 4 0 0 0-.043.428q0 .45.224.759.224.31.674.31.384 0 .854-.257L32 43.657l9.595 5.043q.45.257.855.257.427 0 .652-.31.224-.31.224-.759 0-.278-.022-.427l-1.838-10.685 7.757-7.565q.556-.556.556-1.026"/>
+</svg>

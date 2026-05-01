@@ -1,26 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
     <defs>
-        <linearGradient id="a" x1="8.587" x2="8.587" y1="15.747" y2="1.097" gradientUnits="userSpaceOnUse">
+        <linearGradient id="b" x1="8.587" x2="8.587" y1="15.747" y2="1.097" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#333"/>
             <stop offset="1" stop-color="gray"/>
         </linearGradient>
-        <linearGradient id="c" x1="7.937" x2="7.937" y1="4.571" y2="8.473" gradientUnits="userSpaceOnUse">
+        <linearGradient id="e" x1="7.937" x2="7.937" y1="4.571" y2="8.473" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ff7072"/>
             <stop offset="1" stop-color="#ff3875"/>
         </linearGradient>
-        <linearGradient id="d" x1="8.466" x2="8.466" y1="8.731" y2="12.435" gradientUnits="userSpaceOnUse">
+        <linearGradient id="f" x1="8.466" x2="8.466" y1="8.731" y2="12.435" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#59aef8"/>
             <stop offset="1" stop-color="#3478d5"/>
         </linearGradient>
-        <filter id="b" width="1.21" height="1.222" x="-.105" y="-.111" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".417"/>
+        <filter id="a" width="100%" height="100%" x="0%" y="0%">
+            <feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
         </filter>
+        <mask id="c">
+            <g filter="url(#a)">
+                <path fill-opacity=".35" d="M-6.4-6.4h76.8v76.8H-6.4z"/>
+            </g>
+        </mask>
     </defs>
-    <rect width="14.817" height="14.817" x="1.058" y="1.05" fill="url(#a)" rx="3.44"/>
-    <g filter="url(#b)" opacity=".35" transform="translate(0 .265)">
-        <path d="M3.704 3.969h9.525V8.73h-2.381V6.35H3.704"/>
-        <path d="M3.704 10.583v2.38h9.525v-2.38h-3.44V8.202H7.144v2.381"/>
+    <path fill="url(#b)" d="M17 3.969h30c7.18 0 13 5.82 13 13v30c0 7.18-5.82 13.004-13 13.004H17c-7.18 0-13-5.825-13-13.004v-30c0-7.18 5.82-13 13-13m0 0"/>
+    <g mask="url(#c)">
+        <use xlink:href="#d"/>
     </g>
-    <path fill="url(#c)" d="M3.704 3.969h9.525V8.73h-2.381V6.35H3.704"/>
-    <path fill="url(#d)" d="M3.704 10.583v2.38h9.525v-2.38h-3.44V8.202H7.144v2.381"/>
+    <path fill="url(#e)" d="M14 15h36v17.996h-9V24H14"/>
+    <path fill="url(#f)" d="M14 40v8.996h36V40H37v-9H27v9"/>
 </svg>

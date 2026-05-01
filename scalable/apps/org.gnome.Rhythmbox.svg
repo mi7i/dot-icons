@@ -13,20 +13,20 @@
             <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
         </linearGradient>
         <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 42.12 9.8)scale(40)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#4c4c4c;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#2a2a2a;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#4c4c4c"/>
+            <stop offset="1" style="stop-color:#2a2a2a"/>
         </linearGradient>
         <linearGradient id="c" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 37.335 11.67)scale(33.342)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#fedf2d;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#f48d01;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#fedf2d"/>
+            <stop offset="1" style="stop-color:#f48d01"/>
         </linearGradient>
         <linearGradient id="e" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 3.08 27.946)scale(14.55964)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#4c4c4c;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#2a2a2a;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#4c4c4c"/>
+            <stop offset="1" style="stop-color:#2a2a2a"/>
         </linearGradient>
         <radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="translate(32 32)scale(33.342)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#fe8c06;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#fea933;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#fe8c06"/>
+            <stop offset="1" style="stop-color:#fea933"/>
         </radialGradient>
     </defs>
 </svg>

@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
     <defs>
         <linearGradient id="a">
-            <stop offset="0" style="stop-color:#eaebed;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#f9fafa;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#eaebed"/>
+            <stop offset="1" style="stop-color:#f9fafa"/>
         </linearGradient>
         <linearGradient xlink:href="#a" id="e" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
         <linearGradient xlink:href="#b" id="f" x1="8" x2="8" y1="13" y2="3" gradientTransform="scale(4)" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="b">
-            <stop offset="0" style="stop-color:#454545;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#5d5d5d;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#454545"/>
+            <stop offset="1" style="stop-color:#5d5d5d"/>
         </linearGradient>
         <linearGradient xlink:href="#c" id="g" x1="8" x2="8" y1="12" y2="4" gradientTransform="scale(4)" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="c">
-            <stop offset="0" style="stop-color:#81868a;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#a7aaad;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#81868a"/>
+            <stop offset="1" style="stop-color:#a7aaad"/>
         </linearGradient>
         <linearGradient xlink:href="#d" id="h" x1="8" x2="8" y1="10" y2="6" gradientTransform="matrix(5.5 0 0 5.5 -12 -12)" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="d">
-            <stop offset="0" style="stop-color:#1b8f71;stop-opacity:1"/>
-            <stop offset="1" style="stop-color:#42c9a1;stop-opacity:1"/>
+            <stop offset="0" style="stop-color:#1b8f71"/>
+            <stop offset="1" style="stop-color:#42c9a1"/>
         </linearGradient>
     </defs>
     <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#e);stroke-width:2"/>

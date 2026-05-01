@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64px" height="64px" style="display:inline" viewBox="0 0 64 64">
+  <title>Suru Icon Theme Template</title>
+  <rect width="48" height="56" x="8" y="4" rx="6" ry="6" style="stroke-width:1;fill:#f3f4f6"/>
+  <g style="display:inline" transform="matrix(0.249995, 0, 0, 0.249995, -5.99933, -14.28667)">
+    <path d="m152.39 147.403.013 9.22h3.687v-1.844h-1.844v-5.53h1.844v-1.844zm22.136.001v1.844h1.843v5.53h-1.843v1.844h3.687v-9.218z" font-weight="400" overflow="visible" style="color:#000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;display:inline;overflow:visible;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1;fill:#201a26;fill-opacity:.85;stroke-width:.33450678" transform="translate(-667.386 -569.515)scale(4.95692)"/>
+    <g transform="translate(-664.736 -569.492)scale(4.95692)">
+      <path d="m165.244 152.008 6.786-3.77v7.54z" style="display:inline;fill:#2bba66;fill-opacity:1;stroke-width:.37697974"/>
+      <circle cx="160.242" cy="152.005" r="3.393" style="display:inline;fill:#2bba66;fill-opacity:1;stroke-width:.37697974"/>
+    </g>
+  </g>
+</svg>

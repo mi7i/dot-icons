@@ -1,9 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <defs>
-        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#ccc"/>
-            <stop offset="1" stop-color="#f5f5f5"/>
-        </linearGradient>
         <linearGradient id="c" x1="32.405" x2="32.405" y1="47.428" y2="16.37" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#5c5c5c"/>
             <stop offset="1" stop-color="#8f8f8f"/>
@@ -12,8 +8,12 @@
             <stop offset="0" stop-color="#d28360"/>
             <stop offset="1" stop-color="#d7ad8e"/>
         </linearGradient>
+        <linearGradient id="a" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#f3f4f6"/>
+            <stop offset="1" style="stop-color:#e5e7eb"/>
+        </linearGradient>
     </defs>
-    <rect width="56" height="56" x="4" y="3.969" fill="url(#a)" rx="12"/>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="stroke-width:1;fill:url(#a)"/>
     <circle cx="32.017" cy="31.998" r="30" fill="none"/>
     <g stroke-width="1.417">
         <path fill="url(#b)" d="M32 23.5a8.5 8.5 0 0 0-8.5 8.5 8.5 8.5 0 0 0 8.5 8.5 8.5 8.5 0 0 0 8.5-8.5 8.5 8.5 0 0 0-8.5-8.5m0 2.833A5.667 5.667 0 0 1 37.667 32 5.667 5.667 0 0 1 32 37.667 5.667 5.667 0 0 1 26.333 32 5.667 5.667 0 0 1 32 26.333" style="paint-order:normal"/>

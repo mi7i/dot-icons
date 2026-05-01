@@ -1,9 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="62.749" height="62.749" viewBox="0 0 16.602 16.602">
-    <g transform="translate(-163.538 -159.435)">
-        <rect width="13.229" height="13.213" x="165.225" y="160.956" fill="#f5f5f5" opacity=".15" rx="2.646"/>
-        <rect width="14.817" height="14.817" x="164.431" y="160.154" fill="url(#a)" rx="3.44" style="fill:#f5f5f5;fill-opacity:1;stroke-width:.264583"/>
-        <path d="M36.59 113.8H0L30.08 0h36.59z" style="fill:#f32735" transform="translate(166.462 163.67)scale(.06841)"/>
-        <path d="M81.86 113.8h-36.6L75.34 0h36.6z" style="fill:#3eae2b" transform="translate(166.462 163.67)scale(.06841)"/>
-        <path d="M127.12 113.8H90.53L120.61 0h36.59z" style="fill:#0068c7" transform="translate(166.462 163.67)scale(.06841)"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+    <defs>
+        <clipPath id="b">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
+        <filter id="a" width="100%" height="100%" x="0%" y="0%">
+            <feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <mask id="c">
+            <g filter="url(#a)">
+                <path fill-opacity=".15" d="M-6.4-6.4h76.8v76.8H-6.4z"/>
+            </g>
+        </mask>
+        <g id="d" clip-path="url(#b)">
+            <path fill="#f5f5f5" d="M16.703 5.863h30.598c5.633 0 10.199 4.567 10.199 10.2v30.535c0 5.632-4.566 10.203-10.2 10.203H16.704c-5.633 0-10.2-4.57-10.2-10.203V16.063c0-5.633 4.567-10.2 10.2-10.2m0 0"/>
+        </g>
+    </defs>
+    <g mask="url(#c)">
+        <use xlink:href="#d"/>
     </g>
+    <path fill="#f5f5f5" d="M16.703 2.773h30.598c7.324 0 13.261 5.934 13.261 13.258V46.63c0 7.324-5.937 13.262-13.261 13.262H16.703c-7.324 0-13.262-5.938-13.262-13.262v-30.6c0-7.324 5.938-13.258 13.262-13.258m0 0"/>
+    <path fill="#f32735" d="M20.922 46.336h-9.649l7.93-30.012h9.652Zm0 0"/>
+    <path fill="#3eae2b" d="M32.86 46.336h-9.653l7.934-30.012h9.652Zm0 0"/>
+    <path fill="#0068c7" d="M44.797 46.336h-9.652l7.933-30.012h9.649Zm0 0"/>
 </svg>

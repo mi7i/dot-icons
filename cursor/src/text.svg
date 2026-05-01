@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="2" height="15" x="18" y="4" rx="1" ry="1" style="paint-order:stroke;stroke-width:2px;stroke-linejoin:round;stroke-linecap:round;stroke-opacity:.7;stroke:#1a1b1c;fill:#fafbfc" transform="matrix(1 0 0 1.13333 -2 3.967)"/><circle id="hot" cx="17" cy="17" r="1" style="fill:red;stroke-width:.9375px;stroke-opacity:.5;fill-opacity:.5"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <rect width="2" height="18" x="5" y="5" rx="1" ry="1" style="paint-order:stroke;stroke-linejoin:round;stroke-linecap:round;stroke-width:2;fill:none;stroke:#009;stroke-opacity:.2"/>
+    <rect width="2" height="18" x="3.983" y="4" rx="1" ry="1" style="paint-order:stroke;stroke-linejoin:round;stroke-linecap:round;stroke-opacity:.8;stroke:#000;fill:#fff;stroke-width:2"/>
+    <circle id="hot" cx="4.983" cy="13" r="1" style="fill:red;stroke-width:1">
+        <title>hot</title>
+    </circle id="hot">
+</svg>

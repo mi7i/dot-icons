@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="c" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse" href="#a"/>
+        <linearGradient id="a">
+            <stop offset="0" style="stop-color:#272727"/>
+            <stop offset="1" style="stop-color:#5d5d5d"/>
+        </linearGradient>
+        <linearGradient id="e" x1="31" x2="31" y1="34" y2="24" gradientTransform="translate(8 8)" gradientUnits="userSpaceOnUse" href="#b"/>
+        <linearGradient id="b">
+            <stop offset="0" stop-color="#272b2d"/>
+            <stop offset="1" stop-color="#33393e"/>
+        </linearGradient>
+        <linearGradient id="f" x1="18" x2="18" y1="34" y2="24" gradientTransform="translate(8 8)" gradientUnits="userSpaceOnUse" href="#b"/>
+        <linearGradient id="d" x1="32" x2="32" y1="11.999" y2="51.999" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#4ade80"/>
+            <stop offset="1" style="stop-color:#10b981;stop-opacity:.7"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#c);stroke-width:2"/>
+    <path d="M16 27.478c0 10.29 8.496 24.521 16 24.521 7.064 0 16-14.232 16-24.521s-7.163-15.479-16-15.479-16 5.189-16 15.479" style="fill:url(#d)" transform="translate(0 .001)"/>
+    <path fill="url(#e)" d="M36.382 34.382a8.13 8.13 0 0 1 7.441-2.205 8.133 8.133 0 0 1-9.646 9.646 8.13 8.13 0 0 1 2.205-7.441" transform="translate(0 .001)"/>
+    <path fill="url(#f)" d="M20.176 32.313c2.602-.542 5.42.182 7.441 2.175a7.94 7.94 0 0 1 2.206 7.338c-2.602.542-5.421-.182-7.442-2.175a7.94 7.94 0 0 1-2.205-7.338" transform="translate(0 .001)"/>
+</svg>
