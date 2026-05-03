@@ -6,8 +6,6 @@
         </linearGradient>
     </defs>
     <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#a);stroke-width:1"/>
-    <g style="opacity:.5" transform="translate(1.391 1.391)scale(.95652)">
-        <rect width="37.636" height="37.636" x="13.182" y="13.182" rx="6.273" ry="6.273" style="fill:none;stroke:red"/>
-        <circle cx="32" cy="32" r="20.909" style="fill:none;stroke:red"/>
-    </g>
+    <circle cx="32" cy="32" r="20" style="fill:none;stroke:red;stroke-width:.957;opacity:.5"/>
+    <rect width="36" height="36" x="14" y="14" rx="6.273" ry="6.273" style="fill:none;stroke:red;stroke-width:.957;opacity:.5"/>
 </svg>

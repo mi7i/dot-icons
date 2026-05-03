@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" viewBox="0 0 32 32">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
     <path d="M9.495 10.236V4.2c0-.662-.538-1.2-1.2-1.2h-.1c-.662 0-1.2.538-1.2 1.2v13.405q-.072.516-.495.525-.437.012-.5-.563v-4.128c0-.684-.56-1.239-1.25-1.239s-1.25.555-1.25 1.239l.001 5.761c.001 3.311 2.69 6 6.002 6h5.492c3.311 0 6-2.689 6-6v-5c0-.828-.657-1.641-1.467-1.814z" style="stroke-width:2;stroke-linejoin:round;paint-order:stroke;fill:none;stroke:#009;stroke-opacity:.2"/>
     <path fill="#fff" d="M8.5 9.036V3c0-.662-.538-1.2-1.2-1.2h-.1C6.538 1.8 6 2.338 6 3v13.405q-.073.515-.495.525-.438.011-.5-.563v-4.128c0-.684-.56-1.239-1.25-1.239s-1.25.555-1.25 1.239L2.506 18c.001 3.311 2.69 6 6.002 6H14c3.311 0 6-2.689 6-6v-5c0-.828-.657-1.641-1.467-1.814z" style="stroke:#000;stroke-opacity:.8;stroke-width:2px;stroke-linejoin:round;paint-order:stroke"/>
     <circle id="hot" cx="7" cy="3" r="1" fill="red" vector-effect="non-scaling-stroke"/>

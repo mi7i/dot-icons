@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-    <path d="m5 19 2-4.5 8.625-8.625.625-.5L18 3.625 20.375 6l-1.75 1.75-.5.625L9.5 17z" class="left(-1,22)" style="opacity:.1;fill:#000;stroke:#000;stroke-width:2;stroke-linejoin:round" transform="translate(1 1)"/>
-    <path d="m5 19 2-4.5 8.625-8.625.625-.5L18 3.625 20.375 6l-1.75 1.75-.5.625L9.5 17z" class="left(-1,22)" style="stroke:#1a1b1c;stroke-width:2;stroke-linejoin:round;stroke-opacity:.8;fill:#191a1b"/>
-    <path d="m18 3.625-1.75 1.75 2.375 2.375L20.375 6zm-2.375 2.25-.75.75 2.5 2.5.75-.75zm-1.312 1.313-6.688 6.687 2.5 2.5 6.688-6.687zM7 14.5 5.9 17 7 18.1 9.5 17z" class="left(-1,22)" style="fill:#fafbfc"/>
+    <path d="m5 20.998 3.573-1.19L20.485 7.896c.932-.901.541-2.474-.706-2.831a1.68 1.68 0 0 0-1.676.449L6.191 17.426zM19.592 6.406a.42.42 0 0 1 0 .596l-4.171 4.171a.42.42 0 0 1-.595-.595l4.171-4.172a.423.423 0 0 1 .595 0" clip-path="url(#a)" style="paint-order:stroke;stroke-width:2;stroke-miterlimit:3;fill:none;stroke:#009;stroke-opacity:.2"/>
+    <path fill-rule="evenodd" d="m4 19.999 3.573-1.19L19.485 6.897c.932-.901.541-2.474-.706-2.831a1.68 1.68 0 0 0-1.676.449L5.191 16.427zM18.592 5.407a.42.42 0 0 1 0 .596l-4.171 4.171a.42.42 0 0 1-.595-.595l4.171-4.172a.423.423 0 0 1 .595 0" clip-path="url(#a)" style="fill:#fff;stroke:#000;paint-order:stroke;stroke-width:2px;stroke-miterlimit:3"/>
     <circle id="hot" cx="4" cy="20" r="1" class="left(-1,22)" style="fill:red"/>
 </svg>

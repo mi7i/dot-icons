@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <path d="M6.153 16.193c-.845.418-1.654.906-2.418 1.459-.96.703-1.738.306-1.735-.882l.025-12.068c.008-2.975 1.621-3.588 3.6-1.366l8.033 9.006c.79.886.472 1.686-.715 1.781q-1.071.085-2.759.541c-1.692.453-2.671.847-4.031 1.529" clip-path="url(#a)" style="paint-order:stroke;stroke-width:2;stroke:#009;fill:none;stroke-opacity:.2"/>
-    <path d="M5.153 15.193c-.845.418-1.654.906-2.418 1.459-.96.703-1.738.306-1.735-.882l.025-12.068C1.033.727 2.646.114 4.625 2.336l8.033 9.006c.79.886.472 1.686-.715 1.781q-1.071.085-2.759.541c-1.692.453-2.671.847-4.031 1.529" clip-path="url(#a)" style="paint-order:stroke;stroke-width:2;stroke-opacity:.7;fill:#fff;stroke:#000"/>
-    <circle id="hot" cx="14.501" cy="12.501" r="5.5" style="stroke-width:2;fill:none;stroke:#009;stroke-opacity:.2"/>
-    <circle id="hot" cx="13.5" cy="11.5" r="5.5" style="fill:#fff;stroke:#000;stroke-opacity:.7;stroke-width:2;paint-order:stroke"/>
-    <path d="M11.2 9.3h4.6a.7.7 0 1 1 0 1.4h-4.6a.7.7 0 1 1 0-1.4m0 3h4.6a.7.7 0 1 1 0 1.4h-4.6a.7.7 0 1 1 0-1.4" style="fill-opacity:.8"/>
+    <path d="M5.153 15.193c-.845.418-1.654.906-2.418 1.459-.96.703-1.738.306-1.735-.882l.025-12.068C1.033.727 2.646.114 4.625 2.336l8.033 9.006c.79.886.472 1.686-.715 1.781q-1.071.085-2.759.541c-1.692.453-2.671.847-4.031 1.529" clip-path="url(#a)" style="paint-order:stroke;stroke-width:2;stroke-opacity:.8;fill:#fff;stroke:#000"/>
+    <path d="M20.001 12.501a5.5 5.5 0 0 1-5.5 5.5 5.5 5.5 0 0 1-5.5-5.5 5.5 5.5 0 0 1 5.5-5.5 5.5 5.5 0 0 1 5.5 5.5Z" style="stroke-width:2;fill:none;stroke:#009;stroke-opacity:.2"/>
+    <path d="M19 11.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0Z" style="fill:#fff;stroke:#000;stroke-opacity:.8;stroke-width:2;paint-order:stroke"/>
+    <path d="M11.2 9.3h4.6a.7.7 0 1 1 0 1.4h-4.6a.7.7 0 1 1 0-1.4m0 3h4.6a.7.7 0 1 1 0 1.4h-4.6a.7.7 0 1 1 0-1.4" style="fill:#000;fill-opacity:.9;stroke-linejoin:round;paint-order:stroke"/>
     <circle id="hot" cx="2" cy="2" r="1" class="left(-1,22)" style="fill:red"/>
 </svg>
