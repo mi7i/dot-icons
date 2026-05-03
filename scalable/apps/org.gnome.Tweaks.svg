@@ -10,7 +10,7 @@
     <circle cx="43.001" cy="20.999" r="5.998" style="fill:#fff"/>
     <circle cx="43.001" cy="20.999" r="5.998" style="fill:url(#e)"/>
     <circle cx="20.999" cy="43.001" r="5.998" style="fill:#fff"/>
-    <circle cx="20.999" cy="43.001" r="5.998" style="fill:url(#g)"/>
+    <circle cx="20.999" cy="43.001" r="5.998" style="fill:url(#f)"/>
     <defs>
         <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(269.63 33.158 1.01)scale(-17.74786 17.74786)" gradientUnits="userSpaceOnUse">
             <stop offset="0" style="stop-color:#000;stop-opacity:.2"/>
@@ -28,7 +28,7 @@
             <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>
             <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
         </linearGradient>
-        <linearGradient id="g" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 -8.002 29)scale(11.996)" gradientUnits="userSpaceOnUse">
+        <linearGradient id="f" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 -8.002 29)scale(11.996)" gradientUnits="userSpaceOnUse">
             <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>
             <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
         </linearGradient>

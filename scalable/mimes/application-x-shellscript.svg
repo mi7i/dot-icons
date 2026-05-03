@@ -1,1 +1,5 @@
-application-x-sharedlib.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <rect width="48" height="56" x="8" y="4" fill="#f3f4f6" rx="6" style="stroke-width:1"/>
+    <path d="M27.65 29.14h8a1 1 0 0 1 0 2h-8a1 1 0 0 1 0-2" style="stroke:none;stroke-miterlimit:10;fill:#71717a"/>
+    <path d="m26.279 23.139-6.201-5.166a1.034 1.034 0 0 0-1.323 1.588L24 23.934l-5.245 4.373a1.03 1.03 0 0 0 .263 1.765l.006.002c.356.139.761.071 1.054-.181l6.201-5.169a1.03 1.03 0 0 0 0-1.585" style="fill:#71717a"/>
+</svg>

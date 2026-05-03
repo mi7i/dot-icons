@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <defs>
-        <linearGradient id="d" x1="74.341" x2="74.032" y1="15.186" y2="49.356" gradientUnits="userSpaceOnUse">
+        <linearGradient id="c" x1="74.341" x2="74.032" y1="15.186" y2="49.356" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#336df5"/>
             <stop offset="1" stop-color="#42afe6"/>
         </linearGradient>
-        <linearGradient id="e" x1="76.747" x2="91.891" y1="32" y2="32" gradientUnits="userSpaceOnUse">
+        <linearGradient id="d" x1="76.747" x2="91.891" y1="32" y2="32" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#63c644"/>
             <stop offset="1" stop-color="#96ca6b" stop-opacity=".982"/>
         </linearGradient>
-        <linearGradient id="c" x1="95.889" x2="95.172" y1="17.085" y2="48.949" gradientUnits="userSpaceOnUse">
+        <linearGradient id="b" x1="95.889" x2="95.172" y1="17.085" y2="48.949" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#5da624"/>
             <stop offset="1" stop-color="#6ba63f" stop-opacity=".952"/>
         </linearGradient>
@@ -19,9 +19,9 @@
     </defs>
     <rect width="56" height="56" x="4" y="4" rx="12" style="stroke-width:1;fill:url(#a)"/>
     <g stroke-width="1.304">
-        <path fill="url(#c)" d="m98.698 21.565-7.826-6.522v33.913l7.826-6.521z" transform="matrix(1.18483 0 0 1.17949 -67.94 -5.743)"/>
-        <path fill="url(#d)" d="m70.002 21.565 7.826-6.522v33.913l-7.826-6.521z" transform="matrix(1.18483 0 0 1.17949 -67.94 -5.743)"/>
-        <path fill="url(#e)" d="M77.828 15.043c-1.589 4.544-1.287 9.196 0 13.912l13.043 20.001c.836-4.564 1.799-9.127 0-13.69z" transform="matrix(1.18483 0 0 1.17949 -67.94 -5.743)"/>
+        <path fill="url(#b)" d="m98.698 21.565-7.826-6.522v33.913l7.826-6.521z" transform="matrix(1.18483 0 0 1.17949 -67.94 -5.743)"/>
+        <path fill="url(#c)" d="m70.002 21.565 7.826-6.522v33.913l-7.826-6.521z" transform="matrix(1.18483 0 0 1.17949 -67.94 -5.743)"/>
+        <path fill="url(#d)" d="M77.828 15.043c-1.589 4.544-1.287 9.196 0 13.912l13.043 20.001c.836-4.564 1.799-9.127 0-13.69z" transform="matrix(1.18483 0 0 1.17949 -67.94 -5.743)"/>
         <path fill="#569e41" d="M39.727 35.853V52l6.955-5.769z"/>
         <path fill="#5db54e" d="m24.273 12-6.967 5.78 6.967 10.629z"/>
     </g>

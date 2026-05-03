@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <defs>
-        <radialGradient id="c" cx="29.445" cy="36.814" r="20" gradientTransform="matrix(0 2.1498 -2.10009 0 97.676 -11.273)" gradientUnits="userSpaceOnUse">
+        <radialGradient id="b" cx="29.445" cy="36.814" r="20" gradientTransform="matrix(0 2.1498 -2.10009 0 97.676 -11.273)" gradientUnits="userSpaceOnUse">
             <stop offset="0" style="stop-color:#09f"/>
             <stop offset=".6" style="stop-color:#a033ff"/>
             <stop offset=".93" style="stop-color:#ff5280"/>
@@ -12,6 +12,6 @@
         </linearGradient>
     </defs>
     <rect width="56" height="56" x="4" y="4" rx="12" style="stroke-width:1;fill:url(#a)"/>
-    <path d="M32 12c-11.265 0-20 8.254-20 19.398 0 5.83 2.39 10.87 6.28 14.349.325.29.525.7.535 1.14l.11 3.56a1.6 1.6 0 0 0 2.245 1.414l3.97-1.75c.335-.15.715-.174 1.07-.08 1.825.5 3.765.77 5.79.77 11.265 0 20-8.254 20-19.398S43.265 12 32 12" style="stroke-width:.0499978;fill:url(#c);fill-opacity:.9"/>
+    <path d="M32 12c-11.265 0-20 8.254-20 19.398 0 5.83 2.39 10.87 6.28 14.349.325.29.525.7.535 1.14l.11 3.56a1.6 1.6 0 0 0 2.245 1.414l3.97-1.75c.335-.15.715-.174 1.07-.08 1.825.5 3.765.77 5.79.77 11.265 0 20-8.254 20-19.398S43.265 12 32 12" style="stroke-width:.0499978;fill:url(#b);fill-opacity:.9"/>
     <path d="m20.153 36.658 5.795-8.555c.922-1.363 2.894-1.698 4.28-.734l4.611 3.217a1.255 1.255 0 0 0 1.426-.004l6.223-4.397c.829-.587 1.914.34 1.361 1.161l-5.8 8.55c-.921 1.363-2.894 1.698-4.28.734l-4.611-3.217a1.255 1.255 0 0 0-1.425.005l-6.224 4.396c-.828.588-1.913-.335-1.356-1.156" style="fill:#fff;stroke-width:.0475742"/>
 </svg>

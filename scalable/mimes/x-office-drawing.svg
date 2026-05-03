@@ -1,4 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-    <rect width="48" height="56" x="8" y="4" fill="#673ab7" rx="6"/>
-    <path fill="#f3f4f6" fill-rule="evenodd" d="M47 21 17 43h6v-2h2v2h2v-2h2v2h2v-2h2v2h2v-2h2v2h2v-2h2v2h2v-2h2v2h2m-2-18.449v12.45H29"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fcd34d"/>
+            <stop offset="1" style="stop-color:#f59e0b"/>
+        </linearGradient>
+    </defs>
+    <rect width="48" height="56" x="8" y="4" rx="6" ry="6" style="stroke-width:1;fill:url(#a)"/>
+    <g transform="translate(0 -8)">
+        <path d="M36 32c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V34c0-1.108-.892-2-2-2zm0 2h10v10H36z" style="fill:#fff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+        <circle cx="24" cy="36" r="8" style="fill:#fff;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round"/>
+        <path d="M30 36a1 1 0 0 0-.824.434l-9 14A1 1 0 0 0 21 52h18a1 1 0 0 0 .824-1.566l-9-14A1 1 0 0 0 30 36" style="color:#000;fill:#fde9b6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+    </g>
 </svg>

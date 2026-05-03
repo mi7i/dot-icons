@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
     <defs>
-        <circle id="hot" id="a" cx="12" cy="12" r="8.875"/>
+        <circle id="a" cx="12" cy="12" r="8.875"/>
         <mask id="b" class="anim" maskUnits="userSpaceOnUse">
             <path fill="#fff" d="M10 4v8h2V4z"/>
             <path fill="#fff" d="m8.773 4.411 1.252 7.902L12 12l-1.251-7.902z"/>
@@ -40,13 +40,13 @@
             <path fill="#0e0e0e" d="m16.243 4.929-5.657 5.657L12 12l5.657-5.657z"/>
             <path fill="#070707" d="m15.084 4.352-4.702 6.472L12 12l4.702-6.472z"/>
             <path d="m13.85 3.964-3.632 7.128L12 12l3.632-7.128z"/>
-            <circle id="hot" cx="12" cy="6.25" r="1.25" style="fill:#fff"/>
-            <circle id="hot" cx="12" cy="12" r="4.5"/>
+            <circle cx="12" cy="6.25" r="1.25" style="fill:#fff"/>
+            <circle cx="12" cy="12" r="4.5"/>
         </mask>
     </defs>
     <use xlink:href="#a" x="1" y="1" style="opacity:.2;fill:none;stroke:#009;stroke-width:2;stroke-linejoin:round"/>
     <use xlink:href="#a" style="fill:#000;stroke:#000;stroke-width:2;stroke-linejoin:round;stroke-opacity:.8"/>
     <use xlink:href="#a" style="fill:#fff"/>
-    <circle id="hot" cx="12" cy="12" r="7" mask="url(#b)" style="fill:#000"/>
+    <circle cx="12" cy="12" r="7" mask="url(#b)" style="fill:#000"/>
     <circle id="hot" cx="12" cy="12" r="1" style="fill:red"/>
 </svg>

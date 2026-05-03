@@ -1,12 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <defs>
-        <linearGradient id="a" x1="10.144" x2="10.144" y1=".9" y2="15.196" gradientTransform="translate(0 .032)scale(3.7795)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#1fe0aa"/>
-            <stop offset="1" stop-color="#029499"/>
+        <linearGradient id="a" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#34d399"/>
+            <stop offset="1" stop-color="#059669"/>
         </linearGradient>
-        <filter id="b" width="1.285" height="1.303" x="-.143" y="-.152" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.378"/>
-        </filter>
     </defs>
     <rect width="56" height="56" x="4" y="4" fill="url(#a)" rx="12"/>
     <path d="m24.598 14.179-5.195 3 4.715 8.164A11 11 0 0 0 21.427 30H12v6h9.42a11 11 0 0 0 2.692 4.666l-4.71 8.155 5.196 3 4.717-8.168A11 11 0 0 0 32 44a11 11 0 0 0 2.69-.343l4.713 8.164 5.195-3-4.715-8.164A11 11 0 0 0 42.573 36H52v-6h-9.42a11 11 0 0 0-2.691-4.666l4.709-8.154-5.195-3-4.717 8.168A11 11 0 0 0 32 21.999a11 11 0 0 0-2.69.344zM32 25.999a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7" filter="url(#b)" opacity=".2"/>

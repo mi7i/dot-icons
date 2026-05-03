@@ -7,5 +7,5 @@
         <linearGradient id="b" x1="11.5" x2="22" y1="14" y2="21" gradientTransform="matrix(2 0 0 2 2 -3)" gradientUnits="userSpaceOnUse" href="#a"/>
     </defs>
     <rect width="48" height="56" x="8" y="4" fill="#f3f4f6" rx="6" style="stroke-width:1"/>
-    <path d="M24.999 25c-5.388.001-8.755 5.835-6.06 10.501s9.431 4.665 12.124-.002c.446-.772.74-1.621.866-2.503l.07.004h6v4c0 1.108.892 2 2 2s2-.892 2-2v-4h2c1.108 0 2-.892 2-2s-.892-2-2-2H31.323a7 7 0 0 0-6.324-4m0 4c2.31 0 3.753 2.5 2.598 4.5a3 3 0 0 1-2.598 1.5c-2.309 0-3.752-2.5-2.598-4.5a3 3 0 0 1 2.598-1.5" style="fill:url(#b);fill-opacity:1;stroke-width:4.66666;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M24.999 25c-5.388.001-8.755 5.835-6.06 10.501s9.431 4.665 12.124-.002c.446-.772.74-1.621.866-2.503l.07.004h6v4c0 1.108.892 2 2 2s2-.892 2-2v-4h2c1.108 0 2-.892 2-2s-.892-2-2-2H31.323a7 7 0 0 0-6.324-4m0 4c2.31 0 3.753 2.5 2.598 4.5a3 3 0 0 1-2.598 1.5c-2.309 0-3.752-2.5-2.598-4.5a3 3 0 0 1 2.598-1.5" style="fill:url(#b);fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
 </svg>

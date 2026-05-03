@@ -1,4 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-    <rect width="48" height="56" x="8" y="4" fill="#0d9488" rx="6"/>
-    <path fill="#f3f4f6" fill-rule="evenodd" d="M18 21c-.554 0-1 .446-1 1v20c0 .554.446 1 1 1h28c.554 0 1-.446 1-1V22c0-.554-.446-1-1-1zm20 1a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1m3 0a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1m3 0a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1m-26 3h6v17h-6zm7 0h21v17H25z" style="paint-order:fill markers stroke"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#60a5fa"/>
+            <stop offset="1" style="stop-color:#3b82f6"/>
+        </linearGradient>
+    </defs>
+    <rect width="48" height="56" x="8" y="4" rx="6" ry="6" style="fill:url(#a)"/>
+    <path d="M16 4h32c4.415 0 8 3.585 8 8v40c0 4.415-3.585 8-8 8H16c-4.415 0-8-3.585-8-8V12c0-4.415 3.585-8 8-8" style="stroke:none;fill:#0d9488;stroke-miterlimit:10"/>
+    <path d="M16 4h32c4.415 0 8 3.585 8 8v40c0 4.415-3.585 8-8 8H16c-4.415 0-8-3.585-8-8V12c0-4.415 3.585-8 8-8" style="stroke:none;fill:url(#a);stroke-miterlimit:10"/>
+    <path fill="#f3f4f6" d="M21 42.001h22a1 1 0 0 0 1-1V22.999a1 1 0 0 0-1-1H21a1 1 0 0 0-1 1v18.002a1 1 0 0 0 1 1m.999-17.999h3.999v3.999h-3.999zm5.998 0h14v3.999h-14zm-5.998 5.999h3.999v3.998h-3.999zm5.998 0h14v3.998h-14zm-5.998 6.002h3.999v3.998h-3.999zm5.998 0h14v3.998h-14z"/>
 </svg>

@@ -3,6 +3,9 @@
         <clipPath id="e">
             <path d="M0 0h64v64H0z"/>
         </clipPath>
+        <clipPath id="g">
+            <path d="M0 0h64v64H0z"/>
+        </clipPath>
         <clipPath id="i">
             <path d="M0 0h64v64H0z"/>
         </clipPath>
@@ -12,13 +15,10 @@
         <clipPath id="m">
             <path d="M0 0h64v64H0z"/>
         </clipPath>
-        <clipPath id="o">
-            <path d="M0 0h64v64H0z"/>
-        </clipPath>
         <clipPath id="d">
             <path d="M0 0h64v64H0z"/>
         </clipPath>
-        <clipPath id="r">
+        <clipPath id="p">
             <path d="M0 0h64v64H0z"/>
         </clipPath>
         <mask id="c">
@@ -27,6 +27,11 @@
             </g>
         </mask>
         <mask id="f">
+            <g filter="url(#a)">
+                <path fill-opacity=".75" d="M-14.08-14.08h92.16v92.16h-92.16z"/>
+            </g>
+        </mask>
+        <mask id="h">
             <g filter="url(#a)">
                 <path fill-opacity=".75" d="M-14.08-14.08h92.16v92.16h-92.16z"/>
             </g>
@@ -46,17 +51,12 @@
                 <path fill-opacity=".75" d="M-14.08-14.08h92.16v92.16h-92.16z"/>
             </g>
         </mask>
-        <mask id="p">
-            <g filter="url(#a)">
-                <path fill-opacity=".75" d="M-14.08-14.08h92.16v92.16h-92.16z"/>
-            </g>
-        </mask>
-        <mask id="q">
+        <mask id="o">
             <g filter="url(#a)">
                 <path fill-opacity=".1" d="M-6.4-6.4h76.8v76.8H-6.4z"/>
             </g>
         </mask>
-        <linearGradient id="t" x1="8.477" x2="8.477" y1="13.677" y2="3.478" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+        <linearGradient id="q" x1="8.477" x2="8.477" y1="13.677" y2="3.478" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#333"/>
             <stop offset="1" stop-color="#5c5c5c"/>
         </linearGradient>
@@ -74,24 +74,24 @@
             <g clip-path="url(#e)" mask="url(#f)">
                 <path d="M9 16.121h46v.496H9Zm0 0"/>
             </g>
-            <g clip-path="url(#i)" mask="url(#j)">
+            <g clip-path="url(#g)" mask="url(#h)">
                 <path d="M9 24h46v.5H9Zm0 0"/>
             </g>
-            <g clip-path="url(#k)" mask="url(#l)">
+            <g clip-path="url(#i)" mask="url(#j)">
                 <path d="M9 32h46v.5H9Zm0 0"/>
             </g>
-            <g clip-path="url(#m)" mask="url(#n)">
+            <g clip-path="url(#k)" mask="url(#l)">
                 <path d="M9 39h46v.5H9Zm0 0"/>
             </g>
-            <g clip-path="url(#o)" mask="url(#p)">
+            <g clip-path="url(#m)" mask="url(#n)">
                 <path d="M9 47.004h46v.5H9Zm0 0"/>
             </g>
         </g>
     </g>
-    <g mask="url(#q)" transform="translate(4.174 3.294)scale(.86957)">
-        <g clip-path="url(#r)">
+    <g mask="url(#o)" transform="translate(4.174 3.294)scale(.86957)">
+        <g clip-path="url(#p)">
             <path d="M29.531 34.469H42.06v1.656H29.53Zm-17-21.637h8.242v1.547h-8.242Zm2.535 6.637h11.782v1.808H15.066Zm13.813.027H40.25v1.977H28.879Zm-14.094 7.246h5.52v1.903h-5.52Zm7.531.149h6.145v1.754h-6.145Zm-7.25 7.332H26.75v1.78H15.066Zm-3.082 7.156h4.157v2.402h-4.157Zm28.403 8.344h4.242v4.172h-4.242Zm5.39 2.64h5.317v1.66h-5.317Zm0 0"/>
         </g>
     </g>
-    <path fill="url(#t)" d="M48 12H16.004L15 28h3.004c.398-2.766.824-5.473 1.453-7.246C20.945 16.71 22.109 16.09 26 16.09c1.89 0 3 .613 3 1.996v27.426C29 47.836 29 48 24.672 48h-1.668v4H41v-4h-1.672C34.75 48 35 47.836 35 45.508V18.09c0-1.383 1.11-1.996 3-1.996 3.492 0 4.77.398 6.2 3.722.859 2.047 1.343 5.028 1.8 8.188h3Zm0 0" transform="translate(4.174 3.294)scale(.86957)"/>
+    <path fill="url(#q)" d="M48 12H16.004L15 28h3.004c.398-2.766.824-5.473 1.453-7.246C20.945 16.71 22.109 16.09 26 16.09c1.89 0 3 .613 3 1.996v27.426C29 47.836 29 48 24.672 48h-1.668v4H41v-4h-1.672C34.75 48 35 47.836 35 45.508V18.09c0-1.383 1.11-1.996 3-1.996 3.492 0 4.77.398 6.2 3.722.859 2.047 1.343 5.028 1.8 8.188h3Zm0 0" transform="translate(4.174 3.294)scale(.86957)"/>
 </svg>

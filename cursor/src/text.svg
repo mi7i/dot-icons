@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
     <rect width="2" height="18" x="5" y="5" rx="1" ry="1" style="paint-order:stroke;stroke-linejoin:round;stroke-linecap:round;stroke-width:2;fill:none;stroke:#009;stroke-opacity:.2"/>
     <rect width="2" height="18" x="3.983" y="4" rx="1" ry="1" style="paint-order:stroke;stroke-linejoin:round;stroke-linecap:round;stroke-opacity:.8;stroke:#000;fill:#fff;stroke-width:2"/>
-    <circle id="hot" cx="4.983" cy="13" r="1" style="fill:red;stroke-width:1">
-        <title>hot</title>
-    </circle id="hot">
+    <circle id="hot" cx="4.983" cy="13" r="1" style="fill:red;stroke-width:1"/>
 </svg>

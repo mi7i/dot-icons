@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" style="isolation:isolate" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#f3f4f6"/>
+            <stop offset="1" style="stop-color:#e5e7eb"/>
+        </linearGradient>
+        <linearGradient id="b" x1="24.482" x2="24.482" y1="3.95" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-opacity:.8;stop-color:#f43f5e"/>
+            <stop offset="1" style="stop-color:#be185d"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="stroke-width:1;fill:url(#a)"/>
+    <path fill-rule="evenodd" d="M4 28.759c-.016.127-.02.255-.035.383 6.055-5.346 23.706-21.117 26.36-23.453C22.294 18.117 12.031 33.564 4 46l-.005 1.935c-.016 6.623 5.347 12 11.97 12q13.063 0 14.035.065.077-16.099 15-56-16.417-.1-17 0" style="fill:url(#b)"/>
+</svg>

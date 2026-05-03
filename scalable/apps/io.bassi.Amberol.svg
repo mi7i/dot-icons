@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-    <defs>
-        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(0 55.5659 55.5659 0 31.752 3.969)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#38c4f2"/>
-            <stop offset="1" stop-color="#1872f6"/>
-        </linearGradient>
-        <linearGradient id="b" x1="31.752" x2="31.752" y1="11.906" y2="51.598" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#fff"/>
-            <stop offset="1" style="stop-color:#fff;stop-opacity:.9"/>
-        </linearGradient>
-    </defs>
-    <path fill="url(#a)" fill-rule="evenodd" d="M59.535 47.629V15.875c0-6.57-5.336-11.906-11.906-11.906H15.875c-6.57 0-11.906 5.336-11.906 11.906v31.754c0 6.57 5.336 11.906 11.906 11.906h31.754c6.57 0 11.906-5.336 11.906-11.906"/>
-    <path d="M31.754 11.906c-10.961 0-19.848 8.887-19.848 19.848 0 10.957 8.887 19.844 19.848 19.844 10.957 0 19.844-8.887 19.844-19.844 0-10.961-8.887-19.848-19.844-19.848m-6.09 9.926a1.84 1.84 0 0 1 .98.238l14.032 7.938c1.332.75 1.332 2.734 0 3.488L26.645 41.43c-1.274.718-2.829-.239-2.832-1.742V23.812c.003-1.125.875-1.945 1.851-1.98" style="fill:url(#b)"/>
-</svg>
+org.kde.dragonplayer.svg

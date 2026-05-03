@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#f87171"/>
+            <stop offset="1" style="stop-color:#dc2626"/>
+        </linearGradient>
+    </defs>
+    <rect width="48" height="56" x="8" y="4" rx="6" ry="6" style="stroke-width:1;fill:url(#a)"/>
+    <g transform="translate(-3 -8)">
+        <ellipse cx="35" cy="28" rx="12" ry="4" style="opacity:.25;fill:#fff;fill-opacity:1;stroke-width:5.05975;stroke-linejoin:round"/>
+        <path d="M23 28v8c0 2.21 5.373 4 12 4s12-1.79 12-4v-7.996c0 2.209-5.373 4-12 4s-12-1.791-12-4z" style="opacity:.5;fill:#fff;fill-opacity:1;stroke-width:5.05975;stroke-linejoin:round"/>
+        <path d="M23 36v8c0 2.209 5.373 4 12 4s12-1.791 12-4v-7.996c0 2.21-5.373 4-12 4s-12-1.79-12-4z" style="opacity:.7;fill:#fff;fill-opacity:1;stroke-width:5.05975;stroke-linejoin:round"/>
+        <path d="M23 44v8c0 2.21 5.373 4 12 4s12-1.79 12-4v-7.995c0 2.208-5.373 4-12 4s-12-1.792-12-4z" style="opacity:.9;fill:#fff;fill-opacity:1;stroke-width:5.05975;stroke-linejoin:round"/>
+    </g>
+</svg>

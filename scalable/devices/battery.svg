@@ -6,7 +6,7 @@
         </linearGradient>
     </defs>
     <rect width="56" height="56" x="4" y="4" ry="12" style="stroke-width:2;fill:url(#a)"/>
-    <path d="M44.004 16.952v30.855c0 .021-.013.037-.021.054q.01.07.013.139c0 2.209-5.373 4-12 4s-12-1.791-12-4q.008-.077.024-.154c-.005-.014-.016-.024-.016-.039V16.952z" style="fill:#6b7280;fill-opacity:.2"/>
+    <path d="M44.004 16.952v30.855c0 .021-.013.037-.021.054q.01.07.013.139c0 2.209-5.373 4-12 4s-12-1.791-12-4q.008-.077.024-.154c-.005-.014-.016-.024-.016-.039V16.952z" style="fill:#71717a;fill-opacity:.2"/>
     <linearGradient id="b" x1=".006" x2="1.006" y1=".496" y2=".496" gradientTransform="matrix(24 0 0 6 20 14)" gradientUnits="userSpaceOnUse">
         <stop offset="0" style="stop-color:#6f6f6f"/>
         <stop offset="1" style="stop-color:#969596"/>

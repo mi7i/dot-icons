@@ -5,9 +5,9 @@
             <stop offset="0" style="stop-color:#4d4d4d;stop-opacity:1"/>
             <stop offset="1" style="stop-color:#f3f3f3;stop-opacity:1"/>
         </linearGradient>
-        <linearGradient id="d" x1="10.958" x2="5.314" y1="12.674" y2="7.06" gradientTransform="matrix(3.5 0 0 3.5 4 5)" gradientUnits="userSpaceOnUse" href="#a"/>
+        <linearGradient id="c" x1="10.958" x2="5.314" y1="12.674" y2="7.06" gradientTransform="matrix(3.5 0 0 3.5 4 5)" gradientUnits="userSpaceOnUse" href="#a"/>
     </defs>
     <rect width="48" height="56" x="8" y="4" fill="#f3f4f6" rx="6" style="stroke-width:1"/>
     <path d="M31.976 46.842c6.195 8.445 12.257-2.357 12.248-8.852-.01-7.68-7.794-11.973-12.253-11.973C24.815 26.017 18 31.932 18 40.024 18 49.018 25.812 54 31.971 54c-1.394-.2-6.038-1.196-6.1-11.894-.043-7.236 2.36-10.127 6.09-8.855.084.032 4.115 1.621 4.115 6.816 0 5.173-4.1 6.775-4.1 6.775" style="color:#000;display:inline;overflow:visible;visibility:visible;fill:url(#b);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.75;marker:none" transform="translate(0 -8)"/>
-    <path d="M31.969 33.245c-4.093-1.41-9.108 1.963-9.108 8.72C22.861 53 31.038 54 32.03 54 39.185 54 46 48.086 46 39.994c0-8.995-7.812-13.977-13.971-13.977 1.706-.236 9.194 1.847 9.194 12.082 0 6.675-5.591 10.308-9.228 8.756-.084-.032-4.115-1.622-4.115-6.817 0-5.173 4.089-6.793 4.089-6.793" style="color:#000;display:inline;overflow:visible;visibility:visible;fill:url(#d);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.75;marker:none" transform="translate(0 -8)"/>
+    <path d="M31.969 33.245c-4.093-1.41-9.108 1.963-9.108 8.72C22.861 53 31.038 54 32.03 54 39.185 54 46 48.086 46 39.994c0-8.995-7.812-13.977-13.971-13.977 1.706-.236 9.194 1.847 9.194 12.082 0 6.675-5.591 10.308-9.228 8.756-.084-.032-4.115-1.622-4.115-6.817 0-5.173 4.089-6.793 4.089-6.793" style="color:#000;display:inline;overflow:visible;visibility:visible;fill:url(#c);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.75;marker:none" transform="translate(0 -8)"/>
 </svg>

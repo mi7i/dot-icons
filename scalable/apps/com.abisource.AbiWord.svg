@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <defs>
-        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse" href="#a"/>
         <linearGradient id="a">
-            <stop offset="0" style="stop-color:#5792d8"/>
-            <stop offset="1" style="stop-color:#a2d2f9"/>
+            <stop offset="0" style="stop-color:#0091f9"/>
+            <stop offset="1" style="stop-color:#41bbff"/>
+        </linearGradient>
+        <linearGradient id="c" x1="32" x2="32" y1="12" y2="49.999" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fff"/>
+            <stop offset="1" style="stop-color:#fff;stop-opacity:.9"/>
         </linearGradient>
     </defs>
-    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
-    <path d="M40.849 37.852c-6.661 3.308-13.517 6.412-20.794 8.066-2.346-.012-1.189-3.08-.81-4.47 1.82-5.905 4.642-11.434 7.325-16.978 1.063-1.752 1.816-4.166 3.959-4.84 2.08-.232 3.448 1.79 4.526 3.264 4.407 6.78 8.569 13.737 12.219 20.956A421 421 0 0 1 50 49.518c-2.664-10.924-6.252-21.762-12.034-31.46-1.296-1.914-2.476-3.992-4.224-5.533-1.704-1.314-3.8.101-5.06 1.374-3.958 3.986-6.368 9.188-8.73 14.211-2.755 5.945-4.562 12.281-5.89 18.682-.464 2.156 1.743 3.72 3.705 3.051 5.433-1.135 10.54-3.516 15.345-6.248 2.77-1.634 5.433-3.489 7.738-5.744z" style="fill:#fff;stroke-width:2"/>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="stroke-width:2;fill:url(#b)"/>
+    <path d="M40.849 37.852c-6.661 3.308-13.517 6.412-20.794 8.066-2.346-.012-1.189-3.08-.81-4.47 1.82-5.905 4.642-11.434 7.325-16.978 1.063-1.752 1.816-4.166 3.959-4.84 2.08-.232 3.448 1.79 4.526 3.264 4.407 6.78 8.569 13.737 12.219 20.956A421 421 0 0 1 50 49.518c-2.664-10.924-6.252-21.762-12.034-31.46-1.296-1.914-2.476-3.992-4.224-5.533-1.704-1.314-3.8.101-5.06 1.374-3.958 3.986-6.368 9.188-8.73 14.211-2.755 5.945-4.562 12.281-5.89 18.682-.464 2.156 1.743 3.72 3.705 3.051 5.433-1.135 10.54-3.516 15.345-6.248 2.77-1.634 5.433-3.489 7.738-5.744z" style="stroke-width:2;fill:url(#c)"/>
 </svg>

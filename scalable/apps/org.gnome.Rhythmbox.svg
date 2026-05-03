@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round" viewBox="0 0 64 64">
     <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4" style="fill:#343a40"/>
     <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4" style="fill:#7c6d67"/>
     <path d="M16 4h32c6.623 0 12 5.377 12 12v32c0 6.623-5.377 12-12 12H16C9.377 60 4 54.623 4 48V16C4 9.377 9.377 4 16 4" style="fill:url(#a)"/>
@@ -9,8 +9,8 @@
     <circle cx="32" cy="32" r="6.667" opacity=".9" style="fill:url(#e)"/>
     <defs>
         <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(-.56 56.168 -56.168 -.56 32 4)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#fff;stop-opacity:.1"/>
-            <stop offset="1" style="stop-color:#000;stop-opacity:.1"/>
+            <stop offset="0" style="stop-color:#fff;stop-opacity:.2"/>
+            <stop offset="1" style="stop-color:#000;stop-opacity:.2"/>
         </linearGradient>
         <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(-90 42.12 9.8)scale(40)" gradientUnits="userSpaceOnUse">
             <stop offset="0" style="stop-color:#4c4c4c"/>

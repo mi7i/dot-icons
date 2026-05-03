@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <defs>
-        <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 13.892 17.86)scale(55.5659)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#ffde75"/>
-            <stop offset="1" stop-color="#ffb251"/>
+        <linearGradient id="a" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fcd34d"/>
+            <stop offset="1" style="stop-color:#f59e0b"/>
         </linearGradient>
     </defs>
-    <path fill="url(#a)" fill-rule="evenodd" d="M59.535 47.629V15.875c0-6.57-5.336-11.906-11.906-11.906H15.875c-6.57 0-11.906 5.336-11.906 11.906v31.754c0 6.57 5.336 11.906 11.906 11.906h31.754c6.57 0 11.906-5.336 11.906-11.906"/>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#a)"/>
     <path fill="#fff" d="M31.68 12.75a1.99 1.99 0 0 0-1.778 1.117l-5 10.266-11.312 1.699a1.985 1.985 0 0 0-1.086 3.383l8.219 7.945-1.883 11.278q-.029.162-.027.332a1.99 1.99 0 0 0 1.984 1.984c.328 0 .652-.082.941-.238l10.09-5.368 10.14 5.282c.282.144.598.222.915.222a1.995 1.995 0 0 0 1.957-2.324l-1.985-11.27 8.149-8.007a2 2 0 0 0 .594-1.414 1.99 1.99 0 0 0-1.703-1.965l-11.329-1.598-5.093-10.23a1.99 1.99 0 0 0-1.793-1.094"/>
 </svg>

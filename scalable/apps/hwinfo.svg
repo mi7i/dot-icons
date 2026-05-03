@@ -1,1 +1,14 @@
-org.gnome.Firmware.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#0091f9"/>
+            <stop offset="1" style="stop-color:#41bbff"/>
+        </linearGradient>
+        <linearGradient id="b" x1="31.892" x2="31.892" y1="16.711" y2="46.529" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#eee"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" fill="url(#a)" rx="12"/>
+    <path fill="url(#b)" d="M32 13.992a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4M27.002 26v3.002h2.996v16h-2.996v3H38v-3h-3V26z"/>
+</svg>

@@ -1,16 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <defs>
-        <linearGradient id="a">
-            <stop offset="0" style="stop-color:#10b981"/>
-            <stop offset="1" style="stop-color:#6ee7b7"/>
+        <linearGradient id="a" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#3fe366"/>
+            <stop offset="1" stop-color="#15a368"/>
         </linearGradient>
-        <linearGradient id="b" x1="32" x2="32" y1="4" y2="60" gradientTransform="matrix(-.9997 -.02484 0 -1 63.99 64.795)" gradientUnits="userSpaceOnUse" href="#a"/>
-        <linearGradient id="c" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#facc15"/>
-            <stop offset="1" style="stop-color:#fef08a;stop-opacity:0"/>
+        <linearGradient id="b" x1="32" x2="32" y1="15.149" y2="48.851" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#fff"/>
+            <stop offset="1" style="stop-color:#fff;stop-opacity:.9"/>
         </linearGradient>
     </defs>
-    <rect width="56" height="56" x="4" y="4" rx="12" ry="12" style="fill:url(#b)"/>
-    <rect width="56" height="56" x="4" y="4" rx="12" ry="12" style="stroke-width:1;fill-opacity:.2;fill:url(#c)"/>
-    <path fill="#fff" d="M48.619 46.297a2.577 2.577 0 0 1-2.596 2.554l-28.32-.232a2.577 2.577 0 0 1-2.554-2.596l.107-13.081 11.911.097-.019 2.373a1.29 1.29 0 0 0 1.277 1.298l6.839.057c.71.004 1.29-.568 1.298-1.278l.019-2.373 12.145.1zm-2.322-30.916a2.577 2.577 0 0 1 2.554 2.596l-.108 13.147-12.145-.099.02-2.374a1.29 1.29 0 0 0-1.277-1.298l-6.838-.056a1.29 1.29 0 0 0-1.299 1.277l-.019 2.373-11.912-.097.108-13.148a2.576 2.576 0 0 1 2.596-2.553z" style="transform-origin:32px 32px"/>
+    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#a);stroke-width:2"/>
+    <path d="M48.619 46.297a2.577 2.577 0 0 1-2.596 2.554l-28.32-.232a2.577 2.577 0 0 1-2.554-2.596l.107-13.081 11.911.097-.019 2.373a1.29 1.29 0 0 0 1.277 1.298l6.839.057c.71.004 1.29-.568 1.298-1.278l.019-2.373 12.145.1zm-2.322-30.916a2.577 2.577 0 0 1 2.554 2.596l-.108 13.147-12.145-.099.02-2.374a1.29 1.29 0 0 0-1.277-1.298l-6.838-.056a1.29 1.29 0 0 0-1.299 1.277l-.019 2.373-11.912-.097.108-13.148a2.576 2.576 0 0 1 2.596-2.553z" style="transform-origin:32px 32px;fill:url(#b)"/>
 </svg>

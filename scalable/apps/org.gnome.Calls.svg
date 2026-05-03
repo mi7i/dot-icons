@@ -1,12 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <defs>
-        <linearGradient xlink:href="#a" id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse"/>
-        <linearGradient id="a">
-            <stop offset="0" style="stop-color:#1ccd6b"/>
-            <stop offset="1" style="stop-color:#8be65c"/>
+        <linearGradient id="a" x1="32" x2="32" y1="4" y2="60" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#34d399"/>
+            <stop offset="1" stop-color="#059669"/>
         </linearGradient>
     </defs>
-    <rect width="56" height="56" x="4" y="4" rx="12" style="fill:url(#b);stroke-width:2"/>
-    <path d="M19.836 13.879c-.511 0-1.022.194-1.414.586l-2.828 2.828 1.777 6.082 6.711 2.402 2.828-2.828a1.995 1.995 0 0 0 0-2.828l-5.66-5.656a2 2 0 0 0-1.414-.586m22.629 22.625c-.511 0-1.022.194-1.414.586l-2.828 2.828L40 46l6.71 2.402 2.83-2.828a1.995 1.995 0 0 0 0-2.828l-5.661-5.656a2 2 0 0 0-1.414-.586" style="opacity:.5;fill:#fff;stroke-width:2"/>
-    <path d="M15.598 17.29c-3.134 3.133-1.873 9.443 2.828 14.144l14.14 14.14c4.701 4.701 11.011 5.962 14.145 2.828l-8.488-8.484a1.995 1.995 0 0 1-2.828 0L24.082 28.605a1.995 1.995 0 0 1 0-2.828z" style="fill:#fff;stroke-width:2"/>
+    <rect width="56" height="56" x="4" y="4" fill="url(#a)" rx="12" style="stroke-width:1"/>
+    <path d="M19.836 13.879c-.511 0-1.022.194-1.414.586l-2.828 2.828 1.777 6.082 6.711 2.402 2.828-2.828a1.995 1.995 0 0 0 0-2.828l-5.66-5.656a2 2 0 0 0-1.414-.586m22.629 22.625c-.511 0-1.022.194-1.414.586l-2.828 2.828L40 46l6.71 2.402 2.83-2.828a1.995 1.995 0 0 0 0-2.828l-5.661-5.656a2 2 0 0 0-1.414-.586" style="opacity:.5;fill:#fff;stroke-width:2" transform="translate(-1.545 -1.545)scale(1.04822)"/>
+    <path d="M15.598 17.29c-3.134 3.133-1.873 9.443 2.828 14.144l14.14 14.14c4.701 4.701 11.011 5.962 14.145 2.828l-8.488-8.484a1.995 1.995 0 0 1-2.828 0L24.082 28.605a1.995 1.995 0 0 1 0-2.828z" style="fill:#fff;stroke-width:2" transform="translate(-1.545 -1.545)scale(1.04822)"/>
 </svg>

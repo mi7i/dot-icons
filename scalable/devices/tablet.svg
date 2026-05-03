@@ -1,18 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <defs>
-    <linearGradient id="b" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse" href="#a"/>
-    <linearGradient id="a">
-      <stop offset="0" style="stop-color:#adb2b9"/>
-      <stop offset="1" style="stop-color:#e0e2e4"/>
-    </linearGradient>
-    <linearGradient id="gradient-1" x1="16" x2="16" y1="30" y2="2" gradientTransform="matrix(2, 0, 0, 2, -0.000046, 0.000315)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" style="stop-color:#d1d5db"/>
-      <stop offset="1" style="stop-color:#e5e7eb"/>
-    </linearGradient>
-  </defs>
-  <rect width="56" height="56" x="4" y="4" rx="12" style="fill: url(&quot;#b&quot;); stroke-width: 2; visibility: hidden;"/>
-  <rect width="56" height="56" x="4" y="4" ry="12" style="stroke-width: 2; fill: url(&quot;#gradient-1&quot;);"/>
-  <rect width="40" height="36" x="12" y="13.728" rx="6" style="opacity: 1; stroke-linecap: round; stroke-linejoin: round; paint-order: stroke; fill-opacity: 1; fill: rgb(255, 255, 255);" ry="6"/>
-  <path d="M50.485 13 29.98 33.506l-.707 4.95 4.95-.707 20.506-20.506Z" style="stroke-width: 0.866026; fill-opacity: 1; fill: rgb(107, 114, 128);"/>
+    <defs>
+        <linearGradient id="a" x1="16" x2="16" y1="30" y2="2" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#d1d5db"/>
+            <stop offset="1" style="stop-color:#e5e7eb"/>
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" x="4" y="4" ry="12" style="stroke-width:2;fill:url(#a)"/>
+    <rect width="40" height="36" x="12" y="13.728" rx="6" ry="6" style="opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke;fill-opacity:1;fill:#fff"/>
+    <path d="M50.485 13 29.98 33.506l-.707 4.95 4.95-.707 20.506-20.506Z" style="stroke-width:.866026;fill-opacity:1;fill:#6b7280"/>
 </svg>

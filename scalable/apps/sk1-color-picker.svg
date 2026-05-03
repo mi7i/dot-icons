@@ -16,15 +16,15 @@
             <stop offset="0" stop-color="#4dae33"/>
             <stop offset="1" stop-color="#6fc84a"/>
         </linearGradient>
-        <linearGradient id="g" x1="4.716" x2="4.716" y1="12.46" y2="10.806" gradientTransform="translate(.032 -.025)" gradientUnits="userSpaceOnUse">
+        <linearGradient id="f" x1="4.716" x2="4.716" y1="12.46" y2="10.806" gradientTransform="translate(.032 -.025)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#8290ae"/>
             <stop offset="1" stop-color="#fff"/>
         </linearGradient>
-        <linearGradient id="h" x1="4.716" x2="4.716" y1="12.56" y2="10.806" gradientTransform="translate(1.883 4.54)scale(.60872)" gradientUnits="userSpaceOnUse">
+        <linearGradient id="g" x1="4.716" x2="4.716" y1="12.56" y2="10.806" gradientTransform="translate(1.883 4.54)scale(.60872)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#c0c6d4"/>
             <stop offset="1" stop-color="#515769"/>
         </linearGradient>
-        <linearGradient id="i" x1="4.716" x2="4.716" y1="12.56" y2="10.806" gradientTransform="translate(2.956 7.188)scale(.38175)" gradientUnits="userSpaceOnUse">
+        <linearGradient id="h" x1="4.716" x2="4.716" y1="12.56" y2="10.806" gradientTransform="translate(2.956 7.188)scale(.38175)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#2f323b"/>
             <stop offset="1" stop-color="#111419"/>
         </linearGradient>
@@ -88,9 +88,9 @@
             <path fill="#5db837" stroke="#000" d="M5.556 3.704c-.812 0-1.477.605-1.574 1.39a.26.26 0 0 0 .251.198H6.88a.26.26 0 0 0 .251-.198 1.583 1.583 0 0 0-1.574-1.39z" transform="matrix(3.50166 0 0 3.51588 1.6 1.837)"/>
         </g>
         <g transform="matrix(3.50166 0 0 3.51588 4.381 2.791)">
-            <circle cx="4.762" cy="11.641" r="1.058" fill="url(#g)"/>
-            <circle cx="4.762" cy="11.641" r=".644" fill="url(#h)"/>
-            <circle cx="4.762" cy="11.641" r=".404" fill="url(#i)"/>
+            <circle cx="4.762" cy="11.641" r="1.058" fill="url(#f)"/>
+            <circle cx="4.762" cy="11.641" r=".644" fill="url(#g)"/>
+            <circle cx="4.762" cy="11.641" r=".404" fill="url(#h)"/>
         </g>
     </g>
 </svg>
